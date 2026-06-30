@@ -1,0 +1,35 @@
+name: Nationwide provider discovery
+
+on:
+  schedule:
+    - cron: '30 10 * * 3'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    env:
+      GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Build nationwide manifest or run next batch
+        shell: bash
+        run: |
+          if [ -z "$GOOGLE_PLACES_API_KEY" ]; then
+            node scripts/nationwide-discovery.mjs --dry-run
+          else
+            node scripts/nationwide-discovery.mjs --limit-markets=12
+          fi
+      - name: Commit discovery state
+        run: |
+          git config user.name "wellstream-discovery-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add reports/nationwide-discovery-manifest.json research/nationwide-discovery-candidates.json
+          git diff --cached --quiet || git commit -m "research: nationwide provider discovery batch"
+          git push

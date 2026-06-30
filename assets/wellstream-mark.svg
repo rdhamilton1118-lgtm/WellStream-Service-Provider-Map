@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 122" role="img" aria-labelledby="title">
+  <title id="title">WellStream Solutions droplet mark</title>
+  <defs>
+    <linearGradient id="wellstream-gradient" x1="8" y1="18" x2="91" y2="104" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#16D59D"/>
+      <stop offset=".48" stop-color="#109A7E"/>
+      <stop offset="1" stop-color="#07554F"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#wellstream-gradient)" d="M50 2C43 27 10 45 10 77c0 24 17 43 40 43 24 0 41-18 41-43C91 47 60 28 50 2Zm1 99c-15 0-25-10-25-24 0-12 8-22 18-32-1 15 7 23 17 22 7-1 13-6 18-13 0 5 1 10 1 15 0 19-12 32-29 32Z"/>
+  <path fill="url(#wellstream-gradient)" d="M30 97c8 13 25 18 39 8-17 17-47 11-55-12-7-20 2-36 16-51-7 15-10 28-7 39 1 6 3 11 7 16Z" opacity=".92"/>
+</svg>

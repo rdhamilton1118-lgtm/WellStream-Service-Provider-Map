@@ -1,0 +1,268 @@
+{
+  "generatedAt": "2026-06-24T20:21:42.149Z",
+  "eligibleStrongOperationalCount": 37,
+  "promotedLocationCount": 35,
+  "skippedExistingLocationCount": 2,
+  "excludedPolicy": "Non-provider directory members and ambiguous/weak/closed/no-result matches remain staged for review.",
+  "promoted": [
+    {
+      "company": "Alliance Consulting, Inc.",
+      "address": "3 Four Coins Dr #100",
+      "city": "Canonsburg",
+      "state": "PA",
+      "category": "Consulting / Engineering / Field Services"
+    },
+    {
+      "company": "Assist Services",
+      "address": "207 Carlton Dr",
+      "city": "Eighty Four",
+      "state": "PA",
+      "category": "Oil & Gas Field Services / Industry Support"
+    },
+    {
+      "company": "B&B Oilfield Equipment Corporation",
+      "address": "8791 Gomers Ln",
+      "city": "New Alexandria",
+      "state": "PA",
+      "category": "Oilfield / Pipeline Equipment & Supply"
+    },
+    {
+      "company": "Billman Geologic Consultants, Inc.",
+      "address": "470 Spruce Ln",
+      "city": "Houston",
+      "state": "PA",
+      "category": "Geoscience / Geophysical / Geological Consulting"
+    },
+    {
+      "company": "Bj Inspections, Inc.",
+      "address": "246 Maple St",
+      "city": "Westfield",
+      "state": "PA",
+      "category": "Inspection / Integrity / Camera Services"
+    },
+    {
+      "company": "Bluewater, Inc.",
+      "address": "2335 Jefferson Ave",
+      "city": "Washington",
+      "state": "PA",
+      "category": "Environmental / Water / Chemical Services"
+    },
+    {
+      "company": "Chemstream, Inc.",
+      "address": "511 Railroad Ave",
+      "city": "Homer City",
+      "state": "PA",
+      "category": "Environmental / Water / Chemical Services"
+    },
+    {
+      "company": "Civil & Environmental Consultants, Inc.",
+      "address": "227 S Main St",
+      "city": "Athens",
+      "state": "PA",
+      "category": "Environmental / Water / Chemical Services"
+    },
+    {
+      "company": "Civil & Environmental Consultants, Inc.",
+      "address": "4350 Northern Pike Ste 141",
+      "city": "Monroeville",
+      "state": "PA",
+      "category": "Environmental / Water / Chemical Services"
+    },
+    {
+      "company": "Civil & Environmental Consultants, Inc.",
+      "address": "700 Cherrington Pkwy",
+      "city": "Moon Township",
+      "state": "PA",
+      "category": "Environmental / Water / Chemical Services"
+    },
+    {
+      "company": "Cleveland Brothers Equipment Company",
+      "address": "1307 S 2nd St",
+      "city": "Clearfield",
+      "state": "PA",
+      "category": "Oilfield / Pipeline Equipment & Supply"
+    },
+    {
+      "company": "Cleveland Brothers Equipment Company",
+      "address": "5300 Paxton St",
+      "city": "Harrisburg",
+      "state": "PA",
+      "category": "Oilfield / Pipeline Equipment & Supply"
+    },
+    {
+      "company": "Cleveland Brothers Equipment Company",
+      "address": "190 Earnhardt Dr",
+      "city": "Hunker",
+      "state": "PA",
+      "category": "Oilfield / Pipeline Equipment & Supply"
+    },
+    {
+      "company": "Cleveland Brothers Equipment Company",
+      "address": "4565 William Penn Hwy",
+      "city": "Murrysville",
+      "state": "PA",
+      "category": "Oilfield / Pipeline Equipment & Supply"
+    },
+    {
+      "company": "Douglas Pipeline Company",
+      "address": "929 Park Ave",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "category": "Pipeline Construction / Integrity / Equipment"
+    },
+    {
+      "company": "Encino Environmental Services",
+      "address": "20302 Park Row Blvd Ste 1200",
+      "city": "Katy",
+      "state": "TX",
+      "category": "Environmental / Water / Chemical Services"
+    },
+    {
+      "company": "Engineering & Inspections International",
+      "address": "12370 Jackson Run Rd",
+      "city": "Sugar Grove",
+      "state": "PA",
+      "category": "Inspection / Integrity / Camera Services"
+    },
+    {
+      "company": "Fisher Associates",
+      "address": "121 Hillpointe Dr Ste 100",
+      "city": "Canonsburg",
+      "state": "PA",
+      "category": "Consulting / Engineering / Field Services"
+    },
+    {
+      "company": "Fisherassociates",
+      "address": "55 Chicago St #200",
+      "city": "Buffalo",
+      "state": "NY",
+      "category": "Consulting / Engineering / Field Services"
+    },
+    {
+      "company": "Gai Consultants, Inc.",
+      "address": "385 E Waterfront Dr",
+      "city": "Homestead",
+      "state": "PA",
+      "category": "Consulting / Engineering / Field Services"
+    },
+    {
+      "company": "Gci Water Solutions",
+      "address": "701 East spring street, Bldg. 47",
+      "city": "Titusville",
+      "state": "PA",
+      "category": "Environmental / Water / Chemical Services"
+    },
+    {
+      "company": "Key Environmental, Inc",
+      "address": "200 3rd Ave",
+      "city": "Carnegie",
+      "state": "PA",
+      "category": "Environmental / Water / Chemical Services"
+    },
+    {
+      "company": "Kodiak Gas Services, Llc",
+      "address": "9950 Woodloch Forest Dr 19th Floor",
+      "city": "The Woodlands",
+      "state": "TX",
+      "category": "Gas Compression / Production Services"
+    },
+    {
+      "company": "Moody And Associates, Inc.",
+      "address": "101 N Main St Ste 3",
+      "city": "Athens",
+      "state": "PA",
+      "category": "Consulting / Engineering / Field Services"
+    },
+    {
+      "company": "Moody And Associates, Inc.",
+      "address": "2402 W 8th St",
+      "city": "Erie",
+      "state": "PA",
+      "category": "Consulting / Engineering / Field Services"
+    },
+    {
+      "company": "Moody And Associates, Inc.",
+      "address": "1720 Washington Rd Suite 100",
+      "city": "Washington",
+      "state": "PA",
+      "category": "Consulting / Engineering / Field Services"
+    },
+    {
+      "company": "Northrup Equipment Company",
+      "address": "220 5th St",
+      "city": "Beverly",
+      "state": "OH",
+      "category": "Oilfield / Pipeline Equipment & Supply"
+    },
+    {
+      "company": "Penneco Environmental Solutions, Llc",
+      "address": "6608 US-22 #301",
+      "city": "Delmont",
+      "state": "PA",
+      "category": "Environmental / Water / Chemical Services"
+    },
+    {
+      "company": "Precision Geophysical, Inc.",
+      "address": "2695 OH-83",
+      "city": "Millersburg",
+      "state": "OH",
+      "category": "Geoscience / Geophysical / Geological Consulting"
+    },
+    {
+      "company": "Precision Pipeline Equipment, Inc.",
+      "address": "253 Walnut St",
+      "city": "Houston",
+      "state": "PA",
+      "category": "Pipeline Construction / Integrity / Equipment"
+    },
+    {
+      "company": "Se Technologies, Llc",
+      "address": "500 Mosites Wy",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "category": "Consulting / Engineering / Field Services"
+    },
+    {
+      "company": "Tank Services",
+      "address": "4412 Pleasant Valley Rd SE",
+      "city": "Dennison",
+      "state": "OH",
+      "category": "Tank Fabrication / Field Equipment"
+    },
+    {
+      "company": "The Thrasher Group",
+      "address": "4000 Town Center Blvd Ste 140",
+      "city": "Canonsburg",
+      "state": "PA",
+      "category": "Consulting / Engineering / Field Services"
+    },
+    {
+      "company": "Vavco, Llc",
+      "address": "3 Penn Center Blvd",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "category": "Oilfield / Pipeline Equipment & Supply"
+    },
+    {
+      "company": "Waterford Tank & Fabrication, Ltd",
+      "address": "203 OH-83",
+      "city": "Beverly",
+      "state": "OH",
+      "category": "Environmental / Water / Chemical Services"
+    }
+  ],
+  "skippedExisting": [
+    {
+      "company": "Toy Pipeline Contractors, Inc.",
+      "city": "Worthington",
+      "state": "PA",
+      "existingMatch": "Toy Pipeline Contractors, Inc."
+    },
+    {
+      "company": "West Penn Energy Services, Llc",
+      "city": "Shelocta",
+      "state": "PA",
+      "existingMatch": "West Penn Energy Services"
+    }
+  ]
+}

@@ -1,0 +1,643 @@
+{
+  "generatedAt": "2026-06-24T17:57:11.056Z",
+  "batchSize": 50,
+  "promotedCount": 13,
+  "heldCount": 37,
+  "policy": "Only reviewed operational identity/location matches were promoted. Ambiguous and closed results remain held.",
+  "promoted": [
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|2",
+      "company": "Consolidated Pipe & Supply",
+      "prior": {
+        "address": "City-level office/camp; exact address pending",
+        "city": "Birmingham",
+        "state": "AL",
+        "phone": "Needs direct confirmation",
+        "website": "",
+        "latitude": "33.518600",
+        "longitude": "-86.810400"
+      },
+      "applied": {
+        "address": "1205 Hilltop Pkwy",
+        "city": "Birmingham",
+        "state": "AL",
+        "phone": "(205) 323-7261",
+        "website": "http://consolidatedpipe.com/",
+        "latitude": "33.5166715",
+        "longitude": "-86.858474"
+      },
+      "source": "https://maps.google.com/?cid=18023305967783386488"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|62",
+      "company": "Runyon Oilfield Services",
+      "prior": {
+        "address": "Illinois Basin lead; exact address pending",
+        "city": "Olney",
+        "state": "IL",
+        "phone": "Needs direct confirmation",
+        "website": "",
+        "latitude": "38.730900",
+        "longitude": "-88.085300"
+      },
+      "applied": {
+        "address": "331 Herman Dr",
+        "city": "Olney",
+        "state": "IL",
+        "phone": "(618) 395-5045",
+        "website": "https://runyonoiltools.com/",
+        "latitude": "38.708369",
+        "longitude": "-88.0884234"
+      },
+      "source": "https://maps.google.com/?cid=4586595769737213339"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|86",
+      "company": "JACAM Catalyst",
+      "prior": {
+        "address": "City-level office/camp; exact address pending",
+        "city": "Sterling",
+        "state": "KS",
+        "phone": "Needs direct confirmation",
+        "website": "",
+        "latitude": "38.210000",
+        "longitude": "-98.207000"
+      },
+      "applied": {
+        "address": "205 S Broadway Ave",
+        "city": "Sterling",
+        "state": "KS",
+        "phone": "(620) 278-3355",
+        "website": "",
+        "latitude": "38.2083492",
+        "longitude": "-98.20701079999999"
+      },
+      "source": "https://maps.google.com/?cid=11133723750097963030"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|143",
+      "company": "CK Power",
+      "prior": {
+        "address": "City-level office/camp; exact address pending",
+        "city": "St. Louis",
+        "state": "MO",
+        "phone": "Needs direct confirmation",
+        "website": "",
+        "latitude": "38.627000",
+        "longitude": "-90.199400"
+      },
+      "applied": {
+        "address": "1100 Research Blvd",
+        "city": "St. Louis",
+        "state": "MO",
+        "phone": "(314) 868-8620",
+        "website": "https://www.ckpower.com/",
+        "latitude": "38.6803296",
+        "longitude": "-90.3984672"
+      },
+      "source": "https://maps.google.com/?cid=6391437872772454256"
+    },
+    {
+      "key": "data/Dickinson_ND_Corridor_Discovery_V2_20.csv|2",
+      "company": "Hydro Testing - Dickinson",
+      "prior": {
+        "address": "North Dickinson industrial corridor; exact address pending",
+        "city": "Dickinson",
+        "state": "ND",
+        "phone": "Needs direct confirmation",
+        "website": "",
+        "latitude": "46.879200",
+        "longitude": "-102.789600"
+      },
+      "applied": {
+        "address": "1332 23rd St W",
+        "city": "Dickinson",
+        "state": "ND",
+        "phone": "(701) 503-4883",
+        "website": "",
+        "latitude": "46.9075133",
+        "longitude": "-102.8038707"
+      },
+      "source": "https://maps.google.com/?cid=14699155441184875625"
+    },
+    {
+      "key": "data/Dickinson_ND_Corridor_Discovery_V2_20.csv|4",
+      "company": "Pure Energy Services - Dickinson",
+      "prior": {
+        "address": "East Dickinson industrial corridor; exact address pending",
+        "city": "Dickinson",
+        "state": "ND",
+        "phone": "Needs direct confirmation",
+        "website": "",
+        "latitude": "46.879200",
+        "longitude": "-102.789600"
+      },
+      "applied": {
+        "address": "891 Implement Dr",
+        "city": "Dickinson",
+        "state": "ND",
+        "phone": "(701) 483-9185",
+        "website": "",
+        "latitude": "46.8885766",
+        "longitude": "-102.7184921"
+      },
+      "source": "https://maps.google.com/?cid=11023500295629384583"
+    },
+    {
+      "key": "data/Dickinson_ND_Corridor_Discovery_V2_20.csv|5",
+      "company": "Pathfinder Inspections - Dickinson",
+      "prior": {
+        "address": "West-central Dickinson industrial corridor; exact address pending",
+        "city": "Dickinson",
+        "state": "ND",
+        "phone": "Needs direct confirmation",
+        "website": "",
+        "latitude": "46.879200",
+        "longitude": "-102.789600"
+      },
+      "applied": {
+        "address": "2225 Villard St W",
+        "city": "Dickinson",
+        "state": "ND",
+        "phone": "(701) 483-3399",
+        "website": "http://www.pathfinderinspections.com/",
+        "latitude": "46.878231",
+        "longitude": "-102.8173065"
+      },
+      "source": "https://maps.google.com/?cid=16267350590076152"
+    },
+    {
+      "key": "data/Dickinson_ND_Corridor_Discovery_V2_20.csv|6",
+      "company": "Tower Tools West - Dickinson Pipe Yard",
+      "prior": {
+        "address": "West Dickinson 40 pipe yard area; exact address pending",
+        "city": "Dickinson",
+        "state": "ND",
+        "phone": "Needs direct confirmation",
+        "website": "",
+        "latitude": "46.879200",
+        "longitude": "-102.789600"
+      },
+      "applied": {
+        "address": "2367 Villard St W",
+        "city": "Dickinson",
+        "state": "ND",
+        "phone": "(701) 690-4896",
+        "website": "https://www.towertoolsllc.com/",
+        "latitude": "46.877705",
+        "longitude": "-102.8215429"
+      },
+      "source": "https://maps.google.com/?cid=5365295189634144904"
+    },
+    {
+      "key": "data/Dickinson_ND_Corridor_Discovery_V2_20.csv|7",
+      "company": "KLD Oilfield Services",
+      "prior": {
+        "address": "Southeast Dickinson industrial corridor; exact address pending",
+        "city": "Dickinson",
+        "state": "ND",
+        "phone": "Needs direct confirmation",
+        "website": "",
+        "latitude": "46.879200",
+        "longitude": "-102.789600"
+      },
+      "applied": {
+        "address": "688 7th Ave South East",
+        "city": "Dickinson",
+        "state": "ND",
+        "phone": "(701) 225-0099",
+        "website": "https://kldoilfield.wixsite.com/kldoilfield",
+        "latitude": "46.8648599",
+        "longitude": "-102.7784062"
+      },
+      "source": "https://maps.google.com/?cid=5344952830167358864"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|222",
+      "company": "Diamond Oil Well Drilling Company",
+      "prior": {
+        "address": "City-level office/camp; exact address pending",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "phone": "Needs direct confirmation",
+        "website": "",
+        "latitude": "35.467600",
+        "longitude": "-97.516400"
+      },
+      "applied": {
+        "address": "1545 SE 39th St",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "phone": "(405) 672-3013",
+        "website": "",
+        "latitude": "35.4256383",
+        "longitude": "-97.4838612"
+      },
+      "source": "https://maps.google.com/?cid=8822696396456469067"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|352",
+      "company": "International Oilfield Services",
+      "prior": {
+        "address": "City-level office/camp; exact address pending",
+        "city": "Houston",
+        "state": "TX",
+        "phone": "Needs direct confirmation",
+        "website": "",
+        "latitude": "29.760400",
+        "longitude": "-95.369800"
+      },
+      "applied": {
+        "address": "10901 Sheldon Rd",
+        "city": "Houston",
+        "state": "TX",
+        "phone": "(281) 456-9300",
+        "website": "",
+        "latitude": "29.87369219999999",
+        "longitude": "-95.1286667"
+      },
+      "source": "https://maps.google.com/?cid=13131941071350719480"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|401",
+      "company": "Xplorobot",
+      "prior": {
+        "address": "City-level office/camp; exact address pending",
+        "city": "Houston",
+        "state": "TX",
+        "phone": "Needs direct confirmation",
+        "website": "",
+        "latitude": "29.760400",
+        "longitude": "-95.369800"
+      },
+      "applied": {
+        "address": "333 W Loop N Fwy #130",
+        "city": "Houston",
+        "state": "TX",
+        "phone": "(415) 535-7555",
+        "website": "https://www.xplorobot.com/",
+        "latitude": "29.7723729",
+        "longitude": "-95.4566837"
+      },
+      "source": "https://maps.google.com/?cid=3663028753428712437"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|471",
+      "company": "Fairmont Tools",
+      "prior": {
+        "address": "City-level office/camp; exact address pending",
+        "city": "Fairmont",
+        "state": "WV",
+        "phone": "Needs direct confirmation",
+        "website": "",
+        "latitude": "39.485100",
+        "longitude": "-80.142600"
+      },
+      "applied": {
+        "address": "283 Vankirk Dr",
+        "city": "Fairmont",
+        "state": "WV",
+        "phone": "(304) 363-8339",
+        "website": "http://www.fairmonttool.com/",
+        "latitude": "39.4296034",
+        "longitude": "-80.2066375"
+      },
+      "source": "https://maps.google.com/?cid=727393532094832306"
+    }
+  ],
+  "held": [
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|6",
+      "company": "Hoover Compliance",
+      "suggestedName": "Hoover & Company",
+      "suggestedAddress": "1501 N Pierce St Ste 107, Little Rock, AR 72207, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 100,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|88",
+      "company": "Mid-West Power Tongs",
+      "suggestedName": "GT Midwest",
+      "suggestedAddress": "2202 S West St, Wichita, KS 67213, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|102",
+      "company": "West Kentucky Well Surveys",
+      "suggestedName": "Branson Surveys, Inc.",
+      "suggestedAddress": "330 2nd St, Henderson, KY 42420, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|126",
+      "company": "Thomas Tools",
+      "suggestedName": "Thomas Tools",
+      "suggestedAddress": "3307 W Admiral Doyle Dr, New Iberia, LA 70560, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 108,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|187",
+      "company": "Energy Fishing and Rental Services",
+      "suggestedName": "Key Fishing & Rental",
+      "suggestedAddress": "6120 N Lovington Hwy, Hobbs, NM 88240, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|223",
+      "company": "Friend Bit Service",
+      "suggestedName": "Drill Bit Service LLC",
+      "suggestedAddress": "2504 S Purdue Ave, Oklahoma City, OK 73128, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|224",
+      "company": "Greasebook",
+      "suggestedName": "Brooks Grease Services",
+      "suggestedAddress": "3131 S Byers Ave, Oklahoma City, OK 73129, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|225",
+      "company": "Great White Pressure Control",
+      "suggestedName": "Premier Pressure Control",
+      "suggestedAddress": "1715 Lowry Ave, Oklahoma City, OK 73129, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|229",
+      "company": "Mathena Drilling Systems",
+      "suggestedName": "Ventana Exploration and Production LLC",
+      "suggestedAddress": "13832 Wireless Way, Oklahoma City, OK 73134, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|232",
+      "company": "Production Control Services",
+      "suggestedName": "PCS Ferguson",
+      "suggestedAddress": "212 N Falcon Dr #7210, Oklahoma City, OK 73127, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|239",
+      "company": "Dallas Morris Drilling",
+      "suggestedName": "Dallas-Morris Drilling Inc",
+      "suggestedAddress": "103 S Kendall Ave, Bradford, PA 16701, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 103,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|270",
+      "company": "Kriebel Energy Services",
+      "suggestedName": "Kriebel Minerals Inc",
+      "suggestedAddress": "633 Mayfield Rd, Clarion, PA 16214, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 8,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|295",
+      "company": "L&D Well Service",
+      "suggestedName": "Coy Landers Well Drilling",
+      "suggestedAddress": "102 Ash Rd, Shelbyville, TN 37160, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 8,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|298",
+      "company": "Master Pump",
+      "suggestedName": "Pumps of Tennessee",
+      "suggestedAddress": "714 Willow Ave, Knoxville, TN 37915, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|300",
+      "company": "Master Pump & Equipment",
+      "suggestedName": "Dusem Vacuum Pumps and Repairs",
+      "suggestedAddress": "1015 W Kirkland Ave #417, Nashville, TN 37216, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|324",
+      "company": "Blue Tank",
+      "suggestedName": "Tank Depot of Houston, Texas",
+      "suggestedAddress": "9740 East Sam Houston Pkwy N, Houston, TX 77044, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|330",
+      "company": "Diamond Coring",
+      "suggestedName": "Expert Diamond Tools - Concrete Saw Blades & Core Bits",
+      "suggestedAddress": "2307 Naomi St, Houston, TX 77054, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|331",
+      "company": "Downhole Camera Technology",
+      "suggestedName": "Houston Downhole",
+      "suggestedAddress": "11010 Mahaffey Rd, Tomball, TX 77375, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 8,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|335",
+      "company": "Environmental Standards",
+      "suggestedName": "Environmental Services Specialists",
+      "suggestedAddress": "5100 Westheimer Rd Ste # 282, Houston, TX 77056, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|339",
+      "company": "Gas Analytical",
+      "suggestedName": "Environmental Analytical Services, LLC",
+      "suggestedAddress": "13201 Northwest Fwy Ste 520, Houston, TX 77040, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|340",
+      "company": "Geological Logging Systems",
+      "suggestedName": "DataLog Geological Services",
+      "suggestedAddress": "5811 Irvington Blvd, Houston, TX 77009, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|347",
+      "company": "Horizontal Well Drillers",
+      "suggestedName": "Scott Drilling Inc",
+      "suggestedAddress": "11923 Green Pines Cir, Houston, TX 77066, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|351",
+      "company": "Integrated Downhole Solutions",
+      "suggestedName": "Innovative Downhole Solutions",
+      "suggestedAddress": "17810 E Hardy Rd, Houston, TX 77073, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|359",
+      "company": "Millennium Stimulation Services Ltd.",
+      "suggestedName": "Millennial Energy Partners",
+      "suggestedAddress": "3535 Westheimer Rd #235, Houston, TX 77027, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|366",
+      "company": "NexTier Cementing & Pressure Pumping",
+      "suggestedName": "NexTier Oilfield Solutions",
+      "suggestedAddress": "3990 Rogerdale Rd, Houston, TX 77042, USA",
+      "businessStatus": "CLOSED_PERMANENTLY",
+      "matchScore": 15,
+      "reason": "Closed profile requires disposition review"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|367",
+      "company": "PECCO",
+      "suggestedName": "Peck and Company",
+      "suggestedAddress": "8321 Hempstead Rd, Houston, TX 77008, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|370",
+      "company": "Peak Completions",
+      "suggestedName": "Peak Completions Technologies",
+      "suggestedAddress": "700 Louisiana St, Houston, TX 77002, USA",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "matchScore": 97,
+      "reason": "Closed profile requires disposition review"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|374",
+      "company": "Quest Coring",
+      "suggestedName": "Questtec Solutions",
+      "suggestedAddress": "13960 S Wayside Dr, Houston, TX 77048, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|387",
+      "company": "Substrata Camera Services",
+      "suggestedName": "Sewer Pipe Camera Repair",
+      "suggestedAddress": "505 Pickering St, Houston, TX 77091, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|389",
+      "company": "Thru Tubing Solutions",
+      "suggestedName": "Thru Tubing Solutions",
+      "suggestedAddress": "22242 Farm to Market 2920, Hockley, TX 77447, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 108,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|390",
+      "company": "Titan Submersible Pumps",
+      "suggestedName": "Titan Pumps Manufacturing",
+      "suggestedAddress": "9447 Bamboo Rd, Houston, TX 77041, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|391",
+      "company": "Trican Completion Solutions",
+      "suggestedName": "Trican Completion Solutions",
+      "suggestedAddress": "4529 Brittmoore Rd, Houston, TX 77041, USA",
+      "businessStatus": "CLOSED_PERMANENTLY",
+      "matchScore": 115,
+      "reason": "Closed profile requires disposition review"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|393",
+      "company": "Universal Wellheads",
+      "suggestedName": "Universal Wellhead Services Holdings",
+      "suggestedAddress": "6401 Cunningham Rd, Houston, TX 77041, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|398",
+      "company": "WellEZ",
+      "suggestedName": "WellEz Information Management",
+      "suggestedAddress": "1250 Wood Branch Park Dr #410, Houston, TX 77079, USA",
+      "businessStatus": "CLOSED_PERMANENTLY",
+      "matchScore": 97,
+      "reason": "Closed profile requires disposition review"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|464",
+      "company": "Eastern Fishing and Rental Tools",
+      "suggestedName": "Freedom Ag & Energy - Buckhannon Branch",
+      "suggestedAddress": "60 N Spring St, Buckhannon, WV 26201, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 18,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|467",
+      "company": "GAS, Inc.",
+      "suggestedName": "Mountaineer Gas Company",
+      "suggestedAddress": "501 56th St SE, Charleston, WV 25304, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 100,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|468",
+      "company": "Javins Corporation",
+      "suggestedName": "Javins Corporation",
+      "suggestedAddress": "2000, Morgantown Industrial Park, Morgantown, WV 26501, USA",
+      "businessStatus": "OPERATIONAL",
+      "matchScore": 108,
+      "reason": "Identity, branch, or location match requires manual corroboration"
+    }
+  ]
+}

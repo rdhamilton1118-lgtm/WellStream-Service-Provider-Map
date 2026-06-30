@@ -1,0 +1,26 @@
+name: Weekly provider audit
+
+on:
+  schedule:
+    - cron: '15 11 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/audit-providers.mjs
+      - name: Commit changed audit report
+        run: |
+          git config user.name "wellstream-audit-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add reports/provider-audit.json
+          git diff --cached --quiet || git commit -m "chore: weekly provider audit"
+          git push

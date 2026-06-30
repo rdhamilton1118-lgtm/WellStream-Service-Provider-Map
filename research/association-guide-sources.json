@@ -1,0 +1,37 @@
+[
+  {
+    "id": "montana",
+    "association": "Montana Petroleum Association",
+    "state": "MT",
+    "baseUrl": "https://mtoilgasbuyersguide.com/",
+    "enabled": true
+  },
+  {
+    "id": "kansas",
+    "association": "Kansas Independent Oil & Gas Association",
+    "state": "KS",
+    "baseUrl": "https://www.ksoilgasbuyersguide.com/",
+    "enabled": true
+  },
+  {
+    "id": "north-dakota",
+    "association": "North Dakota petroleum industry buyers guide",
+    "state": "ND",
+    "baseUrl": "https://www.ndoilgasbuyersguide.com/",
+    "enabled": true
+  },
+  {
+    "id": "pennsylvania",
+    "association": "Pennsylvania oil and gas industry buyers guide",
+    "state": "PA",
+    "baseUrl": "https://www.paoilgasbuyersguide.com/",
+    "enabled": true
+  },
+  {
+    "id": "west-virginia",
+    "association": "West Virginia oil and gas industry buyers guide",
+    "state": "WV",
+    "baseUrl": "https://www.wvoilgasbuyersguide.com/",
+    "enabled": true
+  }
+]

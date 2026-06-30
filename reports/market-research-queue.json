@@ -1,0 +1,6214 @@
+{
+  "generatedAt": "2026-06-23T01:14:41.792Z",
+  "methodology": "Every mapped community is treated as an anchor market. A market is not complete until each relevant service family has been searched and candidates have source-backed status.",
+  "providerCount": 567,
+  "marketCount": 249,
+  "markets": [
+    {
+      "market": "Golden|CO",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 156
+    },
+    {
+      "market": "Grand Junction|CO",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 156
+    },
+    {
+      "market": "Frierson|LA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 156
+    },
+    {
+      "market": "Sidney|MT",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 156
+    },
+    {
+      "market": "Tioga|ND",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 156
+    },
+    {
+      "market": "Fairmont|WV",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 156
+    },
+    {
+      "market": "Arnaudville|LA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 155
+    },
+    {
+      "market": "Mount Pleasant|MI",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 155
+    },
+    {
+      "market": "Rolla|MO",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 155
+    },
+    {
+      "market": "New Mexico / Texas|NM",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 155
+    },
+    {
+      "market": "Yukon|OK",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 155
+    },
+    {
+      "market": "Sturgis|SD",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 155
+    },
+    {
+      "market": "Brentwood|TN",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 155
+    },
+    {
+      "market": "Frisco|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 155
+    },
+    {
+      "market": "Stafford|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 155
+    },
+    {
+      "market": "Kilgore|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 155
+    },
+    {
+      "market": "Monahans|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 155
+    },
+    {
+      "market": "United States|US",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 2,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 150
+    },
+    {
+      "market": "Brookwood|AL",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Trinidad|CO",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Grayville|IL",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "St. Elmo|IL",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Sterling|IL",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "New Harmony|IN",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Princeton|IN",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Hugoton|KS",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Albany|KY",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Edmonton|KY",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Glasgow|KY",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Hawesville|KY",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Philpot|KY",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Port Fourchon|LA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Gaylord|MI",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Traverse City|MI",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Fredericktown|MO",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "St. Louis|MO",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Cut Bank|MT",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Arnegard|ND",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Glenpool|OK",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Norman|OK",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Chattanooga|TN",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Big Lake|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Decatur|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Fort Stockton|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Mineral Wells|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Pecos|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "United States|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Victoria|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Cedar Bluff|VA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Clintwood|VA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Coeburn|VA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Grantsville|WV",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "New Martinsville|WV",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Powell|WY",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Riverton|WY",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Rock Springs|WY",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "construction"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Rapid City|SD",
+      "providerCount": 3,
+      "verifiedOrSourcedCount": 2,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 146
+    },
+    {
+      "market": "Tempe|AZ",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "technology"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Santa Clara|CA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "gasMeasurementEmissions"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Sunnyvale|CA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "gasMeasurementEmissions"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Ventura|CA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Centennial|CO",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "technology"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Fort Lupton|CO",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Greeley|CO",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Henderson|CO",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Littleton|CO",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Milliken|CO",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Bloomington|IL",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Bridgeport|IL",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Clay City|IL",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Decatur|IL",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Enfield|IL",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Joliet|IL",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Robinson|IL",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Salem|IL",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Wayne City|IL",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Clay County|IN",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Coffeyville|KS",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "El Dorado|KS",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Great Bend|KS",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Ness City|KS",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Southeast Kansas|KS",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Covington|KY",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Ivel|KY",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Prestonsburg|KY",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "construction"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Broussard|LA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Boston|MA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Cambridge|MA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "gasMeasurementEmissions"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Bozeman|MT",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "gasMeasurementEmissions"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Belfield|ND",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Holland|OH",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "North Lima|OH",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Wooster|OH",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Youngstown|OH",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Bixby|OK",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "technology"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Elk City|OK",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Oklahoma|OK",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Stillwater|OK",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Wynona|OK",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Carnegie|PA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Hallstead|PA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Hershey|PA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Irwin|PA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Mansfield|PA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Mount Morris|PA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Flora|IL",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Beattyville|KY",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Smithfield|PA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Zelienople|PA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Spearfish|SD",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Cookeville|TN",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Austin|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "gasMeasurementEmissions"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Bay City|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Gainesville|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Godley|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Katy|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Kermit|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Kingwood|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Missouri City|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Pinehurst|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Richmond|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Slaton|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Wichita Falls|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Midvale|UT",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "technology"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Bluefield|VA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Oakwood|VA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Bridgeport|WV",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Huntington|WV",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Triadelphia|WV",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Weston|WV",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Boulder|WY",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Cheyenne|WY",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Sheridan|WY",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Athens|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Charleroi|PA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Mead|CO",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Poolville|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Tyler|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Ulster|PA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 145
+    },
+    {
+      "market": "Birmingham|AL",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 142
+    },
+    {
+      "market": "Watford City|ND",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 142
+    },
+    {
+      "market": "Weatherford|OK",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 142
+    },
+    {
+      "market": "Olney|IL",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 141
+    },
+    {
+      "market": "Corbin|KY",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 141
+    },
+    {
+      "market": "Salyersville|KY",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 141
+    },
+    {
+      "market": "Corpus Christi|TX",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 2,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 140
+    },
+    {
+      "market": "Jacksboro|TX",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 2,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 140
+    },
+    {
+      "market": "Sterling|KS",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production",
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 136
+    },
+    {
+      "market": "Baton Rouge|LA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "technology",
+        "gasMeasurementEmissions"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 136
+    },
+    {
+      "market": "Mississippi region|MS",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion",
+        "production"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 136
+    },
+    {
+      "market": "Connellsville|PA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production",
+        "gasCompression"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 136
+    },
+    {
+      "market": "Meadville|PA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion",
+        "production"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 136
+    },
+    {
+      "market": "Pennsylvania|PA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion",
+        "production"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 136
+    },
+    {
+      "market": "Channelview|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 136
+    },
+    {
+      "market": "Montgomery|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production",
+        "gasCompression"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 136
+    },
+    {
+      "market": "San Antonio|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production",
+        "technology"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 136
+    },
+    {
+      "market": "Sugar Land|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production",
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 136
+    },
+    {
+      "market": "Douglas|WY",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids",
+        "technology"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 136
+    },
+    {
+      "market": "Cottondale|AL",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "technology",
+        "gasMeasurementEmissions"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Center|CO",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production",
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Russell|KS",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production",
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Allen|KY",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion",
+        "production"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Owensboro|KY",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "construction"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Aztec|NM",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Cambridge|OH",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production",
+        "gasCompression"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Norwich|OH",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Rittman|OH",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Somerset|OH",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production",
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Pawhuska|OK",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production",
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Clarion|PA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion",
+        "production"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Erie|PA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion",
+        "production"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Vincennes|IN",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Kennerdell|PA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids",
+        "logistics"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Somerset|PA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Brookshire|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "gasProcessing",
+        "gasMeasurementEmissions"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Conroe|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Levelland|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion",
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Spring|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion",
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Texas / Oklahoma|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Jane Lew|WV",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion",
+        "production"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Winfield|WV",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "construction",
+        "gasMeasurementEmissions"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Upton|WY",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Pleasanton|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Sweetwater|TX",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Farmington|NM",
+      "providerCount": 3,
+      "verifiedOrSourcedCount": 3,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 135
+    },
+    {
+      "market": "Little Rock|AR",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply",
+        "safety"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 132
+    },
+    {
+      "market": "Henderson|KY",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion",
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 132
+    },
+    {
+      "market": "Texas|TX",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion",
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 132
+    },
+    {
+      "market": "Morgantown|WV",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion",
+        "production"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 132
+    },
+    {
+      "market": "Garden City|KS",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 131
+    },
+    {
+      "market": "Houma|LA",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion",
+        "technology"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 131
+    },
+    {
+      "market": "Shreveport|LA",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production",
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 131
+    },
+    {
+      "market": "El Reno|OK",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 131
+    },
+    {
+      "market": "Indiana|PA",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 131
+    },
+    {
+      "market": "Nashville|TN",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production",
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 131
+    },
+    {
+      "market": "Alice|TX",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion",
+        "production"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 131
+    },
+    {
+      "market": "Buckhannon|WV",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "technology",
+        "gasMeasurementEmissions"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 131
+    },
+    {
+      "market": "Baker|MT",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 2,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion",
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 130
+    },
+    {
+      "market": "Punxsutawney|PA",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 2,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 130
+    },
+    {
+      "market": "Mills|WY",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 2,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 130
+    },
+    {
+      "market": "Western Pennsylvania|PA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply",
+        "construction",
+        "gasGatheringPipeline"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 126
+    },
+    {
+      "market": "Lafayette|LA",
+      "providerCount": 7,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply",
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 126
+    },
+    {
+      "market": "Pratt|KS",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion",
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 125
+    },
+    {
+      "market": "Hustonville|KY",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply",
+        "construction",
+        "gasGatheringPipeline"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 125
+    },
+    {
+      "market": "Arcadia|LA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion",
+        "production",
+        "technology"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 125
+    },
+    {
+      "market": "New Orleans|LA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion",
+        "production"
+      ],
+      "missingServiceFamilies": [
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 125
+    },
+    {
+      "market": "Kansas City|MO",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion",
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 125
+    },
+    {
+      "market": "Ripley|WV",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply",
+        "construction",
+        "gasGatheringPipeline"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 125
+    },
+    {
+      "market": "Worthington|PA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply",
+        "construction",
+        "gasGatheringPipeline"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 125
+    },
+    {
+      "market": "Rosedale|VA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply",
+        "construction",
+        "gasGatheringPipeline"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 125
+    },
+    {
+      "market": "Ellenboro|WV",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "fluids",
+        "construction",
+        "logistics"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 125
+    },
+    {
+      "market": "Knoxville|TN",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "production",
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 122
+    },
+    {
+      "market": "Artesia|NM",
+      "providerCount": 4,
+      "verifiedOrSourcedCount": 2,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion"
+      ],
+      "missingServiceFamilies": [
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 122
+    },
+    {
+      "market": "Odessa|TX",
+      "providerCount": 4,
+      "verifiedOrSourcedCount": 2,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion",
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 122
+    },
+    {
+      "market": "Wichita|KS",
+      "providerCount": 6,
+      "verifiedOrSourcedCount": 4,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 122
+    },
+    {
+      "market": "Broomfield|CO",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion",
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 121
+    },
+    {
+      "market": "Columbus|OH",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply",
+        "construction",
+        "gasMeasurementEmissions"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 121
+    },
+    {
+      "market": "Pittsburgh|PA",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production",
+        "supply",
+        "technology"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "fluids",
+        "construction",
+        "logistics",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 121
+    },
+    {
+      "market": "Dallas|TX",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion",
+        "production",
+        "gasCompression"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 121
+    },
+    {
+      "market": "Carlsbad|NM",
+      "providerCount": 3,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production",
+        "fluids",
+        "gasCompression"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 118
+    },
+    {
+      "market": "Billings|MT",
+      "providerCount": 3,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production",
+        "supply",
+        "technology"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "fluids",
+        "construction",
+        "logistics",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 117
+    },
+    {
+      "market": "Longview|TX",
+      "providerCount": 3,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion",
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 117
+    },
+    {
+      "market": "Minden|LA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion",
+        "supply",
+        "construction",
+        "gasGatheringPipeline"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "fluids",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 116
+    },
+    {
+      "market": "Shinnston|WV",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 0,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion",
+        "supply",
+        "construction",
+        "gasGatheringPipeline"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "production",
+        "fluids",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 116
+    },
+    {
+      "market": "Richmond|KY",
+      "providerCount": 3,
+      "verifiedOrSourcedCount": 2,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply",
+        "construction",
+        "gasGatheringPipeline"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 116
+    },
+    {
+      "market": "New Iberia|LA",
+      "providerCount": 3,
+      "verifiedOrSourcedCount": 2,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion",
+        "technology"
+      ],
+      "missingServiceFamilies": [
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 116
+    },
+    {
+      "market": "Hobbs|NM",
+      "providerCount": 10,
+      "verifiedOrSourcedCount": 4,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion",
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "production",
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 116
+    },
+    {
+      "market": "Columbia|MS",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply",
+        "fluids",
+        "construction",
+        "gasGatheringPipeline"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 115
+    },
+    {
+      "market": "Shelocta|PA",
+      "providerCount": 1,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "supply",
+        "construction",
+        "logistics",
+        "gasGatheringPipeline"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 115
+    },
+    {
+      "market": "Hays|KS",
+      "providerCount": 5,
+      "verifiedOrSourcedCount": 4,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion",
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 111
+    },
+    {
+      "market": "Saxonburg|PA",
+      "providerCount": 2,
+      "verifiedOrSourcedCount": 2,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production",
+        "fluids",
+        "logistics",
+        "gasCompression"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "supply",
+        "construction",
+        "technology",
+        "safety",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 110
+    },
+    {
+      "market": "Waynesburg|PA",
+      "providerCount": 3,
+      "verifiedOrSourcedCount": 2,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production",
+        "supply",
+        "technology",
+        "gasMeasurementEmissions"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "fluids",
+        "construction",
+        "logistics",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 106
+    },
+    {
+      "market": "Fort Worth|TX",
+      "providerCount": 4,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply"
+      ],
+      "missingServiceFamilies": [
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 103
+    },
+    {
+      "market": "Denver|CO",
+      "providerCount": 6,
+      "verifiedOrSourcedCount": 3,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion",
+        "technology",
+        "gasMeasurementEmissions"
+      ],
+      "missingServiceFamilies": [
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 103
+    },
+    {
+      "market": "Marietta|OH",
+      "providerCount": 5,
+      "verifiedOrSourcedCount": 3,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 102
+    },
+    {
+      "market": "Canonsburg|PA",
+      "providerCount": 6,
+      "verifiedOrSourcedCount": 5,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion",
+        "production",
+        "fluids",
+        "technology"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "supply",
+        "construction",
+        "logistics",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 101
+    },
+    {
+      "market": "Williston|ND",
+      "providerCount": 17,
+      "verifiedOrSourcedCount": 7,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 100
+    },
+    {
+      "market": "Casper|WY",
+      "providerCount": 16,
+      "verifiedOrSourcedCount": 8,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "supply",
+        "fluids",
+        "technology",
+        "gasMeasurementEmissions"
+      ],
+      "missingServiceFamilies": [
+        "completion",
+        "production",
+        "construction",
+        "logistics",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 98
+    },
+    {
+      "market": "Dickinson|ND",
+      "providerCount": 7,
+      "verifiedOrSourcedCount": 1,
+      "discoveryCount": 6,
+      "coveredServiceFamilies": [
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "gasGatheringPipeline"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "fluids",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 96
+    },
+    {
+      "market": "Bakersfield|CA",
+      "providerCount": 19,
+      "verifiedOrSourcedCount": 15,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion",
+        "supply",
+        "construction",
+        "gasGatheringPipeline"
+      ],
+      "missingServiceFamilies": [
+        "production",
+        "fluids",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 94
+    },
+    {
+      "market": "Charleston|WV",
+      "providerCount": 4,
+      "verifiedOrSourcedCount": 2,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "production",
+        "supply",
+        "construction",
+        "technology",
+        "gasMeasurementEmissions"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "completion",
+        "fluids",
+        "logistics",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 92
+    },
+    {
+      "market": "The Woodlands|TX",
+      "providerCount": 5,
+      "verifiedOrSourcedCount": 4,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "fluids",
+        "gasMeasurementEmissions"
+      ],
+      "missingServiceFamilies": [
+        "supply",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 91
+    },
+    {
+      "market": "Carmi|IL",
+      "providerCount": 6,
+      "verifiedOrSourcedCount": 6,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids"
+      ],
+      "missingServiceFamilies": [
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 90
+    },
+    {
+      "market": "Houston|TX",
+      "providerCount": 85,
+      "verifiedOrSourcedCount": 36,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "technology",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasMeasurementEmissions"
+      ],
+      "missingServiceFamilies": [
+        "logistics",
+        "safety",
+        "gasProcessing",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 89
+    },
+    {
+      "market": "Tulsa|OK",
+      "providerCount": 8,
+      "verifiedOrSourcedCount": 3,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "construction",
+        "gasGatheringPipeline"
+      ],
+      "missingServiceFamilies": [
+        "fluids",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 85
+    },
+    {
+      "market": "Oklahoma City|OK",
+      "providerCount": 20,
+      "verifiedOrSourcedCount": 8,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "logistics",
+        "technology"
+      ],
+      "missingServiceFamilies": [
+        "construction",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 82
+    },
+    {
+      "market": "Laurel|MS",
+      "providerCount": 4,
+      "verifiedOrSourcedCount": 4,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "completion",
+        "production",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology"
+      ],
+      "missingServiceFamilies": [
+        "drilling",
+        "supply",
+        "safety",
+        "gasCompression",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 80
+    },
+    {
+      "market": "Midland|TX",
+      "providerCount": 20,
+      "verifiedOrSourcedCount": 10,
+      "discoveryCount": 0,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "technology",
+        "gasCompression"
+      ],
+      "missingServiceFamilies": [
+        "construction",
+        "logistics",
+        "safety",
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 80
+    },
+    {
+      "market": "Gillette|WY",
+      "providerCount": 27,
+      "verifiedOrSourcedCount": 11,
+      "discoveryCount": 15,
+      "coveredServiceFamilies": [
+        "drilling",
+        "completion",
+        "production",
+        "supply",
+        "fluids",
+        "construction",
+        "logistics",
+        "technology",
+        "safety",
+        "gasCompression"
+      ],
+      "missingServiceFamilies": [
+        "gasGatheringPipeline",
+        "gasProcessing",
+        "gasMeasurementEmissions",
+        "midstreamConstruction"
+      ],
+      "researchPriorityScore": 56
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="WellStream Solutions oilfield and gasfield service provider intelligence.">
+  <title>WellStream Solutions | Provider Intelligence</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://unpkg.com">
+  <link rel="preconnect" href="https://tile.openstreetmap.org">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="root"></div>
+  <div class="legacy-app-shell" hidden>
+    <header class="topbar">
+      <a class="brand" href="#" aria-label="WellStream Solutions provider intelligence home">
+        <img class="brand-mark" src="assets/wellstream-mark-board.png" alt="">
+        <span class="brand-rule" aria-hidden="true"></span>
+        <span class="brand-name"><b>WellStream</b><strong>Solutions</strong><small>LLC · Provider Intelligence</small></span>
+      </a>
+      <div class="topbar-meta">
+        <span class="live-dot"></span>
+        <span id="dataStatus">Loading provider network…</span>
+      </div>
+      <button id="mobileFilters" class="mobile-filter-btn" type="button">Filters</button>
+    </header>
+
+    <main>
+      <aside class="sidebar" id="sidebar">
+        <section class="intro">
+          <p class="eyebrow">WellStream Solutions, LLC</p>
+          <h1>Dependable solutions.<br><span>Stronger operations.</span></h1>
+          <p>Find oilfield and gasfield service providers by capability, location, and operating fit.</p>
+        </section>
+
+        <section class="search-panel">
+          <label for="searchInput">Search providers</label>
+          <div class="search-box">
+            <span aria-hidden="true">⌕</span>
+            <input id="searchInput" type="search" placeholder="Company, service, city…" autocomplete="off">
+            <button id="clearSearch" type="button" aria-label="Clear search">×</button>
+          </div>
+
+          <div class="filter-grid">
+            <div>
+              <label for="stateFilter">State</label>
+              <select id="stateFilter"><option value="">All states</option></select>
+            </div>
+            <div>
+              <label for="priorityFilter">Priority</label>
+              <select id="priorityFilter">
+                <option value="">Any priority</option>
+                <option value="High">High</option>
+                <option value="Medium">Medium</option>
+                <option value="Low">Low</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="category-heading">
+            <label>Service category</label>
+            <button id="clearFilters" type="button">Reset all</button>
+          </div>
+          <div id="categoryFilters" class="category-list"></div>
+        </section>
+
+        <section class="results-section">
+          <div class="results-heading">
+            <div><b id="resultCount">0</b><span> providers found</span></div>
+            <button id="fitResults" type="button">Fit on map</button>
+          </div>
+          <div id="results" class="results" aria-live="polite"></div>
+        </section>
+      </aside>
+
+      <section class="map-stage" aria-label="Provider map">
+        <div id="map"></div>
+        <button id="openExport" class="map-summary" type="button" title="Create a contact list from this map view">
+          <span class="summary-icon">⌖</span>
+          <span><b id="visibleCount">0</b><small>visible locations</small></span>
+          <span class="summary-export">Export</span>
+        </button>
+        <button id="locateMe" class="locate-btn" type="button" title="Find my location" aria-label="Find my location">◎</button>
+      </section>
+    </main>
+  </div>
+
+  <dialog id="providerDialog" class="provider-dialog">
+    <button class="dialog-close" type="button" aria-label="Close">×</button>
+    <div id="dialogContent"></div>
+  </dialog>
+
+  <dialog id="exportDialog" class="export-dialog">
+    <button class="dialog-close" type="button" aria-label="Close">&times;</button>
+    <div class="export-head">
+      <p class="eyebrow">Contact list builder</p>
+      <h2>Providers in this map view</h2>
+      <p>Pan or zoom the map to define an area, then export the providers currently inside it.</p>
+    </div>
+    <div class="export-body">
+      <div class="export-stat"><b id="exportCount">0</b><span>filtered providers in the visible map area</span></div>
+      <div id="exportPreview" class="export-preview"></div>
+      <p class="export-note">Exports include company, service, address, phone, website, verification status, and map coordinates. Active search, state, priority, and service filters are honored.</p>
+      <div class="export-actions">
+        <button id="exportExcel" class="primary" type="button">Export Excel</button>
+        <button id="exportPdf" type="button">Export PDF</button>
+      </div>
+    </div>
+  </dialog>
+
+  <script type="module" src="/src/main.jsx"></script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+{
+  "name": "wellstream-provider-atlas",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "host": "vite --host 0.0.0.0 --port 8080",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0 --port 8080",
+    "audit": "node scripts/audit-providers.mjs",
+    "enrich:providers": "node --use-system-ca --env-file=.env scripts/enrich-existing-providers.mjs",
+    "enrich:providers:dry": "node --use-system-ca --env-file-if-exists=.env scripts/enrich-existing-providers.mjs --dry-run",
+    "research-queue": "node scripts/build-research-queue.mjs",
+    "discover:nationwide": "node --use-system-ca --env-file=.env scripts/nationwide-discovery.mjs",
+    "discover:nationwide:dry": "node --use-system-ca --env-file-if-exists=.env scripts/nationwide-discovery.mjs --dry-run",
+    "discover:nationwide:review": "node scripts/filter-nationwide-discovery.mjs",
+    "discover:nationwide:details": "node --use-system-ca --env-file=.env scripts/enrich-nationwide-discovery-details.mjs",
+    "discover:nationwide:promote": "node scripts/promote-nationwide-discovery-batch.mjs",
+    "discover:associations": "node --use-system-ca scripts/association-guide-discovery.mjs",
+    "discover:wv": "node --use-system-ca scripts/association-guide-discovery.mjs --source=west-virginia && node scripts/export-wv-buyers-guide.mjs",
+    "assets:ocr": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/ocr-assets.ps1",
+    "assets:extract": "node scripts/extract-asset-directory.mjs",
+    "assets:enrich": "node --use-system-ca --env-file=.env scripts/enrich-asset-directory.mjs",
+    "assets:promote": "node scripts/promote-asset-directory.mjs"
+  },
+  "dependencies": {
+    "jspdf": "^3.0.1",
+    "jspdf-autotable": "^5.0.2",
+    "leaflet": "^1.9.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.5.2",
+    "vite": "^7.0.0"
+  }
+}

@@ -1,0 +1,2724 @@
+{
+  "generatedAt": "2026-06-30T20:27:59.896Z",
+  "mode": "live",
+  "marketCount": 339,
+  "queryThemes": [
+    "oilfield"
+  ],
+  "totalPlannedQueries": 339,
+  "radiusMeters": 65000,
+  "markets": [
+    {
+      "market": "Afton|WY",
+      "city": "Afton",
+      "state": "WY",
+      "latitude": 42.7453629,
+      "longitude": -110.9349187,
+      "existingProviders": 1
+    },
+    {
+      "market": "Allen City|KY",
+      "city": "Allen City",
+      "state": "KY",
+      "latitude": 37.6327021,
+      "longitude": -82.7172173,
+      "existingProviders": 1
+    },
+    {
+      "market": "Allen|KY",
+      "city": "Allen",
+      "state": "KY",
+      "latitude": 37.6132,
+      "longitude": -82.7274,
+      "existingProviders": 1
+    },
+    {
+      "market": "Arnaudville|LA",
+      "city": "Arnaudville",
+      "state": "LA",
+      "latitude": 30.3977,
+      "longitude": -91.931,
+      "existingProviders": 1
+    },
+    {
+      "market": "Arnoldsburg|WV",
+      "city": "Arnoldsburg",
+      "state": "WV",
+      "latitude": 38.8001611,
+      "longitude": -81.1016327,
+      "existingProviders": 1
+    },
+    {
+      "market": "Arvada|CO",
+      "city": "Arvada",
+      "state": "CO",
+      "latitude": 39.7985466,
+      "longitude": -105.0641294,
+      "existingProviders": 1
+    },
+    {
+      "market": "Austin|TX",
+      "city": "Austin",
+      "state": "TX",
+      "latitude": 30.3438515,
+      "longitude": -97.6843529,
+      "existingProviders": 1
+    },
+    {
+      "market": "Baton Rouge|LA",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "latitude": 30.3466214,
+      "longitude": -91.0324523,
+      "existingProviders": 1
+    },
+    {
+      "market": "Beattyville|KY",
+      "city": "Beattyville",
+      "state": "KY",
+      "latitude": 37.571753,
+      "longitude": -83.70686,
+      "existingProviders": 1
+    },
+    {
+      "market": "Bellville|OH",
+      "city": "Bellville",
+      "state": "OH",
+      "latitude": 40.6198308,
+      "longitude": -82.5014402,
+      "existingProviders": 1
+    },
+    {
+      "market": "Bixby|OK",
+      "city": "Bixby",
+      "state": "OK",
+      "latitude": 35.9843609,
+      "longitude": -95.89042069999999,
+      "existingProviders": 1
+    },
+    {
+      "market": "Bloomfield|NM",
+      "city": "Bloomfield",
+      "state": "NM",
+      "latitude": 36.7418585,
+      "longitude": -107.9763088,
+      "existingProviders": 1
+    },
+    {
+      "market": "Bloomington|IL",
+      "city": "Bloomington",
+      "state": "IL",
+      "latitude": 40.4842,
+      "longitude": -88.9937,
+      "existingProviders": 1
+    },
+    {
+      "market": "Bluefield|VA",
+      "city": "Bluefield",
+      "state": "VA",
+      "latitude": 37.2358465,
+      "longitude": -81.2992508,
+      "existingProviders": 1
+    },
+    {
+      "market": "Bonne Terre|MO",
+      "city": "Bonne Terre",
+      "state": "MO",
+      "latitude": 37.9231709,
+      "longitude": -90.41682,
+      "existingProviders": 1
+    },
+    {
+      "market": "Boston|MA",
+      "city": "Boston",
+      "state": "MA",
+      "latitude": 42.3442883,
+      "longitude": -71.0360457,
+      "existingProviders": 1
+    },
+    {
+      "market": "Boulder|WY",
+      "city": "Boulder",
+      "state": "WY",
+      "latitude": 42.7466,
+      "longitude": -109.7182,
+      "existingProviders": 1
+    },
+    {
+      "market": "Brazil|IN",
+      "city": "Brazil",
+      "state": "IN",
+      "latitude": 39.5572888,
+      "longitude": -87.1083037,
+      "existingProviders": 1
+    },
+    {
+      "market": "Brentwood|TN",
+      "city": "Brentwood",
+      "state": "TN",
+      "latitude": 36.0349621,
+      "longitude": -86.79906799999999,
+      "existingProviders": 1
+    },
+    {
+      "market": "Bridgeport|IL",
+      "city": "Bridgeport",
+      "state": "IL",
+      "latitude": 38.7056,
+      "longitude": -87.7603,
+      "existingProviders": 1
+    },
+    {
+      "market": "Bridgeport|WV",
+      "city": "Bridgeport",
+      "state": "WV",
+      "latitude": 39.2865,
+      "longitude": -80.2562,
+      "existingProviders": 1
+    },
+    {
+      "market": "Brook|IN",
+      "city": "Brook",
+      "state": "IN",
+      "latitude": 40.8653936,
+      "longitude": -87.3639158,
+      "existingProviders": 1
+    },
+    {
+      "market": "Brookshire|TX",
+      "city": "Brookshire",
+      "state": "TX",
+      "latitude": 29.7861,
+      "longitude": -95.9511,
+      "existingProviders": 1
+    },
+    {
+      "market": "Buffalo|NY",
+      "city": "Buffalo",
+      "state": "NY",
+      "latitude": 42.8697831,
+      "longitude": -78.86845509999999,
+      "existingProviders": 1
+    },
+    {
+      "market": "Cambridge|MA",
+      "city": "Cambridge",
+      "state": "MA",
+      "latitude": 42.3735601,
+      "longitude": -71.09351029999999,
+      "existingProviders": 1
+    },
+    {
+      "market": "Canton|MA",
+      "city": "Canton",
+      "state": "MA",
+      "latitude": 42.171775,
+      "longitude": -71.111188,
+      "existingProviders": 1
+    },
+    {
+      "market": "Castle Rock|CO",
+      "city": "Castle Rock",
+      "state": "CO",
+      "latitude": 39.4007071,
+      "longitude": -104.8693371,
+      "existingProviders": 1
+    },
+    {
+      "market": "Centennial|CO",
+      "city": "Centennial",
+      "state": "CO",
+      "latitude": 39.5902,
+      "longitude": -104.8233,
+      "existingProviders": 1
+    },
+    {
+      "market": "Center|CO",
+      "city": "Center",
+      "state": "CO",
+      "latitude": 37.8057651,
+      "longitude": -106.1486098,
+      "existingProviders": 1
+    },
+    {
+      "market": "Channelview|TX",
+      "city": "Channelview",
+      "state": "TX",
+      "latitude": 29.7861,
+      "longitude": -95.1205,
+      "existingProviders": 1
+    },
+    {
+      "market": "Charleroi|PA",
+      "city": "Charleroi",
+      "state": "PA",
+      "latitude": 40.13785,
+      "longitude": -79.898104,
+      "existingProviders": 1
+    },
+    {
+      "market": "Clarence|NY",
+      "city": "Clarence",
+      "state": "NY",
+      "latitude": 42.9805576,
+      "longitude": -78.598955,
+      "existingProviders": 1
+    },
+    {
+      "market": "Clarion|PA",
+      "city": "Clarion",
+      "state": "PA",
+      "latitude": 41.2148,
+      "longitude": -79.3853,
+      "existingProviders": 1
+    },
+    {
+      "market": "Clay County|IN",
+      "city": "Clay County",
+      "state": "IN",
+      "latitude": 39.3542,
+      "longitude": -87.1347,
+      "existingProviders": 1
+    },
+    {
+      "market": "Clintwood|VA",
+      "city": "Clintwood",
+      "state": "VA",
+      "latitude": 37.1501,
+      "longitude": -82.4554,
+      "existingProviders": 1
+    },
+    {
+      "market": "Coffeyville|KS",
+      "city": "Coffeyville",
+      "state": "KS",
+      "latitude": 37.032054,
+      "longitude": -95.6385767,
+      "existingProviders": 1
+    },
+    {
+      "market": "Connellsville|PA",
+      "city": "Connellsville",
+      "state": "PA",
+      "latitude": 40.0179,
+      "longitude": -79.5895,
+      "existingProviders": 1
+    },
+    {
+      "market": "Cookeville|TN",
+      "city": "Cookeville",
+      "state": "TN",
+      "latitude": 36.1628,
+      "longitude": -85.5016,
+      "existingProviders": 1
+    },
+    {
+      "market": "Covington|KY",
+      "city": "Covington",
+      "state": "KY",
+      "latitude": 39.0837,
+      "longitude": -84.5086,
+      "existingProviders": 1
+    },
+    {
+      "market": "Cut Bank|MT",
+      "city": "Cut Bank",
+      "state": "MT",
+      "latitude": 48.6334,
+      "longitude": -112.3292,
+      "existingProviders": 1
+    },
+    {
+      "market": "Decatur|IL",
+      "city": "Decatur",
+      "state": "IL",
+      "latitude": 39.8403,
+      "longitude": -88.9548,
+      "existingProviders": 1
+    },
+    {
+      "market": "Delmont|PA",
+      "city": "Delmont",
+      "state": "PA",
+      "latitude": 40.398998,
+      "longitude": -79.577803,
+      "existingProviders": 1
+    },
+    {
+      "market": "Dennison|OH",
+      "city": "Dennison",
+      "state": "OH",
+      "latitude": 40.4120374,
+      "longitude": -81.28834090000001,
+      "existingProviders": 1
+    },
+    {
+      "market": "Dover|OH",
+      "city": "Dover",
+      "state": "OH",
+      "latitude": 40.5347182,
+      "longitude": -81.4039454,
+      "existingProviders": 1
+    },
+    {
+      "market": "Downs|IL",
+      "city": "Downs",
+      "state": "IL",
+      "latitude": 40.3950958,
+      "longitude": -88.8767509,
+      "existingProviders": 1
+    },
+    {
+      "market": "Dripping Springs|TX",
+      "city": "Dripping Springs",
+      "state": "TX",
+      "latitude": 30.2548411,
+      "longitude": -98.165994,
+      "existingProviders": 1
+    },
+    {
+      "market": "DuBois|PA",
+      "city": "DuBois",
+      "state": "PA",
+      "latitude": 41.107797,
+      "longitude": -78.733065,
+      "existingProviders": 1
+    },
+    {
+      "market": "Ebensburg|PA",
+      "city": "Ebensburg",
+      "state": "PA",
+      "latitude": 40.4995135,
+      "longitude": -78.7498307,
+      "existingProviders": 1
+    },
+    {
+      "market": "Edmonton|KY",
+      "city": "Edmonton",
+      "state": "KY",
+      "latitude": 36.9801,
+      "longitude": -85.6122,
+      "existingProviders": 1
+    },
+    {
+      "market": "Eighty Four|PA",
+      "city": "Eighty Four",
+      "state": "PA",
+      "latitude": 40.1644374,
+      "longitude": -80.0659769,
+      "existingProviders": 1
+    },
+    {
+      "market": "Ellenboro|WV",
+      "city": "Ellenboro",
+      "state": "WV",
+      "latitude": 39.2768823,
+      "longitude": -81.0430476,
+      "existingProviders": 1
+    },
+    {
+      "market": "Enfield|IL",
+      "city": "Enfield",
+      "state": "IL",
+      "latitude": 38.0830492,
+      "longitude": -88.3359425,
+      "existingProviders": 1
+    },
+    {
+      "market": "Evansville|IN",
+      "city": "Evansville",
+      "state": "IN",
+      "latitude": 37.9922581,
+      "longitude": -87.4749106,
+      "existingProviders": 1
+    },
+    {
+      "market": "Fairfield|IL",
+      "city": "Fairfield",
+      "state": "IL",
+      "latitude": 38.3807247,
+      "longitude": -88.3540527,
+      "existingProviders": 1
+    },
+    {
+      "market": "Fairmont|WV",
+      "city": "Fairmont",
+      "state": "WV",
+      "latitude": 39.4296034,
+      "longitude": -80.2066375,
+      "existingProviders": 1
+    },
+    {
+      "market": "Franklin|TN",
+      "city": "Franklin",
+      "state": "TN",
+      "latitude": 35.9117967,
+      "longitude": -86.8709486,
+      "existingProviders": 1
+    },
+    {
+      "market": "Frisco|CO",
+      "city": "Frisco",
+      "state": "CO",
+      "latitude": 39.5839234,
+      "longitude": -106.0927926,
+      "existingProviders": 1
+    },
+    {
+      "market": "Frisco|TX",
+      "city": "Frisco",
+      "state": "TX",
+      "latitude": 33.0874,
+      "longitude": -96.8405,
+      "existingProviders": 1
+    },
+    {
+      "market": "Garden City|CO",
+      "city": "Garden City",
+      "state": "CO",
+      "latitude": 40.3928281,
+      "longitude": -104.6908068,
+      "existingProviders": 1
+    },
+    {
+      "market": "Glenpool|OK",
+      "city": "Glenpool",
+      "state": "OK",
+      "latitude": 35.9554,
+      "longitude": -96.0089,
+      "existingProviders": 1
+    },
+    {
+      "market": "Golden|CO",
+      "city": "Golden",
+      "state": "CO",
+      "latitude": 39.7568,
+      "longitude": -105.2239,
+      "existingProviders": 1
+    },
+    {
+      "market": "Granbury|TX",
+      "city": "Granbury",
+      "state": "TX",
+      "latitude": 32.4769768,
+      "longitude": -97.6996635,
+      "existingProviders": 1
+    },
+    {
+      "market": "Grandview|TX",
+      "city": "Grandview",
+      "state": "TX",
+      "latitude": 32.2782824,
+      "longitude": -97.2668745,
+      "existingProviders": 1
+    },
+    {
+      "market": "Grantsville|WV",
+      "city": "Grantsville",
+      "state": "WV",
+      "latitude": 38.9234,
+      "longitude": -81.0951,
+      "existingProviders": 1
+    },
+    {
+      "market": "Grawn|MI",
+      "city": "Grawn",
+      "state": "MI",
+      "latitude": 44.6249767,
+      "longitude": -85.6552316,
+      "existingProviders": 1
+    },
+    {
+      "market": "Gray|KY",
+      "city": "Gray",
+      "state": "KY",
+      "latitude": 36.9410395,
+      "longitude": -83.9441619,
+      "existingProviders": 1
+    },
+    {
+      "market": "Grayville|IL",
+      "city": "Grayville",
+      "state": "IL",
+      "latitude": 38.27252590000001,
+      "longitude": -87.99437209999999,
+      "existingProviders": 1
+    },
+    {
+      "market": "Greenville|PA",
+      "city": "Greenville",
+      "state": "PA",
+      "latitude": 41.345965,
+      "longitude": -80.339502,
+      "existingProviders": 1
+    },
+    {
+      "market": "Hagerhill|KY",
+      "city": "Hagerhill",
+      "state": "KY",
+      "latitude": 37.7808438,
+      "longitude": -82.7934822,
+      "existingProviders": 1
+    },
+    {
+      "market": "Hallstead|PA",
+      "city": "Hallstead",
+      "state": "PA",
+      "latitude": 41.962,
+      "longitude": -75.7435,
+      "existingProviders": 1
+    },
+    {
+      "market": "Harrisburg|PA",
+      "city": "Harrisburg",
+      "state": "PA",
+      "latitude": 40.2564813,
+      "longitude": -76.7964913,
+      "existingProviders": 1
+    },
+    {
+      "market": "Harrisville|WV",
+      "city": "Harrisville",
+      "state": "WV",
+      "latitude": 39.2095213,
+      "longitude": -81.0517774,
+      "existingProviders": 1
+    },
+    {
+      "market": "Hawesville|KY",
+      "city": "Hawesville",
+      "state": "KY",
+      "latitude": 37.9001,
+      "longitude": -86.7544,
+      "existingProviders": 1
+    },
+    {
+      "market": "Hershey|PA",
+      "city": "Hershey",
+      "state": "PA",
+      "latitude": 40.2917251,
+      "longitude": -76.64922969999999,
+      "existingProviders": 1
+    },
+    {
+      "market": "Holland|OH",
+      "city": "Holland",
+      "state": "OH",
+      "latitude": 41.6132316,
+      "longitude": -83.70662380000002,
+      "existingProviders": 1
+    },
+    {
+      "market": "Homer City|PA",
+      "city": "Homer City",
+      "state": "PA",
+      "latitude": 40.5363823,
+      "longitude": -79.1648603,
+      "existingProviders": 1
+    },
+    {
+      "market": "Homestead|PA",
+      "city": "Homestead",
+      "state": "PA",
+      "latitude": 40.412903,
+      "longitude": -79.9109699,
+      "existingProviders": 1
+    },
+    {
+      "market": "Hudson|CO",
+      "city": "Hudson",
+      "state": "CO",
+      "latitude": 40.0475947,
+      "longitude": -104.6898039,
+      "existingProviders": 1
+    },
+    {
+      "market": "Hueysville|KY",
+      "city": "Hueysville",
+      "state": "KY",
+      "latitude": 37.4908208,
+      "longitude": -82.8709045,
+      "existingProviders": 1
+    },
+    {
+      "market": "Hugoton|KS",
+      "city": "Hugoton",
+      "state": "KS",
+      "latitude": 37.1753,
+      "longitude": -101.3496,
+      "existingProviders": 1
+    },
+    {
+      "market": "Humble|TX",
+      "city": "Humble",
+      "state": "TX",
+      "latitude": 30.0021928,
+      "longitude": -95.3904928,
+      "existingProviders": 1
+    },
+    {
+      "market": "Hunker|PA",
+      "city": "Hunker",
+      "state": "PA",
+      "latitude": 40.214321,
+      "longitude": -79.6235837,
+      "existingProviders": 1
+    },
+    {
+      "market": "Huntington|WV",
+      "city": "Huntington",
+      "state": "WV",
+      "latitude": 38.4192,
+      "longitude": -82.4452,
+      "existingProviders": 1
+    },
+    {
+      "market": "Hustonville|KY",
+      "city": "Hustonville",
+      "state": "KY",
+      "latitude": 37.477,
+      "longitude": -84.8175,
+      "existingProviders": 1
+    },
+    {
+      "market": "Irwin|PA",
+      "city": "Irwin",
+      "state": "PA",
+      "latitude": 40.3365893,
+      "longitude": -79.7592932,
+      "existingProviders": 1
+    },
+    {
+      "market": "Ivel|KY",
+      "city": "Ivel",
+      "state": "KY",
+      "latitude": 37.5962,
+      "longitude": -82.6713,
+      "existingProviders": 1
+    },
+    {
+      "market": "Jane Lew|WV",
+      "city": "Jane Lew",
+      "state": "WV",
+      "latitude": 39.1109,
+      "longitude": -80.4062,
+      "existingProviders": 1
+    },
+    {
+      "market": "Joliet|IL",
+      "city": "Joliet",
+      "state": "IL",
+      "latitude": 41.525,
+      "longitude": -88.0817,
+      "existingProviders": 1
+    },
+    {
+      "market": "Justin|TX",
+      "city": "Justin",
+      "state": "TX",
+      "latitude": 33.0905952,
+      "longitude": -97.2957983,
+      "existingProviders": 1
+    },
+    {
+      "market": "Kansas City|MO",
+      "city": "Kansas City",
+      "state": "MO",
+      "latitude": 39.09,
+      "longitude": -94.577,
+      "existingProviders": 1
+    },
+    {
+      "market": "Keen Mountain|VA",
+      "city": "Keen Mountain",
+      "state": "VA",
+      "latitude": 37.2067336,
+      "longitude": -81.9760641,
+      "existingProviders": 1
+    },
+    {
+      "market": "Kenmare|ND",
+      "city": "Kenmare",
+      "state": "ND",
+      "latitude": 48.6813635,
+      "longitude": -102.0788782,
+      "existingProviders": 1
+    },
+    {
+      "market": "Kennerdell|PA",
+      "city": "Kennerdell",
+      "state": "PA",
+      "latitude": 41.2651634,
+      "longitude": -79.81064599999999,
+      "existingProviders": 1
+    },
+    {
+      "market": "Kermit|TX",
+      "city": "Kermit",
+      "state": "TX",
+      "latitude": 31.8576,
+      "longitude": -103.0927,
+      "existingProviders": 1
+    },
+    {
+      "market": "Kilgore|TX",
+      "city": "Kilgore",
+      "state": "TX",
+      "latitude": 32.416632,
+      "longitude": -94.908572,
+      "existingProviders": 1
+    },
+    {
+      "market": "Kingwood|TX",
+      "city": "Kingwood",
+      "state": "TX",
+      "latitude": 30.0668777,
+      "longitude": -95.25603799999999,
+      "existingProviders": 1
+    },
+    {
+      "market": "Kittanning|PA",
+      "city": "Kittanning",
+      "state": "PA",
+      "latitude": 40.7891355,
+      "longitude": -79.4532965,
+      "existingProviders": 1
+    },
+    {
+      "market": "Knoxville|AL",
+      "city": "Knoxville",
+      "state": "AL",
+      "latitude": 33.0407167,
+      "longitude": -87.7481877,
+      "existingProviders": 1
+    },
+    {
+      "market": "La Barge|WY",
+      "city": "La Barge",
+      "state": "WY",
+      "latitude": 42.2695732,
+      "longitude": -110.1935195,
+      "existingProviders": 1
+    },
+    {
+      "market": "Laramie|WY",
+      "city": "Laramie",
+      "state": "WY",
+      "latitude": 41.4170711,
+      "longitude": -105.6036191,
+      "existingProviders": 1
+    },
+    {
+      "market": "Levelland|TX",
+      "city": "Levelland",
+      "state": "TX",
+      "latitude": 33.5631129,
+      "longitude": -102.3868915,
+      "existingProviders": 1
+    },
+    {
+      "market": "Littleton|CO",
+      "city": "Littleton",
+      "state": "CO",
+      "latitude": 39.6133,
+      "longitude": -105.0166,
+      "existingProviders": 1
+    },
+    {
+      "market": "Livingston|MT",
+      "city": "Livingston",
+      "state": "MT",
+      "latitude": 45.654025,
+      "longitude": -110.660517,
+      "existingProviders": 1
+    },
+    {
+      "market": "Lore City|OH",
+      "city": "Lore City",
+      "state": "OH",
+      "latitude": 40.0308389,
+      "longitude": -81.4529831,
+      "existingProviders": 1
+    },
+    {
+      "market": "Lowmansville|KY",
+      "city": "Lowmansville",
+      "state": "KY",
+      "latitude": 37.9191272,
+      "longitude": -82.7288211,
+      "existingProviders": 1
+    },
+    {
+      "market": "Mansfield|PA",
+      "city": "Mansfield",
+      "state": "PA",
+      "latitude": 41.8073,
+      "longitude": -77.0775,
+      "existingProviders": 1
+    },
+    {
+      "market": "Max Meadows|VA",
+      "city": "Max Meadows",
+      "state": "VA",
+      "latitude": 36.9205741,
+      "longitude": -80.9324926,
+      "existingProviders": 1
+    },
+    {
+      "market": "Mead|CO",
+      "city": "Mead",
+      "state": "CO",
+      "latitude": 40.20581,
+      "longitude": -104.977884,
+      "existingProviders": 1
+    },
+    {
+      "market": "Meadville|PA",
+      "city": "Meadville",
+      "state": "PA",
+      "latitude": 41.6414,
+      "longitude": -80.1514,
+      "existingProviders": 1
+    },
+    {
+      "market": "Midvale|UT",
+      "city": "Midvale",
+      "state": "UT",
+      "latitude": 40.6197,
+      "longitude": -111.8992,
+      "existingProviders": 1
+    },
+    {
+      "market": "Millersburg|OH",
+      "city": "Millersburg",
+      "state": "OH",
+      "latitude": 40.4866688,
+      "longitude": -81.8971215,
+      "existingProviders": 1
+    },
+    {
+      "market": "Milliken|CO",
+      "city": "Milliken",
+      "state": "CO",
+      "latitude": 40.3294,
+      "longitude": -104.8553,
+      "existingProviders": 1
+    },
+    {
+      "market": "Minden|LA",
+      "city": "Minden",
+      "state": "LA",
+      "latitude": 32.6154,
+      "longitude": -93.2868,
+      "existingProviders": 1
+    },
+    {
+      "market": "Mineral Wells|TX",
+      "city": "Mineral Wells",
+      "state": "TX",
+      "latitude": 32.8085,
+      "longitude": -98.1128,
+      "existingProviders": 1
+    },
+    {
+      "market": "Minot|ND",
+      "city": "Minot",
+      "state": "ND",
+      "latitude": 48.313034,
+      "longitude": -101.2859768,
+      "existingProviders": 1
+    },
+    {
+      "market": "Mississippi region|MS",
+      "city": "Mississippi region",
+      "state": "MS",
+      "latitude": 32.3547,
+      "longitude": -89.3985,
+      "existingProviders": 1
+    },
+    {
+      "market": "Missouri City|TX",
+      "city": "Missouri City",
+      "state": "TX",
+      "latitude": 29.6186,
+      "longitude": -95.5377,
+      "existingProviders": 1
+    },
+    {
+      "market": "Mogadore|OH",
+      "city": "Mogadore",
+      "state": "OH",
+      "latitude": 41.0579749,
+      "longitude": -81.3934477,
+      "existingProviders": 1
+    },
+    {
+      "market": "Monahans|TX",
+      "city": "Monahans",
+      "state": "TX",
+      "latitude": 31.583835,
+      "longitude": -102.915034,
+      "existingProviders": 1
+    },
+    {
+      "market": "Monroeville|PA",
+      "city": "Monroeville",
+      "state": "PA",
+      "latitude": 40.4258207,
+      "longitude": -79.7403588,
+      "existingProviders": 1
+    },
+    {
+      "market": "Montgomery|IN",
+      "city": "Montgomery",
+      "state": "IN",
+      "latitude": 38.743805,
+      "longitude": -87.0614669,
+      "existingProviders": 1
+    },
+    {
+      "market": "Montgomery|TX",
+      "city": "Montgomery",
+      "state": "TX",
+      "latitude": 30.3883,
+      "longitude": -95.6963,
+      "existingProviders": 1
+    },
+    {
+      "market": "Moon Township|PA",
+      "city": "Moon Township",
+      "state": "PA",
+      "latitude": 40.4934757,
+      "longitude": -80.2025604,
+      "existingProviders": 1
+    },
+    {
+      "market": "Mount Morris|PA",
+      "city": "Mount Morris",
+      "state": "PA",
+      "latitude": 39.7334,
+      "longitude": -80.0701,
+      "existingProviders": 1
+    },
+    {
+      "market": "Mount Pleasant|MI",
+      "city": "Mount Pleasant",
+      "state": "MI",
+      "latitude": 43.5978,
+      "longitude": -84.7675,
+      "existingProviders": 1
+    },
+    {
+      "market": "Murrysville|PA",
+      "city": "Murrysville",
+      "state": "PA",
+      "latitude": 40.4236373,
+      "longitude": -79.67020769999999,
+      "existingProviders": 1
+    },
+    {
+      "market": "Ness City|KS",
+      "city": "Ness City",
+      "state": "KS",
+      "latitude": 38.4528,
+      "longitude": -99.9068,
+      "existingProviders": 1
+    },
+    {
+      "market": "New Alexandria|PA",
+      "city": "New Alexandria",
+      "state": "PA",
+      "latitude": 40.41337499999999,
+      "longitude": -79.378438,
+      "existingProviders": 1
+    },
+    {
+      "market": "New Harmony|IN",
+      "city": "New Harmony",
+      "state": "IN",
+      "latitude": 38.1298,
+      "longitude": -87.935,
+      "existingProviders": 1
+    },
+    {
+      "market": "New Martinsville|WV",
+      "city": "New Martinsville",
+      "state": "WV",
+      "latitude": 39.6445,
+      "longitude": -80.8576,
+      "existingProviders": 1
+    },
+    {
+      "market": "New Mexico / Texas|NM",
+      "city": "New Mexico / Texas",
+      "state": "NM",
+      "latitude": 34.5199,
+      "longitude": -105.8701,
+      "existingProviders": 1
+    },
+    {
+      "market": "New Orleans|LA",
+      "city": "New Orleans",
+      "state": "LA",
+      "latitude": 29.9511,
+      "longitude": -90.0715,
+      "existingProviders": 1
+    },
+    {
+      "market": "Norman|OK",
+      "city": "Norman",
+      "state": "OK",
+      "latitude": 35.2885507,
+      "longitude": -97.484866,
+      "existingProviders": 1
+    },
+    {
+      "market": "North Lima|OH",
+      "city": "North Lima",
+      "state": "OH",
+      "latitude": 40.9595377,
+      "longitude": -80.6360607,
+      "existingProviders": 1
+    },
+    {
+      "market": "Norton|VA",
+      "city": "Norton",
+      "state": "VA",
+      "latitude": 36.9350131,
+      "longitude": -82.6049103,
+      "existingProviders": 1
+    },
+    {
+      "market": "Norwich|OH",
+      "city": "Norwich",
+      "state": "OH",
+      "latitude": 39.9851,
+      "longitude": -81.7912,
+      "existingProviders": 1
+    },
+    {
+      "market": "Oakwood|VA",
+      "city": "Oakwood",
+      "state": "VA",
+      "latitude": 37.2212,
+      "longitude": -81.9748,
+      "existingProviders": 1
+    },
+    {
+      "market": "Oklahoma|OK",
+      "city": "Oklahoma",
+      "state": "OK",
+      "latitude": 35.4676,
+      "longitude": -97.5164,
+      "existingProviders": 1
+    },
+    {
+      "market": "Owensboro|KY",
+      "city": "Owensboro",
+      "state": "KY",
+      "latitude": 37.744305,
+      "longitude": -87.0595922,
+      "existingProviders": 1
+    },
+    {
+      "market": "Pawhuska|OK",
+      "city": "Pawhuska",
+      "state": "OK",
+      "latitude": 36.6678,
+      "longitude": -96.3372,
+      "existingProviders": 1
+    },
+    {
+      "market": "Pecos|TX",
+      "city": "Pecos",
+      "state": "TX",
+      "latitude": 31.4229,
+      "longitude": -103.4932,
+      "existingProviders": 1
+    },
+    {
+      "market": "Pennsylvania|PA",
+      "city": "Pennsylvania",
+      "state": "PA",
+      "latitude": 41.2033,
+      "longitude": -77.1945,
+      "existingProviders": 1
+    },
+    {
+      "market": "Philipsburg|PA",
+      "city": "Philipsburg",
+      "state": "PA",
+      "latitude": 40.887845,
+      "longitude": -78.230151,
+      "existingProviders": 1
+    },
+    {
+      "market": "Philpot|KY",
+      "city": "Philpot",
+      "state": "KY",
+      "latitude": 37.732,
+      "longitude": -86.9914,
+      "existingProviders": 1
+    },
+    {
+      "market": "Pikeville|KY",
+      "city": "Pikeville",
+      "state": "KY",
+      "latitude": 37.4836398,
+      "longitude": -82.5134485,
+      "existingProviders": 1
+    },
+    {
+      "market": "Pinehurst|TX",
+      "city": "Pinehurst",
+      "state": "TX",
+      "latitude": 30.1711,
+      "longitude": -95.6822,
+      "existingProviders": 1
+    },
+    {
+      "market": "Pineville|WV",
+      "city": "Pineville",
+      "state": "WV",
+      "latitude": 37.6130965,
+      "longitude": -81.5196581,
+      "existingProviders": 1
+    },
+    {
+      "market": "Platteville|CO",
+      "city": "Platteville",
+      "state": "CO",
+      "latitude": 40.2191836,
+      "longitude": -104.8189878,
+      "existingProviders": 1
+    },
+    {
+      "market": "Pleasanton|TX",
+      "city": "Pleasanton",
+      "state": "TX",
+      "latitude": 28.931055,
+      "longitude": -98.475961,
+      "existingProviders": 1
+    },
+    {
+      "market": "Poolville|TX",
+      "city": "Poolville",
+      "state": "TX",
+      "latitude": 33.007953,
+      "longitude": -97.847179,
+      "existingProviders": 1
+    },
+    {
+      "market": "Port Fourchon|LA",
+      "city": "Port Fourchon",
+      "state": "LA",
+      "latitude": 29.105,
+      "longitude": -90.194,
+      "existingProviders": 1
+    },
+    {
+      "market": "Powell|WY",
+      "city": "Powell",
+      "state": "WY",
+      "latitude": 44.7538,
+      "longitude": -108.7574,
+      "existingProviders": 1
+    },
+    {
+      "market": "Pratt|KS",
+      "city": "Pratt",
+      "state": "KS",
+      "latitude": 37.6439,
+      "longitude": -98.7376,
+      "existingProviders": 1
+    },
+    {
+      "market": "Prestonsburg|KY",
+      "city": "Prestonsburg",
+      "state": "KY",
+      "latitude": 37.6657,
+      "longitude": -82.7715,
+      "existingProviders": 1
+    },
+    {
+      "market": "Princeton|IN",
+      "city": "Princeton",
+      "state": "IN",
+      "latitude": 38.3553,
+      "longitude": -87.5675,
+      "existingProviders": 1
+    },
+    {
+      "market": "Richmond|TX",
+      "city": "Richmond",
+      "state": "TX",
+      "latitude": 29.5822,
+      "longitude": -95.7608,
+      "existingProviders": 1
+    },
+    {
+      "market": "Ripley|WV",
+      "city": "Ripley",
+      "state": "WV",
+      "latitude": 38.8187,
+      "longitude": -81.7107,
+      "existingProviders": 1
+    },
+    {
+      "market": "Rittman|OH",
+      "city": "Rittman",
+      "state": "OH",
+      "latitude": 40.9181901,
+      "longitude": -81.7807395,
+      "existingProviders": 1
+    },
+    {
+      "market": "Riverton|WY",
+      "city": "Riverton",
+      "state": "WY",
+      "latitude": 43.0247,
+      "longitude": -108.3801,
+      "existingProviders": 1
+    },
+    {
+      "market": "Robinson|IL",
+      "city": "Robinson",
+      "state": "IL",
+      "latitude": 39.0053,
+      "longitude": -87.7392,
+      "existingProviders": 1
+    },
+    {
+      "market": "Rolla|MO",
+      "city": "Rolla",
+      "state": "MO",
+      "latitude": 37.9485,
+      "longitude": -91.7715,
+      "existingProviders": 1
+    },
+    {
+      "market": "Rosedale|VA",
+      "city": "Rosedale",
+      "state": "VA",
+      "latitude": 36.95537729999999,
+      "longitude": -81.94127,
+      "existingProviders": 1
+    },
+    {
+      "market": "Russell|KS",
+      "city": "Russell",
+      "state": "KS",
+      "latitude": 38.8953,
+      "longitude": -98.8748,
+      "existingProviders": 1
+    },
+    {
+      "market": "Salem|IL",
+      "city": "Salem",
+      "state": "IL",
+      "latitude": 38.62699,
+      "longitude": -88.9456,
+      "existingProviders": 1
+    },
+    {
+      "market": "Salunga|PA",
+      "city": "Salunga",
+      "state": "PA",
+      "latitude": 40.1040719,
+      "longitude": -76.4287996,
+      "existingProviders": 1
+    },
+    {
+      "market": "San Antonio|TX",
+      "city": "San Antonio",
+      "state": "TX",
+      "latitude": 29.4241,
+      "longitude": -98.4936,
+      "existingProviders": 1
+    },
+    {
+      "market": "Santa Clara|CA",
+      "city": "Santa Clara",
+      "state": "CA",
+      "latitude": 37.3965317,
+      "longitude": -121.9843144,
+      "existingProviders": 1
+    },
+    {
+      "market": "Scottsville|NY",
+      "city": "Scottsville",
+      "state": "NY",
+      "latitude": 43.010406,
+      "longitude": -77.828952,
+      "existingProviders": 1
+    },
+    {
+      "market": "Sebree|KY",
+      "city": "Sebree",
+      "state": "KY",
+      "latitude": 37.606967,
+      "longitude": -87.5285995,
+      "existingProviders": 1
+    },
+    {
+      "market": "Seminole|TX",
+      "city": "Seminole",
+      "state": "TX",
+      "latitude": 32.6659999,
+      "longitude": -102.6436,
+      "existingProviders": 1
+    },
+    {
+      "market": "Shelocta|PA",
+      "city": "Shelocta",
+      "state": "PA",
+      "latitude": 40.68958070000001,
+      "longitude": -79.3388666,
+      "existingProviders": 1
+    },
+    {
+      "market": "Sheridan|WY",
+      "city": "Sheridan",
+      "state": "WY",
+      "latitude": 44.763343,
+      "longitude": -107.089788,
+      "existingProviders": 1
+    },
+    {
+      "market": "Shinnston|WV",
+      "city": "Shinnston",
+      "state": "WV",
+      "latitude": 39.3956,
+      "longitude": -80.3001,
+      "existingProviders": 1
+    },
+    {
+      "market": "Sidney|MT",
+      "city": "Sidney",
+      "state": "MT",
+      "latitude": 47.7167,
+      "longitude": -104.1563,
+      "existingProviders": 1
+    },
+    {
+      "market": "Slaton|TX",
+      "city": "Slaton",
+      "state": "TX",
+      "latitude": 33.4839096,
+      "longitude": -101.7111892,
+      "existingProviders": 1
+    },
+    {
+      "market": "Smithfield|PA",
+      "city": "Smithfield",
+      "state": "PA",
+      "latitude": 39.8001,
+      "longitude": -79.807,
+      "existingProviders": 1
+    },
+    {
+      "market": "Smithton|PA",
+      "city": "Smithton",
+      "state": "PA",
+      "latitude": 40.1796022,
+      "longitude": -79.7416739,
+      "existingProviders": 1
+    },
+    {
+      "market": "Somerset|OH",
+      "city": "Somerset",
+      "state": "OH",
+      "latitude": 39.7938423,
+      "longitude": -82.2353134,
+      "existingProviders": 1
+    },
+    {
+      "market": "Somerset|PA",
+      "city": "Somerset",
+      "state": "PA",
+      "latitude": 40.0317409,
+      "longitude": -79.084808,
+      "existingProviders": 1
+    },
+    {
+      "market": "Southeast Kansas|KS",
+      "city": "Southeast Kansas",
+      "state": "KS",
+      "latitude": 37.34,
+      "longitude": -95.26,
+      "existingProviders": 1
+    },
+    {
+      "market": "Spearfish|SD",
+      "city": "Spearfish",
+      "state": "SD",
+      "latitude": 44.4908,
+      "longitude": -103.8594,
+      "existingProviders": 1
+    },
+    {
+      "market": "Spring|TX",
+      "city": "Spring",
+      "state": "TX",
+      "latitude": 30.0972,
+      "longitude": -95.432,
+      "existingProviders": 1
+    },
+    {
+      "market": "St Clairsville|OH",
+      "city": "St Clairsville",
+      "state": "OH",
+      "latitude": 40.0566763,
+      "longitude": -80.9865923,
+      "existingProviders": 1
+    },
+    {
+      "market": "St. Elmo|IL",
+      "city": "St. Elmo",
+      "state": "IL",
+      "latitude": 39.0278,
+      "longitude": -88.8487,
+      "existingProviders": 1
+    },
+    {
+      "market": "St. Louis|MO",
+      "city": "St. Louis",
+      "state": "MO",
+      "latitude": 38.6803296,
+      "longitude": -90.3984672,
+      "existingProviders": 1
+    },
+    {
+      "market": "Stafford|TX",
+      "city": "Stafford",
+      "state": "TX",
+      "latitude": 29.627,
+      "longitude": -95.565,
+      "existingProviders": 1
+    },
+    {
+      "market": "Sterling|IL",
+      "city": "Sterling",
+      "state": "IL",
+      "latitude": 41.7886,
+      "longitude": -89.6962,
+      "existingProviders": 1
+    },
+    {
+      "market": "Stillwater|OK",
+      "city": "Stillwater",
+      "state": "OK",
+      "latitude": 36.1156,
+      "longitude": -97.0584,
+      "existingProviders": 1
+    },
+    {
+      "market": "Sturgis|SD",
+      "city": "Sturgis",
+      "state": "SD",
+      "latitude": 44.4097,
+      "longitude": -103.5091,
+      "existingProviders": 1
+    },
+    {
+      "market": "Sugar Grove|PA",
+      "city": "Sugar Grove",
+      "state": "PA",
+      "latitude": 41.9695046,
+      "longitude": -79.3339885,
+      "existingProviders": 1
+    },
+    {
+      "market": "Sugar Land|TX",
+      "city": "Sugar Land",
+      "state": "TX",
+      "latitude": 29.6197,
+      "longitude": -95.6349,
+      "existingProviders": 1
+    },
+    {
+      "market": "Sunnyvale|CA",
+      "city": "Sunnyvale",
+      "state": "CA",
+      "latitude": 37.3688,
+      "longitude": -122.0363,
+      "existingProviders": 1
+    },
+    {
+      "market": "Sweetwater|TX",
+      "city": "Sweetwater",
+      "state": "TX",
+      "latitude": 32.447274,
+      "longitude": -100.502663,
+      "existingProviders": 1
+    },
+    {
+      "market": "Tempe|AZ",
+      "city": "Tempe",
+      "state": "AZ",
+      "latitude": 33.4255,
+      "longitude": -111.94,
+      "existingProviders": 1
+    },
+    {
+      "market": "Terre Haute|IN",
+      "city": "Terre Haute",
+      "state": "IN",
+      "latitude": 39.4694062,
+      "longitude": -87.4010241,
+      "existingProviders": 1
+    },
+    {
+      "market": "Texas / Oklahoma|TX",
+      "city": "Texas / Oklahoma",
+      "state": "TX",
+      "latitude": 31.9686,
+      "longitude": -99.9018,
+      "existingProviders": 1
+    },
+    {
+      "market": "Thermopolis|WY",
+      "city": "Thermopolis",
+      "state": "WY",
+      "latitude": 43.6812858,
+      "longitude": -108.2970199,
+      "existingProviders": 1
+    },
+    {
+      "market": "Three Forks|MT",
+      "city": "Three Forks",
+      "state": "MT",
+      "latitude": 45.8807426,
+      "longitude": -111.4364404,
+      "existingProviders": 1
+    },
+    {
+      "market": "Tioga|ND",
+      "city": "Tioga",
+      "state": "ND",
+      "latitude": 48.4077315,
+      "longitude": -102.9276872,
+      "existingProviders": 1
+    },
+    {
+      "market": "Titusville|PA",
+      "city": "Titusville",
+      "state": "PA",
+      "latitude": 41.6252554,
+      "longitude": -79.6581635,
+      "existingProviders": 1
+    },
+    {
+      "market": "Triadelphia|WV",
+      "city": "Triadelphia",
+      "state": "WV",
+      "latitude": 40.052,
+      "longitude": -80.6284,
+      "existingProviders": 1
+    },
+    {
+      "market": "Trinidad|CO",
+      "city": "Trinidad",
+      "state": "CO",
+      "latitude": 37.1695,
+      "longitude": -104.5005,
+      "existingProviders": 1
+    },
+    {
+      "market": "Tyler|TX",
+      "city": "Tyler",
+      "state": "TX",
+      "latitude": 32.309907,
+      "longitude": -95.367623,
+      "existingProviders": 1
+    },
+    {
+      "market": "Ulster|PA",
+      "city": "Ulster",
+      "state": "PA",
+      "latitude": 41.84154,
+      "longitude": -76.506119,
+      "existingProviders": 1
+    },
+    {
+      "market": "United States|TX",
+      "city": "United States",
+      "state": "TX",
+      "latitude": 31.9686,
+      "longitude": -99.9018,
+      "existingProviders": 1
+    },
+    {
+      "market": "Upton|WY",
+      "city": "Upton",
+      "state": "WY",
+      "latitude": 44.0997,
+      "longitude": -104.6289,
+      "existingProviders": 1
+    },
+    {
+      "market": "Vance|AL",
+      "city": "Vance",
+      "state": "AL",
+      "latitude": 33.2160172,
+      "longitude": -87.2923142,
+      "existingProviders": 1
+    },
+    {
+      "market": "Ventura|CA",
+      "city": "Ventura",
+      "state": "CA",
+      "latitude": 34.2746,
+      "longitude": -119.229,
+      "existingProviders": 1
+    },
+    {
+      "market": "Victoria|KS",
+      "city": "Victoria",
+      "state": "KS",
+      "latitude": 38.8469148,
+      "longitude": -99.145919,
+      "existingProviders": 1
+    },
+    {
+      "market": "Victoria|TX",
+      "city": "Victoria",
+      "state": "TX",
+      "latitude": 28.8053,
+      "longitude": -97.0036,
+      "existingProviders": 1
+    },
+    {
+      "market": "Vincennes|IN",
+      "city": "Vincennes",
+      "state": "IN",
+      "latitude": 38.6783209,
+      "longitude": -87.53044299999999,
+      "existingProviders": 1
+    },
+    {
+      "market": "Wayne City|IL",
+      "city": "Wayne City",
+      "state": "IL",
+      "latitude": 38.34803730000001,
+      "longitude": -88.59340530000001,
+      "existingProviders": 1
+    },
+    {
+      "market": "Wellsboro|PA",
+      "city": "Wellsboro",
+      "state": "PA",
+      "latitude": 41.7407569,
+      "longitude": -77.295021,
+      "existingProviders": 1
+    },
+    {
+      "market": "West Blocton|AL",
+      "city": "West Blocton",
+      "state": "AL",
+      "latitude": 33.2153569,
+      "longitude": -87.0783932,
+      "existingProviders": 1
+    },
+    {
+      "market": "Western Pennsylvania|PA",
+      "city": "Western Pennsylvania",
+      "state": "PA",
+      "latitude": 40.4406,
+      "longitude": -79.9959,
+      "existingProviders": 1
+    },
+    {
+      "market": "Westfield|PA",
+      "city": "Westfield",
+      "state": "PA",
+      "latitude": 41.9162802,
+      "longitude": -77.5358761,
+      "existingProviders": 1
+    },
+    {
+      "market": "Weston|WV",
+      "city": "Weston",
+      "state": "WV",
+      "latitude": 39.0384,
+      "longitude": -80.4673,
+      "existingProviders": 1
+    },
+    {
+      "market": "Whitesboro|TX",
+      "city": "Whitesboro",
+      "state": "TX",
+      "latitude": 33.6557964,
+      "longitude": -96.9145007,
+      "existingProviders": 1
+    },
+    {
+      "market": "Wichita Falls|TX",
+      "city": "Wichita Falls",
+      "state": "TX",
+      "latitude": 33.9137,
+      "longitude": -98.4934,
+      "existingProviders": 1
+    },
+    {
+      "market": "Windsor|CO",
+      "city": "Windsor",
+      "state": "CO",
+      "latitude": 40.469872,
+      "longitude": -104.884701,
+      "existingProviders": 1
+    },
+    {
+      "market": "Winfield|WV",
+      "city": "Winfield",
+      "state": "WV",
+      "latitude": 38.5325,
+      "longitude": -81.8931,
+      "existingProviders": 1
+    },
+    {
+      "market": "Winnsboro|TX",
+      "city": "Winnsboro",
+      "state": "TX",
+      "latitude": 32.7682905,
+      "longitude": -95.1757053,
+      "existingProviders": 1
+    },
+    {
+      "market": "Wooster|OH",
+      "city": "Wooster",
+      "state": "OH",
+      "latitude": 40.8051,
+      "longitude": -81.9351,
+      "existingProviders": 1
+    },
+    {
+      "market": "Worthington|PA",
+      "city": "Worthington",
+      "state": "PA",
+      "latitude": 40.8337349,
+      "longitude": -79.62377710000001,
+      "existingProviders": 1
+    },
+    {
+      "market": "Wynona|OK",
+      "city": "Wynona",
+      "state": "OK",
+      "latitude": 36.5438364,
+      "longitude": -96.32659609999999,
+      "existingProviders": 1
+    },
+    {
+      "market": "Youngstown|OH",
+      "city": "Youngstown",
+      "state": "OH",
+      "latitude": 41.0998,
+      "longitude": -80.6495,
+      "existingProviders": 1
+    },
+    {
+      "market": "Yukon|OK",
+      "city": "Yukon",
+      "state": "OK",
+      "latitude": 35.5067,
+      "longitude": -97.7625,
+      "existingProviders": 1
+    },
+    {
+      "market": "Zelienople|PA",
+      "city": "Zelienople",
+      "state": "PA",
+      "latitude": 40.7948919,
+      "longitude": -80.1491391,
+      "existingProviders": 1
+    },
+    {
+      "market": "Alice|TX",
+      "city": "Alice",
+      "state": "TX",
+      "latitude": 27.747925,
+      "longitude": -98.05271149999999,
+      "existingProviders": 2
+    },
+    {
+      "market": "Athens|PA",
+      "city": "Athens",
+      "state": "PA",
+      "latitude": 41.96090115,
+      "longitude": -76.52008040000001,
+      "existingProviders": 2
+    },
+    {
+      "market": "Aztec|NM",
+      "city": "Aztec",
+      "state": "NM",
+      "latitude": 36.81746785,
+      "longitude": -107.99675819999999,
+      "existingProviders": 2
+    },
+    {
+      "market": "Baker|MT",
+      "city": "Baker",
+      "state": "MT",
+      "latitude": 46.3671895,
+      "longitude": -104.283344,
+      "existingProviders": 2
+    },
+    {
+      "market": "Beverly|OH",
+      "city": "Beverly",
+      "state": "OH",
+      "latitude": 39.55888185,
+      "longitude": -81.6465008,
+      "existingProviders": 2
+    },
+    {
+      "market": "Birmingham|AL",
+      "city": "Birmingham",
+      "state": "AL",
+      "latitude": 33.51763575,
+      "longitude": -86.83443700000001,
+      "existingProviders": 2
+    },
+    {
+      "market": "Bozeman|MT",
+      "city": "Bozeman",
+      "state": "MT",
+      "latitude": 45.730127800000005,
+      "longitude": -111.1397648,
+      "existingProviders": 2
+    },
+    {
+      "market": "Broomfield|CO",
+      "city": "Broomfield",
+      "state": "CO",
+      "latitude": 39.92225,
+      "longitude": -105.10225,
+      "existingProviders": 2
+    },
+    {
+      "market": "Carencro|LA",
+      "city": "Carencro",
+      "state": "LA",
+      "latitude": 30.3349649,
+      "longitude": -92.06865400000001,
+      "existingProviders": 2
+    },
+    {
+      "market": "Carnegie|PA",
+      "city": "Carnegie",
+      "state": "PA",
+      "latitude": 40.4069892,
+      "longitude": -80.08823765,
+      "existingProviders": 2
+    },
+    {
+      "market": "Cedar Bluff|VA",
+      "city": "Cedar Bluff",
+      "state": "VA",
+      "latitude": 37.069445200000004,
+      "longitude": -81.7707267,
+      "existingProviders": 2
+    },
+    {
+      "market": "Chattanooga|TN",
+      "city": "Chattanooga",
+      "state": "TN",
+      "latitude": 35.059365650000004,
+      "longitude": -85.2435784,
+      "existingProviders": 2
+    },
+    {
+      "market": "Columbus|OH",
+      "city": "Columbus",
+      "state": "OH",
+      "latitude": 39.9612,
+      "longitude": -82.9988,
+      "existingProviders": 2
+    },
+    {
+      "market": "Corbin|KY",
+      "city": "Corbin",
+      "state": "KY",
+      "latitude": 36.928290000000004,
+      "longitude": -84.126282,
+      "existingProviders": 2
+    },
+    {
+      "market": "Corpus Christi|TX",
+      "city": "Corpus Christi",
+      "state": "TX",
+      "latitude": 27.7157805,
+      "longitude": -97.420991,
+      "existingProviders": 2
+    },
+    {
+      "market": "Cottondale|AL",
+      "city": "Cottondale",
+      "state": "AL",
+      "latitude": 33.17841825,
+      "longitude": -87.4187951,
+      "existingProviders": 2
+    },
+    {
+      "market": "Dallas|TX",
+      "city": "Dallas",
+      "state": "TX",
+      "latitude": 32.79835,
+      "longitude": -96.802,
+      "existingProviders": 2
+    },
+    {
+      "market": "Decatur|TX",
+      "city": "Decatur",
+      "state": "TX",
+      "latitude": 33.3035608,
+      "longitude": -97.54333729999999,
+      "existingProviders": 2
+    },
+    {
+      "market": "El Reno|OK",
+      "city": "El Reno",
+      "state": "OK",
+      "latitude": 35.5323,
+      "longitude": -97.955,
+      "existingProviders": 2
+    },
+    {
+      "market": "Erie|PA",
+      "city": "Erie",
+      "state": "PA",
+      "latitude": 42.11868925,
+      "longitude": -80.1112951,
+      "existingProviders": 2
+    },
+    {
+      "market": "Flora|IL",
+      "city": "Flora",
+      "state": "IL",
+      "latitude": 38.66998155,
+      "longitude": -88.4729538,
+      "existingProviders": 2
+    },
+    {
+      "market": "Garden City|KS",
+      "city": "Garden City",
+      "state": "KS",
+      "latitude": 37.9717,
+      "longitude": -100.8727,
+      "existingProviders": 2
+    },
+    {
+      "market": "Glasgow|KY",
+      "city": "Glasgow",
+      "state": "KY",
+      "latitude": 36.9740696,
+      "longitude": -85.94219945,
+      "existingProviders": 2
+    },
+    {
+      "market": "Godley|TX",
+      "city": "Godley",
+      "state": "TX",
+      "latitude": 32.448944299999994,
+      "longitude": -97.5315973,
+      "existingProviders": 2
+    },
+    {
+      "market": "Henderson|CO",
+      "city": "Henderson",
+      "state": "CO",
+      "latitude": 39.90090235,
+      "longitude": -104.8778552,
+      "existingProviders": 2
+    },
+    {
+      "market": "Henderson|KY",
+      "city": "Henderson",
+      "state": "KY",
+      "latitude": 37.8362,
+      "longitude": -87.59,
+      "existingProviders": 2
+    },
+    {
+      "market": "Houma|LA",
+      "city": "Houma",
+      "state": "LA",
+      "latitude": 29.5958,
+      "longitude": -90.7195,
+      "existingProviders": 2
+    },
+    {
+      "market": "Houston|PA",
+      "city": "Houston",
+      "state": "PA",
+      "latitude": 40.2381089,
+      "longitude": -80.2235231,
+      "existingProviders": 2
+    },
+    {
+      "market": "Indiana|PA",
+      "city": "Indiana",
+      "state": "PA",
+      "latitude": 40.652828650000004,
+      "longitude": -79.12611515,
+      "existingProviders": 2
+    },
+    {
+      "market": "Jacksboro|TX",
+      "city": "Jacksboro",
+      "state": "TX",
+      "latitude": 33.218359,
+      "longitude": -98.1763835,
+      "existingProviders": 2
+    },
+    {
+      "market": "Katy|TX",
+      "city": "Katy",
+      "state": "TX",
+      "latitude": 29.787935849999997,
+      "longitude": -95.77833265,
+      "existingProviders": 2
+    },
+    {
+      "market": "Knoxville|TN",
+      "city": "Knoxville",
+      "state": "TN",
+      "latitude": 35.9281,
+      "longitude": -84.03335,
+      "existingProviders": 2
+    },
+    {
+      "market": "Little Rock|AR",
+      "city": "Little Rock",
+      "state": "AR",
+      "latitude": 34.7465,
+      "longitude": -92.2896,
+      "existingProviders": 2
+    },
+    {
+      "market": "Mills|WY",
+      "city": "Mills",
+      "state": "WY",
+      "latitude": 42.84025,
+      "longitude": -106.3752,
+      "existingProviders": 2
+    },
+    {
+      "market": "Nashville|TN",
+      "city": "Nashville",
+      "state": "TN",
+      "latitude": 36.1627,
+      "longitude": -86.7816,
+      "existingProviders": 2
+    },
+    {
+      "market": "Olney|IL",
+      "city": "Olney",
+      "state": "IL",
+      "latitude": 38.7196345,
+      "longitude": -88.0868617,
+      "existingProviders": 2
+    },
+    {
+      "market": "Punxsutawney|PA",
+      "city": "Punxsutawney",
+      "state": "PA",
+      "latitude": 40.9437,
+      "longitude": -78.9709,
+      "existingProviders": 2
+    },
+    {
+      "market": "Rock Springs|WY",
+      "city": "Rock Springs",
+      "state": "WY",
+      "latitude": 41.61450905,
+      "longitude": -109.2564371,
+      "existingProviders": 2
+    },
+    {
+      "market": "Salyersville|KY",
+      "city": "Salyersville",
+      "state": "KY",
+      "latitude": 37.7274565,
+      "longitude": -83.0238214,
+      "existingProviders": 2
+    },
+    {
+      "market": "Saxonburg|PA",
+      "city": "Saxonburg",
+      "state": "PA",
+      "latitude": 40.7534,
+      "longitude": -79.81085,
+      "existingProviders": 2
+    },
+    {
+      "market": "Sterling|KS",
+      "city": "Sterling",
+      "state": "KS",
+      "latitude": 38.211656399999995,
+      "longitude": -98.2029477,
+      "existingProviders": 2
+    },
+    {
+      "market": "Texas|TX",
+      "city": "Texas",
+      "state": "TX",
+      "latitude": 31.9686,
+      "longitude": -99.9018,
+      "existingProviders": 2
+    },
+    {
+      "market": "Traverse City|MI",
+      "city": "Traverse City",
+      "state": "MI",
+      "latitude": 44.7692904,
+      "longitude": -85.62845945,
+      "existingProviders": 2
+    },
+    {
+      "market": "United States|US",
+      "city": "United States",
+      "state": "US",
+      "latitude": 39.8283,
+      "longitude": -98.5795,
+      "existingProviders": 2
+    },
+    {
+      "market": "Washington|PA",
+      "city": "Washington",
+      "state": "PA",
+      "latitude": 40.206776500000004,
+      "longitude": -80.23828205000001,
+      "existingProviders": 2
+    },
+    {
+      "market": "Weatherford|OK",
+      "city": "Weatherford",
+      "state": "OK",
+      "latitude": 35.5262,
+      "longitude": -98.7076,
+      "existingProviders": 2
+    },
+    {
+      "market": "Albany|KY",
+      "city": "Albany",
+      "state": "KY",
+      "latitude": 36.73344923333333,
+      "longitude": -85.16803803333333,
+      "existingProviders": 3
+    },
+    {
+      "market": "Arcadia|LA",
+      "city": "Arcadia",
+      "state": "LA",
+      "latitude": 32.55228556666666,
+      "longitude": -92.91961450000001,
+      "existingProviders": 3
+    },
+    {
+      "market": "Arnegard|ND",
+      "city": "Arnegard",
+      "state": "ND",
+      "latitude": 47.79063276666667,
+      "longitude": -103.42383746666667,
+      "existingProviders": 3
+    },
+    {
+      "market": "Athens|TX",
+      "city": "Athens",
+      "state": "TX",
+      "latitude": 32.182012033333336,
+      "longitude": -95.854708,
+      "existingProviders": 3
+    },
+    {
+      "market": "Billings|MT",
+      "city": "Billings",
+      "state": "MT",
+      "latitude": 45.7833,
+      "longitude": -108.5007,
+      "existingProviders": 3
+    },
+    {
+      "market": "Brookwood|AL",
+      "city": "Brookwood",
+      "state": "AL",
+      "latitude": 33.24239599999999,
+      "longitude": -87.32194133333333,
+      "existingProviders": 3
+    },
+    {
+      "market": "Buckhannon|WV",
+      "city": "Buckhannon",
+      "state": "WV",
+      "latitude": 39.000498666666665,
+      "longitude": -80.25191533333333,
+      "existingProviders": 3
+    },
+    {
+      "market": "Cambridge|OH",
+      "city": "Cambridge",
+      "state": "OH",
+      "latitude": 40.0254945,
+      "longitude": -81.59080143333334,
+      "existingProviders": 3
+    },
+    {
+      "market": "Carlsbad|NM",
+      "city": "Carlsbad",
+      "state": "NM",
+      "latitude": 32.4261189,
+      "longitude": -104.2316323,
+      "existingProviders": 3
+    },
+    {
+      "market": "Clay City|IL",
+      "city": "Clay City",
+      "state": "IL",
+      "latitude": 38.68880746666667,
+      "longitude": -88.34371926666667,
+      "existingProviders": 3
+    },
+    {
+      "market": "Clearfield|PA",
+      "city": "Clearfield",
+      "state": "PA",
+      "latitude": 41.02027846666667,
+      "longitude": -78.41472806666667,
+      "existingProviders": 3
+    },
+    {
+      "market": "Coeburn|VA",
+      "city": "Coeburn",
+      "state": "VA",
+      "latitude": 36.9428442,
+      "longitude": -82.4630327,
+      "existingProviders": 3
+    },
+    {
+      "market": "Columbia|MS",
+      "city": "Columbia",
+      "state": "MS",
+      "latitude": 31.248250066666667,
+      "longitude": -89.82754473333334,
+      "existingProviders": 3
+    },
+    {
+      "market": "Conroe|TX",
+      "city": "Conroe",
+      "state": "TX",
+      "latitude": 30.3544804,
+      "longitude": -95.42345599999999,
+      "existingProviders": 3
+    },
+    {
+      "market": "El Dorado|KS",
+      "city": "El Dorado",
+      "state": "KS",
+      "latitude": 37.8170828,
+      "longitude": -96.89737453333333,
+      "existingProviders": 3
+    },
+    {
+      "market": "Frierson|LA",
+      "city": "Frierson",
+      "state": "LA",
+      "latitude": 32.2451511,
+      "longitude": -93.6999394,
+      "existingProviders": 3
+    },
+    {
+      "market": "Greeley|CO",
+      "city": "Greeley",
+      "state": "CO",
+      "latitude": 40.43966266666666,
+      "longitude": -104.64633796666668,
+      "existingProviders": 3
+    },
+    {
+      "market": "Longview|TX",
+      "city": "Longview",
+      "state": "TX",
+      "latitude": 32.447091433333334,
+      "longitude": -94.69324510000001,
+      "existingProviders": 3
+    },
+    {
+      "market": "Morgantown|WV",
+      "city": "Morgantown",
+      "state": "WV",
+      "latitude": 39.62085886666667,
+      "longitude": -79.9744249,
+      "existingProviders": 3
+    },
+    {
+      "market": "New Iberia|LA",
+      "city": "New Iberia",
+      "state": "LA",
+      "latitude": 30.006856166666665,
+      "longitude": -91.85094223333334,
+      "existingProviders": 3
+    },
+    {
+      "market": "Rapid City|SD",
+      "city": "Rapid City",
+      "state": "SD",
+      "latitude": 44.081133333333334,
+      "longitude": -103.24266666666666,
+      "existingProviders": 3
+    },
+    {
+      "market": "Richmond|KY",
+      "city": "Richmond",
+      "state": "KY",
+      "latitude": 37.7479,
+      "longitude": -84.2947,
+      "existingProviders": 3
+    },
+    {
+      "market": "Shreveport|LA",
+      "city": "Shreveport",
+      "state": "LA",
+      "latitude": 32.525928,
+      "longitude": -93.75433306666667,
+      "existingProviders": 3
+    },
+    {
+      "market": "Waynesburg|PA",
+      "city": "Waynesburg",
+      "state": "PA",
+      "latitude": 39.8970397,
+      "longitude": -80.16884446666666,
+      "existingProviders": 3
+    },
+    {
+      "market": "Artesia|NM",
+      "city": "Artesia",
+      "state": "NM",
+      "latitude": 32.83998175,
+      "longitude": -104.3788945,
+      "existingProviders": 4
+    },
+    {
+      "market": "Bay City|TX",
+      "city": "Bay City",
+      "state": "TX",
+      "latitude": 28.99131685,
+      "longitude": -95.95058045,
+      "existingProviders": 4
+    },
+    {
+      "market": "Belfield|ND",
+      "city": "Belfield",
+      "state": "ND",
+      "latitude": 46.895877,
+      "longitude": -103.205762725,
+      "existingProviders": 4
+    },
+    {
+      "market": "Belgrade|MT",
+      "city": "Belgrade",
+      "state": "MT",
+      "latitude": 45.767598650000004,
+      "longitude": -111.2092451,
+      "existingProviders": 4
+    },
+    {
+      "market": "Big Lake|TX",
+      "city": "Big Lake",
+      "state": "TX",
+      "latitude": 31.2297115,
+      "longitude": -101.45524717500001,
+      "existingProviders": 4
+    },
+    {
+      "market": "Charleston|WV",
+      "city": "Charleston",
+      "state": "WV",
+      "latitude": 38.362839325,
+      "longitude": -81.623640875,
+      "existingProviders": 4
+    },
+    {
+      "market": "Cheyenne|WY",
+      "city": "Cheyenne",
+      "state": "WY",
+      "latitude": 41.159918875,
+      "longitude": -104.849192625,
+      "existingProviders": 4
+    },
+    {
+      "market": "Fort Worth|TX",
+      "city": "Fort Worth",
+      "state": "TX",
+      "latitude": 32.750729074999995,
+      "longitude": -97.3556457,
+      "existingProviders": 4
+    },
+    {
+      "market": "Fredericktown|MO",
+      "city": "Fredericktown",
+      "state": "MO",
+      "latitude": 37.549795025,
+      "longitude": -90.2530329,
+      "existingProviders": 4
+    },
+    {
+      "market": "Gaylord|MI",
+      "city": "Gaylord",
+      "state": "MI",
+      "latitude": 45.038325975,
+      "longitude": -84.68435410000001,
+      "existingProviders": 4
+    },
+    {
+      "market": "Grand Junction|CO",
+      "city": "Grand Junction",
+      "state": "CO",
+      "latitude": 39.087822,
+      "longitude": -108.577194,
+      "existingProviders": 4
+    },
+    {
+      "market": "Laurel|MS",
+      "city": "Laurel",
+      "state": "MS",
+      "latitude": 31.68566095,
+      "longitude": -89.14279605,
+      "existingProviders": 4
+    },
+    {
+      "market": "Odessa|TX",
+      "city": "Odessa",
+      "state": "TX",
+      "latitude": 31.8457,
+      "longitude": -102.3676,
+      "existingProviders": 4
+    },
+    {
+      "market": "Douglas|WY",
+      "city": "Douglas",
+      "state": "WY",
+      "latitude": 42.7596994,
+      "longitude": -105.35193457999999,
+      "existingProviders": 5
+    },
+    {
+      "market": "Farmington|NM",
+      "city": "Farmington",
+      "state": "NM",
+      "latitude": 36.7357123,
+      "longitude": -108.17279584,
+      "existingProviders": 5
+    },
+    {
+      "market": "Fort Stockton|TX",
+      "city": "Fort Stockton",
+      "state": "TX",
+      "latitude": 30.903409019999998,
+      "longitude": -102.89402021999999,
+      "existingProviders": 5
+    },
+    {
+      "market": "Gainesville|TX",
+      "city": "Gainesville",
+      "state": "TX",
+      "latitude": 33.61667854,
+      "longitude": -97.1065829,
+      "existingProviders": 5
+    },
+    {
+      "market": "Hays|KS",
+      "city": "Hays",
+      "state": "KS",
+      "latitude": 38.88249810000001,
+      "longitude": -99.3168789,
+      "existingProviders": 5
+    },
+    {
+      "market": "Marietta|OH",
+      "city": "Marietta",
+      "state": "OH",
+      "latitude": 39.436106159999994,
+      "longitude": -81.45327346,
+      "existingProviders": 5
+    },
+    {
+      "market": "Pittsburgh|PA",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "latitude": 40.42459916,
+      "longitude": -80.05848816,
+      "existingProviders": 5
+    },
+    {
+      "market": "Watford City|ND",
+      "city": "Watford City",
+      "state": "ND",
+      "latitude": 47.787780739999995,
+      "longitude": -103.27271277999998,
+      "existingProviders": 5
+    },
+    {
+      "market": "Broussard|LA",
+      "city": "Broussard",
+      "state": "LA",
+      "latitude": 30.113430116666667,
+      "longitude": -91.94123846666666,
+      "existingProviders": 6
+    },
+    {
+      "market": "Denver|CO",
+      "city": "Denver",
+      "state": "CO",
+      "latitude": 39.74106666666666,
+      "longitude": -104.99125000000002,
+      "existingProviders": 6
+    },
+    {
+      "market": "Fort Lupton|CO",
+      "city": "Fort Lupton",
+      "state": "CO",
+      "latitude": 40.111323250000005,
+      "longitude": -104.81341556666668,
+      "existingProviders": 6
+    },
+    {
+      "market": "Great Bend|KS",
+      "city": "Great Bend",
+      "state": "KS",
+      "latitude": 38.36613363333333,
+      "longitude": -98.79559746666666,
+      "existingProviders": 6
+    },
+    {
+      "market": "The Woodlands|TX",
+      "city": "The Woodlands",
+      "state": "TX",
+      "latitude": 30.167263133333332,
+      "longitude": -95.46573135,
+      "existingProviders": 6
+    },
+    {
+      "market": "Wichita|KS",
+      "city": "Wichita",
+      "state": "KS",
+      "latitude": 37.69232465,
+      "longitude": -97.32209936666665,
+      "existingProviders": 6
+    },
+    {
+      "market": "Carmi|IL",
+      "city": "Carmi",
+      "state": "IL",
+      "latitude": 38.090945514285714,
+      "longitude": -88.15957688571429,
+      "existingProviders": 7
+    },
+    {
+      "market": "Lafayette|LA",
+      "city": "Lafayette",
+      "state": "LA",
+      "latitude": 30.216493785714285,
+      "longitude": -92.02268765714287,
+      "existingProviders": 7
+    },
+    {
+      "market": "Canonsburg|PA",
+      "city": "Canonsburg",
+      "state": "PA",
+      "latitude": 40.26798136666666,
+      "longitude": -80.17580847777778,
+      "existingProviders": 9
+    },
+    {
+      "market": "Dickinson|ND",
+      "city": "Dickinson",
+      "state": "ND",
+      "latitude": 46.90396906666667,
+      "longitude": -102.78951624444444,
+      "existingProviders": 9
+    },
+    {
+      "market": "Tulsa|OK",
+      "city": "Tulsa",
+      "state": "OK",
+      "latitude": 36.14732124444444,
+      "longitude": -95.97564836666666,
+      "existingProviders": 9
+    },
+    {
+      "market": "Hobbs|NM",
+      "city": "Hobbs",
+      "state": "NM",
+      "latitude": 32.7061324,
+      "longitude": -103.14291159999998,
+      "existingProviders": 10
+    },
+    {
+      "market": "Elk City|OK",
+      "city": "Elk City",
+      "state": "OK",
+      "latitude": 35.398650790909095,
+      "longitude": -99.42532653636364,
+      "existingProviders": 11
+    },
+    {
+      "market": "Casper|WY",
+      "city": "Casper",
+      "state": "WY",
+      "latitude": 42.8523996764706,
+      "longitude": -106.34039599999998,
+      "existingProviders": 17
+    },
+    {
+      "market": "Bakersfield|CA",
+      "city": "Bakersfield",
+      "state": "CA",
+      "latitude": 35.38944282631579,
+      "longitude": -119.04711767368421,
+      "existingProviders": 19
+    },
+    {
+      "market": "Oklahoma City|OK",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "latitude": 35.46616874499999,
+      "longitude": -97.52930149,
+      "existingProviders": 20
+    },
+    {
+      "market": "Midland|TX",
+      "city": "Midland",
+      "state": "TX",
+      "latitude": 31.9975182,
+      "longitude": -102.0719340272727,
+      "existingProviders": 22
+    },
+    {
+      "market": "Williston|ND",
+      "city": "Williston",
+      "state": "ND",
+      "latitude": 48.15082278636364,
+      "longitude": -103.67236893181817,
+      "existingProviders": 22
+    },
+    {
+      "market": "Gillette|WY",
+      "city": "Gillette",
+      "state": "WY",
+      "latitude": 44.296619309375004,
+      "longitude": -105.50575002812496,
+      "existingProviders": 32
+    },
+    {
+      "market": "Houston|TX",
+      "city": "Houston",
+      "state": "TX",
+      "latitude": 29.78329299999998,
+      "longitude": -95.39701101022737,
+      "existingProviders": 88
+    }
+  ]
+}

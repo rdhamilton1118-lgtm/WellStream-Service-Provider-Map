@@ -1,0 +1,5792 @@
+{
+  "generatedAt": "2026-06-30T21:46:03.810Z",
+  "totalProviderCount": 810,
+  "enrichmentTargetCount": 458,
+  "missingAddressCount": 331,
+  "missingPhoneCount": 228,
+  "missingWebsiteCount": 185,
+  "targets": [
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|6",
+      "company": "Hoover Compliance",
+      "city": "Little Rock",
+      "state": "AR",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 6
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|88",
+      "company": "Mid-West Power Tongs",
+      "city": "Wichita",
+      "state": "KS",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 88
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|102",
+      "company": "West Kentucky Well Surveys",
+      "city": "Henderson",
+      "state": "KY",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 102
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|126",
+      "company": "Thomas Tools",
+      "city": "Lafayette",
+      "state": "LA",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 126
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|187",
+      "company": "Energy Fishing and Rental Services",
+      "city": "Hobbs",
+      "state": "NM",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 187
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|223",
+      "company": "Friend Bit Service",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 223
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|224",
+      "company": "Greasebook",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 224
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|225",
+      "company": "Great White Pressure Control",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 225
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|229",
+      "company": "Mathena Drilling Systems",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 229
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|232",
+      "company": "Production Control Services",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 232
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|239",
+      "company": "Dallas Morris Drilling",
+      "city": "Tulsa",
+      "state": "OK",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 239
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|270",
+      "company": "Kriebel Energy Services",
+      "city": "Pennsylvania",
+      "state": "PA",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 270
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|295",
+      "company": "L&D Well Service",
+      "city": "Chattanooga",
+      "state": "TN",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 295
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|298",
+      "company": "Master Pump",
+      "city": "Knoxville",
+      "state": "TN",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 298
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|300",
+      "company": "Master Pump & Equipment",
+      "city": "Nashville",
+      "state": "TN",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 300
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|324",
+      "company": "Blue Tank",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 324
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|330",
+      "company": "Diamond Coring",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 330
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|331",
+      "company": "Downhole Camera Technology",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 331
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|335",
+      "company": "Environmental Standards",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 335
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|339",
+      "company": "Gas Analytical",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 339
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|340",
+      "company": "Geological Logging Systems",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 340
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|347",
+      "company": "Horizontal Well Drillers",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 347
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|351",
+      "company": "Integrated Downhole Solutions",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 351
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|359",
+      "company": "Millennium Stimulation Services Ltd.",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 359
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|366",
+      "company": "NexTier Cementing & Pressure Pumping",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 366
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|367",
+      "company": "PECCO",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 367
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|370",
+      "company": "Peak Completions",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 370
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|374",
+      "company": "Quest Coring",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 374
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|387",
+      "company": "Substrata Camera Services",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 387
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|389",
+      "company": "Thru Tubing Solutions",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 389
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|390",
+      "company": "Titan Submersible Pumps",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 390
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|391",
+      "company": "Trican Completion Solutions",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 391
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|393",
+      "company": "Universal Wellheads",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 393
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|398",
+      "company": "WellEZ",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 398
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|464",
+      "company": "Eastern Fishing and Rental Tools",
+      "city": "Buckhannon",
+      "state": "WV",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 464
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|467",
+      "company": "GAS, Inc.",
+      "city": "Charleston",
+      "state": "WV",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 467
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|468",
+      "company": "Javins Corporation",
+      "city": "Charleston",
+      "state": "WV",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 468
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|475",
+      "company": "Energy Contractors - Frac Tank Rentals",
+      "city": "Morgantown",
+      "state": "WV",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 475
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|477",
+      "company": "Complete Energy Services",
+      "city": "New Martinsville",
+      "state": "WV",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 477
+    },
+    {
+      "key": "data/Gillette_WY_Corridor_Discovery_V2_20.csv|9",
+      "company": "Arthun Engine Services",
+      "city": "Gillette",
+      "state": "WY",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 119,
+      "sourceFile": "data/Gillette_WY_Corridor_Discovery_V2_20.csv",
+      "sourceRow": 9
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|73",
+      "company": "Quest Drilling Company - Garden City Yard",
+      "city": "Garden City",
+      "state": "KS",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 103,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 73
+    },
+    {
+      "key": "data/Dickinson_ND_Corridor_Discovery_V2_20.csv|3",
+      "company": "Baker Hughes - Dickinson Completions District",
+      "city": "Dickinson",
+      "state": "ND",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 103,
+      "sourceFile": "data/Dickinson_ND_Corridor_Discovery_V2_20.csv",
+      "sourceRow": 3
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|181",
+      "company": "Select Water Solutions - Permian / New Mexico",
+      "city": "Carlsbad",
+      "state": "NM",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 103,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 181
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|271",
+      "company": "Allegheny Control Products",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 103,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 271
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|314",
+      "company": "Harbison-Fischer",
+      "city": "Fort Worth",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 103,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 314
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|319",
+      "company": "Archrock",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 103,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 319
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|328",
+      "company": "DEMCO Valves / SLB Cameron",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 103,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 328
+    },
+    {
+      "key": "data/Gillette_WY_Corridor_Discovery_V2_20.csv|2",
+      "company": "Baker Hughes - Gillette District",
+      "city": "Gillette",
+      "state": "WY",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 103,
+      "sourceFile": "data/Gillette_WY_Corridor_Discovery_V2_20.csv",
+      "sourceRow": 2
+    },
+    {
+      "key": "data/Gillette_WY_Corridor_Discovery_V2_20.csv|13",
+      "company": "Calfrac Well Services - Gillette",
+      "city": "Gillette",
+      "state": "WY",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 103,
+      "sourceFile": "data/Gillette_WY_Corridor_Discovery_V2_20.csv",
+      "sourceRow": 13
+    },
+    {
+      "key": "data/Gillette_WY_Corridor_Discovery_V2_20.csv|15",
+      "company": "Axis Energy Services - Gillette",
+      "city": "Gillette",
+      "state": "WY",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 103,
+      "sourceFile": "data/Gillette_WY_Corridor_Discovery_V2_20.csv",
+      "sourceRow": 15
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|112",
+      "company": "Petro-Wright Production Inc.",
+      "city": "Salyersville",
+      "state": "KY",
+      "missingFields": [
+        "address",
+        "website"
+      ],
+      "priorityScore": 101,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 112
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|293",
+      "company": "Precision Surveying and Mapping",
+      "city": "Sturgis",
+      "state": "SD",
+      "missingFields": [
+        "address",
+        "website"
+      ],
+      "priorityScore": 101,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 293
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|51",
+      "company": "Liberty Oilfield Services - Fabrication Department",
+      "city": "Henderson",
+      "state": "CO",
+      "missingFields": [
+        "phone",
+        "website"
+      ],
+      "priorityScore": 94,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 51
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|65",
+      "company": "Phillips Well Service",
+      "city": "El Dorado",
+      "state": "KS",
+      "missingFields": [
+        "phone",
+        "website"
+      ],
+      "priorityScore": 94,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 65
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|171",
+      "company": "Nabors Drilling",
+      "city": "Clearfield",
+      "state": "PA",
+      "missingFields": [
+        "phone",
+        "website"
+      ],
+      "priorityScore": 94,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 171
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|88",
+      "company": "BC Oilfield Services",
+      "city": "Fort Stockton",
+      "state": "TX",
+      "missingFields": [
+        "phone",
+        "website"
+      ],
+      "priorityScore": 94,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 88
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|68",
+      "company": "Pro Well Service",
+      "city": "Gainesville",
+      "state": "TX",
+      "missingFields": [
+        "phone",
+        "website"
+      ],
+      "priorityScore": 94,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 68
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|61",
+      "company": "Newpark Drilling Fluids",
+      "city": "Douglas",
+      "state": "WY",
+      "missingFields": [
+        "phone",
+        "website"
+      ],
+      "priorityScore": 94,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 61
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|113",
+      "company": "HP Oilfield Services",
+      "city": "Douglas",
+      "state": "WY",
+      "missingFields": [
+        "phone",
+        "website"
+      ],
+      "priorityScore": 94,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 113
+    },
+    {
+      "key": "data/Gillette_WY_Corridor_Discovery_V2_20.csv|4",
+      "company": "Butler Field Services",
+      "city": "Gillette",
+      "state": "WY",
+      "missingFields": [
+        "phone",
+        "website"
+      ],
+      "priorityScore": 94,
+      "sourceFile": "data/Gillette_WY_Corridor_Discovery_V2_20.csv",
+      "sourceRow": 4
+    },
+    {
+      "key": "data/Gillette_Oilfield_Exact_Search_Expansion_2026-06-30.csv|8",
+      "company": "Whip Around Oilfield Services LLC",
+      "city": "Gillette",
+      "state": "WY",
+      "missingFields": [
+        "address",
+        "website"
+      ],
+      "priorityScore": 86,
+      "sourceFile": "data/Gillette_Oilfield_Exact_Search_Expansion_2026-06-30.csv",
+      "sourceRow": 8
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|207",
+      "company": "Ken Miller Supply, Inc. - Wooster",
+      "city": "Wooster",
+      "state": "OH",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 85,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 207
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|249",
+      "company": "Yellowjacket Oilfield Services - Yukon",
+      "city": "Yukon",
+      "state": "OK",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 85,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 249
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|273",
+      "company": "Hunt Geophysical",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 85,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 273
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|360",
+      "company": "NOV - Houston Corporate",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 85,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 360
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|454",
+      "company": "Enverus / OpenInvoice OFS Directory - Source Reference",
+      "city": "United States",
+      "state": "US",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 85,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 454
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|455",
+      "company": "ShaleDirectories.com - Appalachian/Permian/Eagle Ford/Bakken Discovery Source",
+      "city": "United States",
+      "state": "US",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 85,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 455
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|459",
+      "company": "Highlands Drilling - Clintwood Yard & Shop",
+      "city": "Clintwood",
+      "state": "VA",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 85,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 459
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|40",
+      "company": "Halliburton - Fort Lupton",
+      "city": "Fort Lupton",
+      "state": "CO",
+      "missingFields": [
+        "phone"
+      ],
+      "priorityScore": 78,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 40
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|148",
+      "company": "GRACO Oilfield Services - Laurel",
+      "city": "Laurel",
+      "state": "MS",
+      "missingFields": [
+        "phone"
+      ],
+      "priorityScore": 78,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 148
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|174",
+      "company": "True Pipe & Supply - Williston",
+      "city": "Williston",
+      "state": "ND",
+      "missingFields": [
+        "phone"
+      ],
+      "priorityScore": 78,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 174
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|214",
+      "company": "MCWL Paladin Geological Services",
+      "city": "Norman",
+      "state": "OK",
+      "missingFields": [
+        "phone"
+      ],
+      "priorityScore": 78,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 214
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|492",
+      "company": "Mesa West Directional",
+      "city": "Casper",
+      "state": "WY",
+      "missingFields": [
+        "phone"
+      ],
+      "priorityScore": 78,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 492
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|493",
+      "company": "PT Hose & Bearing / Wyoming Bearing",
+      "city": "Casper",
+      "state": "WY",
+      "missingFields": [
+        "phone"
+      ],
+      "priorityScore": 78,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 493
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|496",
+      "company": "TRK Casing",
+      "city": "Casper",
+      "state": "WY",
+      "missingFields": [
+        "phone"
+      ],
+      "priorityScore": 78,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 496
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|499",
+      "company": "KLX Energy Services - Cheyenne",
+      "city": "Cheyenne",
+      "state": "WY",
+      "missingFields": [
+        "phone"
+      ],
+      "priorityScore": 78,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 499
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|500",
+      "company": "Clean Harbors Powder River Basin Energy Services",
+      "city": "Douglas",
+      "state": "WY",
+      "missingFields": [
+        "phone"
+      ],
+      "priorityScore": 78,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 500
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|510",
+      "company": "True Pipe & Supply - Gillette",
+      "city": "Gillette",
+      "state": "WY",
+      "missingFields": [
+        "phone"
+      ],
+      "priorityScore": 78,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 510
+    },
+    {
+      "key": "data/Gillette_WY_Corridor_Discovery_V2_20.csv|6",
+      "company": "Pluggin Along",
+      "city": "Gillette",
+      "state": "WY",
+      "missingFields": [
+        "phone"
+      ],
+      "priorityScore": 78,
+      "sourceFile": "data/Gillette_WY_Corridor_Discovery_V2_20.csv",
+      "sourceRow": 6
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|11",
+      "company": "Brookwood Oil Field Services",
+      "city": "Brookwood",
+      "state": "AL",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 11
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|14",
+      "company": "Capstone Drilling",
+      "city": "Brookwood",
+      "state": "AL",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 14
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|155",
+      "company": "Superior Well Services Inc",
+      "city": "Cottondale",
+      "state": "AL",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 155
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|157",
+      "company": "Technical Drilling Services Inc",
+      "city": "Knoxville",
+      "state": "AL",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 157
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|160",
+      "company": "Well Service of Alabama",
+      "city": "Vance",
+      "state": "AL",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 160
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|98",
+      "company": "Densmore Drilling Co",
+      "city": "West Blocton",
+      "state": "AL",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 98
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|22",
+      "company": "Downhole Tool Service",
+      "city": "Fort Lupton",
+      "state": "CO",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 22
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|26",
+      "company": "Eastern Colorado Well Services",
+      "city": "Fort Lupton",
+      "state": "CO",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 26
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|144",
+      "company": "Saucedo Oil Field Services",
+      "city": "Fort Lupton",
+      "state": "CO",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 144
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|172",
+      "company": "Pathfinder Pressure Testing, Llc",
+      "city": "Greeley",
+      "state": "CO",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 172
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|173",
+      "company": "Pathfinder Pressure Testing, Llc",
+      "city": "Hudson",
+      "state": "CO",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 173
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|5",
+      "company": "Bangert Well Service, Inc.",
+      "city": "Clay City",
+      "state": "IL",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 5
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|145",
+      "company": "Shelby's Well Services",
+      "city": "Clay City",
+      "state": "IL",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 145
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|139",
+      "company": "Reliable Oil Field Services Inc",
+      "city": "Fairfield",
+      "state": "IL",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 139
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|86",
+      "company": "Bangert Casing Well Service, INC.",
+      "city": "Flora",
+      "state": "IL",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 86
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|142",
+      "company": "S & S Drilling Inc",
+      "city": "Montgomery",
+      "state": "IN",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 142
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|46",
+      "company": "Klima Well Services Inc",
+      "city": "Great Bend",
+      "state": "KS",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 46
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|47",
+      "company": "L D Drilling Co",
+      "city": "Great Bend",
+      "state": "KS",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 47
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|131",
+      "company": "Oil Field Machine & Repair",
+      "city": "Great Bend",
+      "state": "KS",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 131
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|150",
+      "company": "Steve's Well Services Inc",
+      "city": "Great Bend",
+      "state": "KS",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 150
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|86",
+      "company": "JACAM Catalyst",
+      "city": "Sterling",
+      "state": "KS",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 86
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|164",
+      "company": "G & L Well Services Inc",
+      "city": "Sterling",
+      "state": "KS",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 164
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|29",
+      "company": "Express Well Services & Supply Inc",
+      "city": "Victoria",
+      "state": "KS",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 29
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|87",
+      "company": "Duke Drilling Co., Inc.",
+      "city": "Wichita",
+      "state": "KS",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 87
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|20",
+      "company": "Crudewell Drilling Inc",
+      "city": "Albany",
+      "state": "KY",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 20
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|58",
+      "company": "Mciver Drilling LLC",
+      "city": "Albany",
+      "state": "KY",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 58
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|62",
+      "company": "Norris Well Services Inc.",
+      "city": "Glasgow",
+      "state": "KY",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 62
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|49",
+      "company": "Lauffer Well Services Inc",
+      "city": "Hagerhill",
+      "state": "KY",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 49
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|136",
+      "company": "R & J Well Services Inc",
+      "city": "Hueysville",
+      "state": "KY",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 136
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|152",
+      "company": "Superior Well Services",
+      "city": "Lowmansville",
+      "state": "KY",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 152
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|45",
+      "company": "JWT Well Services Inc.",
+      "city": "Pikeville",
+      "state": "KY",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 45
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|111",
+      "company": "Eagle Well Service, Inc.",
+      "city": "Salyersville",
+      "state": "KY",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 111
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|168",
+      "company": "Marsh Oil & Gas Field Services Inc",
+      "city": "Sebree",
+      "state": "KY",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 168
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|60",
+      "company": "N & J Oil Field Supply & Services",
+      "city": "Arcadia",
+      "state": "LA",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 60
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|89",
+      "company": "Billeaud Drilling Co",
+      "city": "Broussard",
+      "state": "LA",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 89
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|108",
+      "company": "G & L Well Services Inc",
+      "city": "Carencro",
+      "state": "LA",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 108
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|63",
+      "company": "Northern Michigan Well Services",
+      "city": "Gaylord",
+      "state": "MI",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 63
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|154",
+      "company": "Superior Well Services",
+      "city": "Gaylord",
+      "state": "MI",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 154
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|139",
+      "company": "Eagle Exploration, Inc.",
+      "city": "Traverse City",
+      "state": "MI",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 139
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|123",
+      "company": "Mineral Area Well Services",
+      "city": "Bonne Terre",
+      "state": "MO",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 123
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|9",
+      "company": "Brewingtons Well Services",
+      "city": "Fredericktown",
+      "state": "MO",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 9
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|35",
+      "company": "George Matthews Drilling",
+      "city": "Fredericktown",
+      "state": "MO",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 35
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|53",
+      "company": "M & T Drilling",
+      "city": "Fredericktown",
+      "state": "MO",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 53
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|28",
+      "company": "Excel Drilling",
+      "city": "Bozeman",
+      "state": "MT",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 28
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|125",
+      "company": "Most Wanted Well Services LLC",
+      "city": "Arnegard",
+      "state": "ND",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 125
+    },
+    {
+      "key": "data/Dickinson_ND_Corridor_Discovery_V2_20.csv|2",
+      "company": "Hydro Testing - Dickinson",
+      "city": "Dickinson",
+      "state": "ND",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Dickinson_ND_Corridor_Discovery_V2_20.csv",
+      "sourceRow": 2
+    },
+    {
+      "key": "data/Dickinson_ND_Corridor_Discovery_V2_20.csv|4",
+      "company": "Pure Energy Services - Dickinson",
+      "city": "Dickinson",
+      "state": "ND",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Dickinson_ND_Corridor_Discovery_V2_20.csv",
+      "sourceRow": 4
+    },
+    {
+      "key": "data/NewKota_Profile_Expansion_2026-06-30.csv|7",
+      "company": "Total Depth Well Servicing",
+      "city": "Williston",
+      "state": "ND",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/NewKota_Profile_Expansion_2026-06-30.csv",
+      "sourceRow": 7
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|175",
+      "company": "Catalyst Oil Field Services",
+      "city": "Artesia",
+      "state": "NM",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 175
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|110",
+      "company": "Great Western Drilling Co",
+      "city": "Aztec",
+      "state": "NM",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 110
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|122",
+      "company": "Mesa Well Service",
+      "city": "Bloomfield",
+      "state": "NM",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 122
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|48",
+      "company": "L F Well Services Inc.",
+      "city": "Farmington",
+      "state": "NM",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 48
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|82",
+      "company": "Air Drilling Associates",
+      "city": "Farmington",
+      "state": "NM",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 82
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|33",
+      "company": "G & J Drilling",
+      "city": "Cambridge",
+      "state": "OH",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 33
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|74",
+      "company": "Silcor Oilfield Services",
+      "city": "Cambridge",
+      "state": "OH",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 74
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|91",
+      "company": "Burgess Drilling Inc",
+      "city": "Dover",
+      "state": "OH",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 91
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|200",
+      "company": "DeepRock Disposal Solutions LLC",
+      "city": "Marietta",
+      "state": "OH",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 200
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|30",
+      "company": "F & H Drilling Services Inc",
+      "city": "Elk City",
+      "state": "OK",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 30
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|77",
+      "company": "Superior Well Services",
+      "city": "Elk City",
+      "state": "OK",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 77
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|83",
+      "company": "American Drilling Co",
+      "city": "Elk City",
+      "state": "OK",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 83
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|93",
+      "company": "Champion Drilling Fluids",
+      "city": "Elk City",
+      "state": "OK",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 93
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|143",
+      "company": "S & T Oilfield Services",
+      "city": "Elk City",
+      "state": "OK",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 143
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|167",
+      "company": "Integrated Production Services - Coiled Tubing",
+      "city": "Elk City",
+      "state": "OK",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 167
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|222",
+      "company": "Diamond Oil Well Drilling Company",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 222
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|141",
+      "company": "Rocky Mountain Drilling Inc",
+      "city": "Clearfield",
+      "state": "PA",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 141
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|107",
+      "company": "Forsyth Drilling Inc",
+      "city": "DuBois",
+      "state": "PA",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 107
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|25",
+      "company": "Dynamic Drilling Fluids",
+      "city": "Bay City",
+      "state": "TX",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 25
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|311",
+      "company": "Alpha Mud Logging Services, LLC",
+      "city": "Decatur",
+      "state": "TX",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 311
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|16",
+      "company": "Cinco Oilfield Services Llc",
+      "city": "Fort Stockton",
+      "state": "TX",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 16
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|21",
+      "company": "Diamond G Oilfield Services",
+      "city": "Fort Stockton",
+      "state": "TX",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 21
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|163",
+      "company": "Ferrey Oilfield service llc",
+      "city": "Fort Stockton",
+      "state": "TX",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 163
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|128",
+      "company": "Norman's Well Services Inc",
+      "city": "Gainesville",
+      "state": "TX",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 128
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|71",
+      "company": "Renegade Well Services, Ltd",
+      "city": "Godley",
+      "state": "TX",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 71
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|158",
+      "company": "Vest Well Service",
+      "city": "Grandview",
+      "state": "TX",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 158
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|352",
+      "company": "International Oilfield Services",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 352
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|121",
+      "company": "Mercer Well Services",
+      "city": "Whitesboro",
+      "state": "TX",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 121
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|69",
+      "company": "Ratliff Drilling Co",
+      "city": "Cedar Bluff",
+      "state": "VA",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 69
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|75",
+      "company": "Standard Core Drilling",
+      "city": "Coeburn",
+      "state": "VA",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 75
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|17",
+      "company": "CJ's Well Service Inc.",
+      "city": "Keen Mountain",
+      "state": "VA",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 17
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|104",
+      "company": "Eversole Drilling Co Inc",
+      "city": "Max Meadows",
+      "state": "VA",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 104
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|153",
+      "company": "Superior Well Services",
+      "city": "Norton",
+      "state": "VA",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 153
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|27",
+      "company": "Eastern Oil Well Services Co",
+      "city": "Arnoldsburg",
+      "state": "WV",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 27
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|156",
+      "company": "Superior Well Services Inc",
+      "city": "Harrisville",
+      "state": "WV",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 156
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|140",
+      "company": "Rock Creek Well Services",
+      "city": "Cheyenne",
+      "state": "WY",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 140
+    },
+    {
+      "key": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv|169",
+      "company": "Matrix Oil Field Services",
+      "city": "Douglas",
+      "state": "WY",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Nationwide_Google_Places_Discovery_Batch_1_2026-06-25.csv",
+      "sourceRow": 169
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|505",
+      "company": "JC Well Services",
+      "city": "Gillette",
+      "state": "WY",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 505
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|506",
+      "company": "Jim's Water Service",
+      "city": "Gillette",
+      "state": "WY",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 506
+    },
+    {
+      "key": "data/Gillette_WY_Corridor_Discovery_V2_20.csv|8",
+      "company": "PS Services",
+      "city": "Gillette",
+      "state": "WY",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Gillette_WY_Corridor_Discovery_V2_20.csv",
+      "sourceRow": 8
+    },
+    {
+      "key": "data/Gillette_WY_Corridor_Discovery_V2_20.csv|11",
+      "company": "D. Eldridge Safety",
+      "city": "Gillette",
+      "state": "WY",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Gillette_WY_Corridor_Discovery_V2_20.csv",
+      "sourceRow": 11
+    },
+    {
+      "key": "data/Gillette_WY_Corridor_Discovery_V2_20.csv|14",
+      "company": "Toolpushers Supply Co",
+      "city": "Gillette",
+      "state": "WY",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Gillette_WY_Corridor_Discovery_V2_20.csv",
+      "sourceRow": 14
+    },
+    {
+      "key": "data/Precision_Well_Service_Gillette_Correction_2026-06-30.csv|2",
+      "company": "Precision Well Service, Inc.",
+      "city": "Gillette",
+      "state": "WY",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "data/Precision_Well_Service_Gillette_Correction_2026-06-30.csv",
+      "sourceRow": 2
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|517",
+      "company": "Pronghorn Drilling, Inc.",
+      "city": "Sheridan",
+      "state": "WY",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 76,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 517
+    },
+    {
+      "key": "data/Stoneham_Drilling_WESC_Locations_2026-06-22.csv|2",
+      "company": "Stoneham Drilling Corporation - Denver",
+      "city": "Denver",
+      "state": "CO",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 70,
+      "sourceFile": "data/Stoneham_Drilling_WESC_Locations_2026-06-22.csv",
+      "sourceRow": 2
+    },
+    {
+      "key": "data/Montana_Association_Guide_Discovery_2026-06-22.csv|2",
+      "company": "Industrial Service Solutions - Billings",
+      "city": "Billings",
+      "state": "MT",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 70,
+      "sourceFile": "data/Montana_Association_Guide_Discovery_2026-06-22.csv",
+      "sourceRow": 2
+    },
+    {
+      "key": "data/Montana_Association_Guide_Discovery_2026-06-22.csv|3",
+      "company": "Northern States Fishing Tools - Watford City",
+      "city": "Watford City",
+      "state": "ND",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 70,
+      "sourceFile": "data/Montana_Association_Guide_Discovery_2026-06-22.csv",
+      "sourceRow": 3
+    },
+    {
+      "key": "data/Stoneham_Drilling_WESC_Locations_2026-06-22.csv|3",
+      "company": "Stoneham Drilling Corporation - Williston Field Operations",
+      "city": "Williston",
+      "state": "ND",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 70,
+      "sourceFile": "data/Stoneham_Drilling_WESC_Locations_2026-06-22.csv",
+      "sourceRow": 3
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|4",
+      "company": "Pense Bros. Exploration Drilling - Brookwood Branch",
+      "city": "Brookwood",
+      "state": "AL",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 59,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 4
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|47",
+      "company": "Pense Bros. Exploration Drilling - Trinidad Branch",
+      "city": "Trinidad",
+      "state": "CO",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 59,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 47
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|272",
+      "company": "Hower Well Services",
+      "city": "Flora",
+      "state": "IL",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 59,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 272
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|68",
+      "company": "Black Gold Exploration / Adler Energy Fritz 2-30 Reference",
+      "city": "Clay County",
+      "state": "IN",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 59,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 68
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|107",
+      "company": "Western Construction - EKY",
+      "city": "Prestonsburg",
+      "state": "KY",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 59,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 107
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|117",
+      "company": "Go Coil II",
+      "city": "Frierson",
+      "state": "LA",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 59,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 117
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|129",
+      "company": "Herman J. Schellstede and Associates, Inc.",
+      "city": "New Iberia",
+      "state": "LA",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 59,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 129
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|140",
+      "company": "Pense Bros. Exploration Drilling",
+      "city": "Fredericktown",
+      "state": "MO",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 59,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 140
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|213",
+      "company": "Pense Bros. Exploration Drilling - Glenpool Branch",
+      "city": "Glenpool",
+      "state": "OK",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 59,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 213
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|228",
+      "company": "L.R. McBride Engineering, Inc.",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 59,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 228
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|230",
+      "company": "NOMAC Drilling",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 59,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 230
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|268",
+      "company": "Universal Well Services",
+      "city": "Meadville",
+      "state": "PA",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 59,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 268
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|377",
+      "company": "SAExploration / Seismic Services Lead",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 59,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 377
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|443",
+      "company": "Tucker Energy Services / Wireline Lead",
+      "city": "Texas",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 59,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 443
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|274",
+      "company": "The Dickerson Corporation",
+      "city": "Ripley",
+      "state": "WV",
+      "missingFields": [
+        "address",
+        "phone",
+        "website"
+      ],
+      "priorityScore": 59,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 274
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|3",
+      "company": "Lally Pipe & Tube - Alabama Yard Placeholder",
+      "city": "Birmingham",
+      "state": "AL",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 3
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|7",
+      "company": "Lally Pipe & Tube - Arkansas Yard Placeholder",
+      "city": "Little Rock",
+      "state": "AR",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 7
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|10",
+      "company": "Baker Hughes - Bakersfield Area Service Lead",
+      "city": "Bakersfield",
+      "state": "CA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 10
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|11",
+      "company": "Baker Hughes Drill Bits - Bakersfield Lead",
+      "city": "Bakersfield",
+      "state": "CA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 11
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|17",
+      "company": "Halliburton - Bakersfield Area Service Lead",
+      "city": "Bakersfield",
+      "state": "CA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 17
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|23",
+      "company": "SLB - Bakersfield Area Service Lead",
+      "city": "Bakersfield",
+      "state": "CA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 23
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|29",
+      "company": "Insight M / Kairos Aerospace",
+      "city": "Sunnyvale",
+      "state": "CA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 29
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|35",
+      "company": "Calfrac Well Services - U.S. Operations",
+      "city": "Denver",
+      "state": "CO",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 35
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|36",
+      "company": "Eagle Automation",
+      "city": "Denver",
+      "state": "CO",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 36
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|38",
+      "company": "SLB - Denver Area Service Lead",
+      "city": "Denver",
+      "state": "CO",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 38
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|39",
+      "company": "True Drilling - Denver Marketing Lead",
+      "city": "Denver",
+      "state": "CO",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 39
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|42",
+      "company": "Halliburton - Grand Junction Area Service Lead",
+      "city": "Grand Junction",
+      "state": "CO",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 42
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|43",
+      "company": "Ensign Energy Services - Colorado",
+      "city": "Greeley",
+      "state": "CO",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 43
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|44",
+      "company": "Liberty Energy - Denver / Henderson",
+      "city": "Henderson",
+      "state": "CO",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 44
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|46",
+      "company": "Ranger Energy Services - Milliken",
+      "city": "Milliken",
+      "state": "CO",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 46
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|55",
+      "company": "Warren Service Company - Carmi",
+      "city": "Carmi",
+      "state": "IL",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 55
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|72",
+      "company": "Sunrise Oilfield Supply - El Dorado",
+      "city": "El Dorado",
+      "state": "KS",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 72
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|74",
+      "company": "Sunrise Oilfield Supply - Garden City",
+      "city": "Garden City",
+      "state": "KS",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 74
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|75",
+      "company": "Sunrise Oilfield Supply - Great Bend",
+      "city": "Great Bend",
+      "state": "KS",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 75
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|81",
+      "company": "Sunrise Oilfield Supply - Hugoton",
+      "city": "Hugoton",
+      "state": "KS",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 81
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|82",
+      "company": "Sunrise Oilfield Supply - Ness City",
+      "city": "Ness City",
+      "state": "KS",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 82
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|85",
+      "company": "JC Pump, LLC",
+      "city": "Southeast Kansas",
+      "state": "KS",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 85
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|97",
+      "company": "Lally Pipe & Tube",
+      "city": "Covington",
+      "state": "KY",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 97
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|113",
+      "company": "Boots Smith Completion Services - Arcadia",
+      "city": "Arcadia",
+      "state": "LA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 113
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|118",
+      "company": "M&M Oil Tools",
+      "city": "Houma",
+      "state": "LA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 118
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|120",
+      "company": "Baker Hughes - Lafayette Area Service Lead",
+      "city": "Lafayette",
+      "state": "LA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 120
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|121",
+      "company": "Diversified Well Logging",
+      "city": "Lafayette",
+      "state": "LA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 121
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|122",
+      "company": "Halliburton - Lafayette Area Service Lead",
+      "city": "Lafayette",
+      "state": "LA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 122
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|124",
+      "company": "SLB - Lafayette Area Service Lead",
+      "city": "Lafayette",
+      "state": "LA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 124
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|131",
+      "company": "Basin Engineering",
+      "city": "New Orleans",
+      "state": "LA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 131
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|132",
+      "company": "TETRA Technologies - Port Fourchon",
+      "city": "Port Fourchon",
+      "state": "LA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 132
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|133",
+      "company": "Datalog Geological Services - Shreveport Support Facility",
+      "city": "Shreveport",
+      "state": "LA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 133
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|134",
+      "company": "FESCO - Shreveport / Haynesville Lead",
+      "city": "Shreveport",
+      "state": "LA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 134
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|145",
+      "company": "Boots Smith Completion Services - Laurel",
+      "city": "Laurel",
+      "state": "MS",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 145
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|150",
+      "company": "Basin Service Company / Basin Well Service",
+      "city": "Baker",
+      "state": "MT",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 150
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|156",
+      "company": "Select Water Solutions - Arnegard",
+      "city": "Arnegard",
+      "state": "ND",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 156
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|159",
+      "company": "Select Water Solutions - Watford City",
+      "city": "Watford City",
+      "state": "ND",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 159
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|160",
+      "company": "Baker Hughes - Williston Area Service Lead",
+      "city": "Williston",
+      "state": "ND",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 160
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|171",
+      "company": "SLB - Williston Area Service Lead",
+      "city": "Williston",
+      "state": "ND",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 171
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|172",
+      "company": "SLB Smith Bits - Williston Lead",
+      "city": "Williston",
+      "state": "ND",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 172
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|173",
+      "company": "Select Water Solutions - Williston",
+      "city": "Williston",
+      "state": "ND",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 173
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|182",
+      "company": "USA Compression Partners - Carlsbad",
+      "city": "Carlsbad",
+      "state": "NM",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 182
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|183",
+      "company": "Aztec Well Servicing",
+      "city": "Farmington",
+      "state": "NM",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 183
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|185",
+      "company": "J.A. Drake Well Service",
+      "city": "Farmington",
+      "state": "NM",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 185
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|186",
+      "company": "Baker Hughes - Hobbs Area Service Lead",
+      "city": "Hobbs",
+      "state": "NM",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 186
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|189",
+      "company": "Halliburton - Hobbs Area Service Lead",
+      "city": "Hobbs",
+      "state": "NM",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 189
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|190",
+      "company": "Halliburton Drill Bits - Hobbs Lead",
+      "city": "Hobbs",
+      "state": "NM",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 190
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|192",
+      "company": "SLB - Hobbs Area Service Lead",
+      "city": "Hobbs",
+      "state": "NM",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 192
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|193",
+      "company": "Select Water Solutions - Hobbs",
+      "city": "Hobbs",
+      "state": "NM",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 193
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|195",
+      "company": "Maverick Well Drilling - Downhole Camera Service",
+      "city": "New Mexico / Texas",
+      "state": "NM",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 195
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|197",
+      "company": "Lally Pipe & Tube - Ohio Yard Placeholder",
+      "city": "Columbus",
+      "state": "OH",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 197
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|198",
+      "company": "McGraw Kokosing",
+      "city": "Columbus",
+      "state": "OH",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 198
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|208",
+      "company": "Vallourec Star - Youngstown",
+      "city": "Youngstown",
+      "state": "OH",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 208
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|215",
+      "company": "Case Wireline Services",
+      "city": "Oklahoma",
+      "state": "OK",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 215
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|216",
+      "company": "Baker Hughes - Oklahoma City Area Service Lead",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 216
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|218",
+      "company": "Bison Oilfield Services",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 218
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|220",
+      "company": "Case Wireline Services, Inc.",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 220
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|226",
+      "company": "Halliburton - Oklahoma City Area Service Lead",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 226
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|233",
+      "company": "SLB - Oklahoma City Area Service Lead",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 233
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|234",
+      "company": "Technical Drilling Services (TDS) powered by Stratagraph",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 234
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|235",
+      "company": "Varel - Oklahoma City District Lead",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 235
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|236",
+      "company": "Arrow Pump & Supply, Inc.",
+      "city": "Pawhuska",
+      "state": "OK",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 236
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|241",
+      "company": "H&P / Helmerich & Payne",
+      "city": "Tulsa",
+      "state": "OK",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 241
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|252",
+      "company": "Keystone Clearwater Solutions - Canonsburg",
+      "city": "Canonsburg",
+      "state": "PA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 252
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|253",
+      "company": "Team Oil Tools / Innovex - Appalachian Lead",
+      "city": "Canonsburg",
+      "state": "PA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 253
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|258",
+      "company": "USA Compression Partners - Northeast Region",
+      "city": "Connellsville",
+      "state": "PA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 258
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|260",
+      "company": "Keystone Clearwater Solutions - Hallstead",
+      "city": "Hallstead",
+      "state": "PA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 260
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|267",
+      "company": "Keystone Clearwater Solutions - Mansfield",
+      "city": "Mansfield",
+      "state": "PA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 267
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|281",
+      "company": "Calfrac Well Services - Appalachian Lead",
+      "city": "Smithfield",
+      "state": "PA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 281
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|284",
+      "company": "Kimray Store / Distributor Placeholder - Appalachia",
+      "city": "Waynesburg",
+      "state": "PA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 284
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|286",
+      "company": "West Penn Energy Services",
+      "city": "Western Pennsylvania",
+      "state": "PA",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 286
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|292",
+      "company": "Spearfish Oilfield Supply",
+      "city": "Spearfish",
+      "state": "SD",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 292
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|304",
+      "company": "Tenaris - Bay City Seamless Pipe Mill",
+      "city": "Bay City",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 304
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|305",
+      "company": "Select Water Solutions - Big Lake",
+      "city": "Big Lake",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 305
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|312",
+      "company": "Impac Exploration Services - Fort Stockton",
+      "city": "Fort Stockton",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 312
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|320",
+      "company": "Baker Hughes - Casing Patch / Fishing Services",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 320
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|321",
+      "company": "Baker Hughes Artificial Lift",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 321
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|322",
+      "company": "Baker Hughes Core / Cased-Hole / Fishing Tools",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 322
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|323",
+      "company": "Baker Hughes Drill Bits",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 323
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|336",
+      "company": "Expro Downhole Camera and Video Services",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 336
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|338",
+      "company": "Forum Energy Technologies - Gas Metering Skids",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 338
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|342",
+      "company": "Gyrodata",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 342
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|343",
+      "company": "Gyrodata / SLB",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 343
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|345",
+      "company": "Halliburton Multi-Chem",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 345
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|350",
+      "company": "Innovex International",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 350
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|356",
+      "company": "Lally Pipe & Tube - Texas Yard Placeholder",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 356
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|358",
+      "company": "Milestone Environmental Services",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 358
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|361",
+      "company": "NOV Artificial Lift Systems",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 361
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|362",
+      "company": "NOV Bowen Casing Patch / Fishing Tools",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 362
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|363",
+      "company": "NOV Bowen Premier Casing Patch",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 363
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|364",
+      "company": "NOV ReedHycalog",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 364
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|368",
+      "company": "Pason Systems USA",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 368
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|376",
+      "company": "ReadyFlo Systems",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 376
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|379",
+      "company": "SLB Artificial Lift",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 379
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|380",
+      "company": "SLB Rock & Fluid Analysis / Core Analysis",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 380
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|381",
+      "company": "SLB Saltel Expandable Steel Patches",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 381
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|382",
+      "company": "Savanna Drilling / Total Energy Services",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 382
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|383",
+      "company": "Scientific Drilling",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 383
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|385",
+      "company": "Smith Bits / SLB",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 385
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|386",
+      "company": "Stewart & Stevenson",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 386
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|395",
+      "company": "Weatherford Coring / Drilling Technology",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 395
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|396",
+      "company": "Weatherford HOMCO / X-SPAN Casing Patch",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 396
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|397",
+      "company": "Weatherford Rotaflex / Artificial Lift",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 397
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|402",
+      "company": "Zedi / Emerson Zedi",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 402
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|410",
+      "company": "Baker Hughes - Midland District",
+      "city": "Midland",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 410
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|414",
+      "company": "Field Geo Services Inc.",
+      "city": "Midland",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 414
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|415",
+      "company": "Gravity Oilfield Services",
+      "city": "Midland",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 415
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|416",
+      "company": "Halliburton - Midland District",
+      "city": "Midland",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 416
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|417",
+      "company": "Kimray Store / Distributor Placeholder - Permian",
+      "city": "Midland",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 417
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|418",
+      "company": "Latshaw Drilling - Midland Yard",
+      "city": "Midland",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 418
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|419",
+      "company": "Liberty Lift Solutions - Midland",
+      "city": "Midland",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 419
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|422",
+      "company": "SLB - Midland District",
+      "city": "Midland",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 422
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|423",
+      "company": "Select Water Solutions - Midland",
+      "city": "Midland",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 423
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|425",
+      "company": "USA Compression Partners - Midland",
+      "city": "Midland",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 425
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|426",
+      "company": "Ulterra - Midland District Lead",
+      "city": "Midland",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 426
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|427",
+      "company": "Varel - Midland District Lead",
+      "city": "Midland",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 427
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|429",
+      "company": "LUFKIN Industries",
+      "city": "Missouri City",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 429
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|430",
+      "company": "Kodiak Gas Services",
+      "city": "Montgomery",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 430
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|432",
+      "company": "Liberty Energy - Odessa",
+      "city": "Odessa",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 432
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|433",
+      "company": "Select Water Solutions - Odessa",
+      "city": "Odessa",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 433
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|435",
+      "company": "Select Water Solutions - Pecos",
+      "city": "Pecos",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 435
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|437",
+      "company": "SLB - Mud Logging / Surface Logging Reference",
+      "city": "Richmond",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 437
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|438",
+      "company": "WellAware",
+      "city": "San Antonio",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 438
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|442",
+      "company": "ChampionX Chemical Technologies",
+      "city": "Sugar Land",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 442
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|445",
+      "company": "Edge Services",
+      "city": "Texas / Oklahoma",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 445
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|446",
+      "company": "ChampionX Artificial Lift",
+      "city": "The Woodlands",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 446
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|447",
+      "company": "ChampionX Emissions Technologies / Scientific Aviation",
+      "city": "The Woodlands",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 447
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|452",
+      "company": "KLX Energy Services - Victoria",
+      "city": "Victoria",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 452
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|463",
+      "company": "KLX Energy Services - Bridgeport",
+      "city": "Bridgeport",
+      "state": "WV",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 463
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|474",
+      "company": "BOSS Services - Jane Lew District",
+      "city": "Jane Lew",
+      "state": "WV",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 474
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|479",
+      "company": "Keystone Clearwater Solutions - Triadelphia",
+      "city": "Triadelphia",
+      "state": "WV",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 479
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|482",
+      "company": "Patterson-UTI Drilling - Boulder WY",
+      "city": "Boulder",
+      "state": "WY",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 482
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|487",
+      "company": "DNOW Power Service",
+      "city": "Casper",
+      "state": "WY",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 487
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|488",
+      "company": "Halliburton - Casper Area Service Lead",
+      "city": "Casper",
+      "state": "WY",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 488
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|494",
+      "company": "SLB - Casper Area Service Lead",
+      "city": "Casper",
+      "state": "WY",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 494
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|513",
+      "company": "Patterson-UTI Drilling - Casper / Mills",
+      "city": "Mills",
+      "state": "WY",
+      "missingFields": [
+        "address",
+        "phone"
+      ],
+      "priorityScore": 43,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 513
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|15",
+      "company": "California Resources Corporation Vendor Network Placeholder",
+      "city": "Bakersfield",
+      "state": "CA",
+      "missingFields": [
+        "address",
+        "website"
+      ],
+      "priorityScore": 41,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 15
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|83",
+      "company": "Fossil Drilling, Inc. / American Pipe Testing",
+      "city": "Pratt",
+      "state": "KS",
+      "missingFields": [
+        "address",
+        "website"
+      ],
+      "priorityScore": 41,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 83
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|84",
+      "company": "Russell Pump & Oilfield Supply",
+      "city": "Russell",
+      "state": "KS",
+      "missingFields": [
+        "address",
+        "website"
+      ],
+      "priorityScore": 41,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 84
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|93",
+      "company": "Papineau Drilling, Inc.",
+      "city": "Albany",
+      "state": "KY",
+      "missingFields": [
+        "address",
+        "website"
+      ],
+      "priorityScore": 41,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 93
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|98",
+      "company": "Caprock Drilling & Operating Co Inc",
+      "city": "Edmonton",
+      "state": "KY",
+      "missingFields": [
+        "address",
+        "website"
+      ],
+      "priorityScore": 41,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 98
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|100",
+      "company": "Brown & Payne Oil Drilling, Inc.",
+      "city": "Hawesville",
+      "state": "KY",
+      "missingFields": [
+        "address",
+        "website"
+      ],
+      "priorityScore": 41,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 100
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|103",
+      "company": "OQ Resources, LLC",
+      "city": "Hustonville",
+      "state": "KY",
+      "missingFields": [
+        "address",
+        "website"
+      ],
+      "priorityScore": 41,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 103
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|105",
+      "company": "Case Drilling Company",
+      "city": "Philpot",
+      "state": "KY",
+      "missingFields": [
+        "address",
+        "website"
+      ],
+      "priorityScore": 41,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 105
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|108",
+      "company": "C & C Downhole, LLC",
+      "city": "Richmond",
+      "state": "KY",
+      "missingFields": [
+        "address",
+        "website"
+      ],
+      "priorityScore": 41,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 108
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|109",
+      "company": "RussMar Utility Management, LLC",
+      "city": "Richmond",
+      "state": "KY",
+      "missingFields": [
+        "address",
+        "website"
+      ],
+      "priorityScore": 41,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 109
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|149",
+      "company": "Mississippi Well Services, LLC",
+      "city": "Mississippi region",
+      "state": "MS",
+      "missingFields": [
+        "address",
+        "website"
+      ],
+      "priorityScore": 41,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 149
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|176",
+      "company": "Clear Fork Wireline",
+      "city": "Artesia",
+      "state": "NM",
+      "missingFields": [
+        "address",
+        "website"
+      ],
+      "priorityScore": 41,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 176
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|297",
+      "company": "John Henry Oil Corporation",
+      "city": "Knoxville",
+      "state": "TN",
+      "missingFields": [
+        "address",
+        "website"
+      ],
+      "priorityScore": 41,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 297
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|302",
+      "company": "Forbes Energy Services / Axis legacy research",
+      "city": "Alice",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "website"
+      ],
+      "priorityScore": 41,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 302
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|313",
+      "company": "Basic Energy Services / legacy successor research",
+      "city": "Fort Worth",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "website"
+      ],
+      "priorityScore": 41,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 313
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|408",
+      "company": "Guice Oilfield Services / Guice Engineering",
+      "city": "Longview",
+      "state": "TX",
+      "missingFields": [
+        "address",
+        "website"
+      ],
+      "priorityScore": 41,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 408
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|472",
+      "company": "Drilco Oil and Gas Corporation",
+      "city": "Grantsville",
+      "state": "WV",
+      "missingFields": [
+        "address",
+        "website"
+      ],
+      "priorityScore": 41,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 472
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|508",
+      "company": "Precision Well Services - Gillette",
+      "city": "Gillette",
+      "state": "WY",
+      "missingFields": [
+        "address",
+        "website"
+      ],
+      "priorityScore": 41,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 508
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|275",
+      "company": "Torpedo Services, Inc. / Torpedo Well Service",
+      "city": "Beattyville",
+      "state": "KY",
+      "missingFields": [
+        "address",
+        "website"
+      ],
+      "priorityScore": 26,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 275
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|9",
+      "company": "Aera Energy - California oilfield service ecosystem marker",
+      "city": "Bakersfield",
+      "state": "CA",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 9
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|12",
+      "company": "Berry Corporation - California vendor ecosystem marker",
+      "city": "Bakersfield",
+      "state": "CA",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 12
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|27",
+      "company": "Western Wireline Inc. - Bakersfield",
+      "city": "Bakersfield",
+      "state": "CA",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 27
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|30",
+      "company": "Western Wireline Inc. - Ventura",
+      "city": "Ventura",
+      "state": "CA",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 30
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|31",
+      "company": "Environmental Works, Inc. - Denver Metro",
+      "city": "Broomfield",
+      "state": "CO",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 31
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|37",
+      "company": "Project Canary",
+      "city": "Denver",
+      "state": "CO",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 37
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|45",
+      "company": "Columbine Corporation - Rockies Operations",
+      "city": "Littleton",
+      "state": "CO",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 45
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|48",
+      "company": "Bradford Supply - Bloomington",
+      "city": "Bloomington",
+      "state": "IL",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 48
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|49",
+      "company": "Bradford Supply - Bridgeport",
+      "city": "Bridgeport",
+      "state": "IL",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 49
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|50",
+      "company": "Bradford Supply - Carmi",
+      "city": "Carmi",
+      "state": "IL",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 50
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|54",
+      "company": "Reliance Well Services - Illinois Camp (Carmi)",
+      "city": "Carmi",
+      "state": "IL",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 54
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|56",
+      "company": "Bradford Supply - Clay City",
+      "city": "Clay City",
+      "state": "IL",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 56
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|57",
+      "company": "Bradford Supply - Decatur",
+      "city": "Decatur",
+      "state": "IL",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 57
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|60",
+      "company": "CABENO Environmental",
+      "city": "Joliet",
+      "state": "IL",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 60
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|61",
+      "company": "BOSS Services - Olney Cementing District",
+      "city": "Olney",
+      "state": "IL",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 61
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|63",
+      "company": "Bradford Supply - Robinson",
+      "city": "Robinson",
+      "state": "IL",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 63
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|64",
+      "company": "Bradford Supply Company - Salem",
+      "city": "Salem",
+      "state": "IL",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 64
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|65",
+      "company": "Bradford Supply Company - St. Elmo",
+      "city": "St. Elmo",
+      "state": "IL",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 65
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|66",
+      "company": "Bradford Supply Company - Sterling",
+      "city": "Sterling",
+      "state": "IL",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 66
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|69",
+      "company": "Bradford Supply Company - New Harmony",
+      "city": "New Harmony",
+      "state": "IN",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 69
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|70",
+      "company": "Bradford Supply Company - Princeton",
+      "city": "Princeton",
+      "state": "IN",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 70
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|94",
+      "company": "Reliance Well Services - Kentucky Camp (Allen)",
+      "city": "Allen",
+      "state": "KY",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 94
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|96",
+      "company": "Wholesale Supply Group - Corbin",
+      "city": "Corbin",
+      "state": "KY",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 96
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|101",
+      "company": "Bradford Supply Company - Henderson",
+      "city": "Henderson",
+      "state": "KY",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 101
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|106",
+      "company": "Miller Supply of Kentucky, Inc. - Ivel",
+      "city": "Ivel",
+      "state": "KY",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 106
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|114",
+      "company": "International Snubbing Services (ISS)",
+      "city": "Arnaudville",
+      "state": "LA",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 114
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|125",
+      "company": "Stratagraph Energy Group - Lafayette",
+      "city": "Lafayette",
+      "state": "LA",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 125
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|127",
+      "company": "FESCO, Ltd. - Minden",
+      "city": "Minden",
+      "state": "LA",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 127
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|137",
+      "company": "Bradford Supply Company - Gaylord",
+      "city": "Gaylord",
+      "state": "MI",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 137
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|138",
+      "company": "Mid-State Oil Tools",
+      "city": "Mount Pleasant",
+      "state": "MI",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 138
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|141",
+      "company": "Environmental Works, Inc. - Kansas City",
+      "city": "Kansas City",
+      "state": "MO",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 141
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|157",
+      "company": "Geo Drilling Fluids / Geo Drilling Services",
+      "city": "Belfield",
+      "state": "ND",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 157
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|169",
+      "company": "Patterson-UTI Drilling - Williston",
+      "city": "Williston",
+      "state": "ND",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 169
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|177",
+      "company": "Fox Oil Drilling Company - Artesia",
+      "city": "Artesia",
+      "state": "NM",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 177
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|178",
+      "company": "Ranger Energy Services - Artesia",
+      "city": "Artesia",
+      "state": "NM",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 178
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|184",
+      "company": "Basin Well Logging / Steel Energy",
+      "city": "Farmington",
+      "state": "NM",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 184
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|191",
+      "company": "Ranger Energy Services - Hobbs",
+      "city": "Hobbs",
+      "state": "NM",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 191
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|194",
+      "company": "Yellowjacket Oilfield Services - Hobbs",
+      "city": "Hobbs",
+      "state": "NM",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 194
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|201",
+      "company": "Ken Miller Supply of West Virginia, Inc. - Marietta",
+      "city": "Marietta",
+      "state": "OH",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 201
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|202",
+      "company": "Stevens Oil & Gas - Engine Chief",
+      "city": "Marietta",
+      "state": "OH",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 202
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|204",
+      "company": "Keystone Drill Services - Norwich",
+      "city": "Norwich",
+      "state": "OH",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 204
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|211",
+      "company": "Ranger Energy Services - El Reno",
+      "city": "El Reno",
+      "state": "OK",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 211
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|212",
+      "company": "Yellowjacket Oilfield Services - Elk City",
+      "city": "Elk City",
+      "state": "OK",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 212
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|237",
+      "company": "Latshaw Drilling - Stillwater Yard 1",
+      "city": "Stillwater",
+      "state": "OK",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 237
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|240",
+      "company": "FESCO, Ltd. - Tulsa",
+      "city": "Tulsa",
+      "state": "OK",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 240
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|243",
+      "company": "Latshaw Drilling - Tulsa Office",
+      "city": "Tulsa",
+      "state": "OK",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 243
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|244",
+      "company": "TEAM Oil Tools / Innovex Downhole Solutions",
+      "city": "Tulsa",
+      "state": "OK",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 244
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|246",
+      "company": "Columbine Corporation - Mid-Continent Operations",
+      "city": "Weatherford",
+      "state": "OK",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 246
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|247",
+      "company": "Impac Exploration Services - Weatherford",
+      "city": "Weatherford",
+      "state": "OK",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 247
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|250",
+      "company": "Ayers Petroleum Consulting",
+      "city": "Canonsburg",
+      "state": "PA",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 250
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|251",
+      "company": "Columbine Corporation - Appalachian Operations",
+      "city": "Canonsburg",
+      "state": "PA",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 251
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|255",
+      "company": "Wild Well Control - Canonsburg Training",
+      "city": "Canonsburg",
+      "state": "PA",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 255
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|257",
+      "company": "Kriebel Energy / Kriebel Well Services",
+      "city": "Clarion",
+      "state": "PA",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 257
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|259",
+      "company": "Reliance Well Services - Erie Office",
+      "city": "Erie",
+      "state": "PA",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 259
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|264",
+      "company": "Miller Supply of Pennsylvania, Inc. - Indiana",
+      "city": "Indiana",
+      "state": "PA",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 264
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|269",
+      "company": "Highlands Drilling",
+      "city": "Mount Morris",
+      "state": "PA",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 269
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|276",
+      "company": "Fox Oil Drilling Company",
+      "city": "Punxsutawney",
+      "state": "PA",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 276
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|277",
+      "company": "Keystone Drill Services - Punxsutawney",
+      "city": "Punxsutawney",
+      "state": "PA",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 277
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|278",
+      "company": "DTA, L.P. - Saxonburg / Don Martin Trucking",
+      "city": "Saxonburg",
+      "state": "PA",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 278
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|279",
+      "company": "Kingsly Compression - Sales & Engineering",
+      "city": "Saxonburg",
+      "state": "PA",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 279
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|283",
+      "company": "E&H Manufacturing / PSC Product Line",
+      "city": "Waynesburg",
+      "state": "PA",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 283
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|296",
+      "company": "Arnco Oil & Gas",
+      "city": "Cookeville",
+      "state": "TN",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 296
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|299",
+      "company": "FyreRok Reservoir Consulting",
+      "city": "Nashville",
+      "state": "TN",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 299
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|317",
+      "company": "Select Water Solutions - Gainesville HQ",
+      "city": "Gainesville",
+      "state": "TX",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 317
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|318",
+      "company": "Owen Oil Tools / Core Lab",
+      "city": "Godley",
+      "state": "TX",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 318
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|326",
+      "company": "Canamera Coring",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 326
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|329",
+      "company": "Datalog Geological Services, LLC - Houston HQ",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 329
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|333",
+      "company": "Energy Alloys Global Solutions - Houston HQ",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 333
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|344",
+      "company": "Halliburton - Houston / U.S. Sales",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 344
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|349",
+      "company": "Independence Contract Drilling",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 349
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|369",
+      "company": "Patterson-UTI Drilling - Houston Corporate",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 369
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|378",
+      "company": "SLB - Houston / U.S. Sales",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 378
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|384",
+      "company": "Silverthorne Seismic",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 384
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|394",
+      "company": "Weatherford - Houston",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 394
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|403",
+      "company": "Energy Alloys Global Solutions - Katy",
+      "city": "Katy",
+      "state": "TX",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 403
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|412",
+      "company": "Columbine Corporation - Midland",
+      "city": "Midland",
+      "state": "TX",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 412
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|431",
+      "company": "Keystone Clearwater Solutions - Odessa",
+      "city": "Odessa",
+      "state": "TX",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 431
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|434",
+      "company": "Stratagraph Energy Group - Odessa",
+      "city": "Odessa",
+      "state": "TX",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 434
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|436",
+      "company": "EDGE / PML Services LLC",
+      "city": "Pinehurst",
+      "state": "TX",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 436
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|440",
+      "company": "TETRA Technologies - Spring",
+      "city": "Spring",
+      "state": "TX",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 440
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|441",
+      "company": "SAExploration",
+      "city": "Stafford",
+      "state": "TX",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 441
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|444",
+      "company": "Wildcat Oil Tools",
+      "city": "Texas",
+      "state": "TX",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 444
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|451",
+      "company": "Downhole Inspection Solutions",
+      "city": "United States",
+      "state": "TX",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 451
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|460",
+      "company": "Miller Supply of Virginia, Inc. - Coeburn",
+      "city": "Coeburn",
+      "state": "VA",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 460
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|461",
+      "company": "Noah Horn Well Drilling, Inc.",
+      "city": "Oakwood",
+      "state": "VA",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 461
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|473",
+      "company": "American Producers Supply",
+      "city": "Huntington",
+      "state": "WV",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 473
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|478",
+      "company": "FESCO, Ltd. - Shinnston",
+      "city": "Shinnston",
+      "state": "WV",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 478
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|480",
+      "company": "Miller Supply of West Virginia, Inc. - Weston",
+      "city": "Weston",
+      "state": "WV",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 480
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|501",
+      "company": "Century Geophysical",
+      "city": "Gillette",
+      "state": "WY",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 501
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|502",
+      "company": "Century Geophysical / Century Wireline Services",
+      "city": "Gillette",
+      "state": "WY",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 502
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|503",
+      "company": "Cyclone Drilling - Gillette",
+      "city": "Gillette",
+      "state": "WY",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 503
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|509",
+      "company": "True Grit Well Services",
+      "city": "Gillette",
+      "state": "WY",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 509
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|514",
+      "company": "Bradford Supply Company - Powell",
+      "city": "Powell",
+      "state": "WY",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 514
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|515",
+      "company": "Bradford Supply Company - Riverton",
+      "city": "Riverton",
+      "state": "WY",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 515
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|518",
+      "company": "Weston Engineering - Upton",
+      "city": "Upton",
+      "state": "WY",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 25,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 518
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|8",
+      "company": "Winn-Marion Companies - Tempe",
+      "city": "Tempe",
+      "state": "AZ",
+      "missingFields": [
+        "phone"
+      ],
+      "priorityScore": 18,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 8
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|152",
+      "company": "Winn-Marion Companies - Billings",
+      "city": "Billings",
+      "state": "MT",
+      "missingFields": [
+        "phone"
+      ],
+      "priorityScore": 18,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 152
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|210",
+      "company": "NOMAC Drilling - El Reno",
+      "city": "El Reno",
+      "state": "OK",
+      "missingFields": [
+        "phone"
+      ],
+      "priorityScore": 18,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 210
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|245",
+      "company": "Unit Drilling Company",
+      "city": "Tulsa",
+      "state": "OK",
+      "missingFields": [
+        "phone"
+      ],
+      "priorityScore": 18,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 245
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|310",
+      "company": "USA Compression Partners - Corporate",
+      "city": "Dallas",
+      "state": "TX",
+      "missingFields": [
+        "phone"
+      ],
+      "priorityScore": 18,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 310
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|325",
+      "company": "Boots & Coots / Halliburton Well Control",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "phone"
+      ],
+      "priorityScore": 18,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 325
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|456",
+      "company": "Winn-Marion Companies - Midvale",
+      "city": "Midvale",
+      "state": "UT",
+      "missingFields": [
+        "phone"
+      ],
+      "priorityScore": 18,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 456
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|511",
+      "company": "Winn-Marion Companies - Gillette",
+      "city": "Gillette",
+      "state": "WY",
+      "missingFields": [
+        "phone"
+      ],
+      "priorityScore": 18,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 511
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|32",
+      "company": "Magna Energy Services",
+      "city": "Broomfield",
+      "state": "CO",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 16,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 32
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|41",
+      "company": "Diamond T Services, Inc.",
+      "city": "Golden",
+      "state": "CO",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 16,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 41
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|291",
+      "company": "Petres Consulting / Inyan Kara Group",
+      "city": "Rapid City",
+      "state": "SD",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 16,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 291
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|307",
+      "company": "Bestway Oil & Gas, Inc.",
+      "city": "Channelview",
+      "state": "TX",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 16,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 307
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|348",
+      "company": "Hydril",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 16,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 348
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|353",
+      "company": "K-Solv L.P.",
+      "city": "Houston",
+      "state": "TX",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 16,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 353
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|428",
+      "company": "MXROS Inc. / Specialty Vehicles & Equipment / Pump And Coiled Tubing",
+      "city": "Mineral Wells",
+      "state": "TX",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 16,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 428
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|458",
+      "company": "GASCO Drilling Inc.",
+      "city": "Cedar Bluff",
+      "state": "VA",
+      "missingFields": [
+        "website"
+      ],
+      "priorityScore": 16,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 458
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|53",
+      "company": "Les Wilson, Inc.",
+      "city": "Carmi",
+      "state": "IL",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 10,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 53
+    },
+    {
+      "key": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv|110",
+      "company": "WellStream Solutions, LLC",
+      "city": "Richmond",
+      "state": "KY",
+      "missingFields": [
+        "address"
+      ],
+      "priorityScore": 10,
+      "sourceFile": "DOG_Continental_US_Oilfield_Service_Provider_Map_V2_20_Corridor_Expansion.csv",
+      "sourceRow": 110
+    }
+  ]
+}

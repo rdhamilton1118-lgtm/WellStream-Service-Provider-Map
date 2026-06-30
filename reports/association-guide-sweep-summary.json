@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2026-06-25T01:28:46.363Z",
+  "uniqueCandidateCount": 845,
+  "existingMasterMatchCount": 41,
+  "netNewReviewCount": 804,
+  "withAddressCount": 826,
+  "withWebsiteCount": 261,
+  "byGuideState": {
+    "KS": 204,
+    "MT": 51,
+    "ND": 383,
+    "PA": 81,
+    "WV": 126
+  },
+  "sourceRuns": {
+    "montana": {
+      "association": "Montana Petroleum Association",
+      "scannedAt": "2026-06-23T01:19:56.512Z",
+      "categoryCount": 51,
+      "listingOccurrences": 117,
+      "error": null
+    },
+    "kansas": {
+      "association": "Kansas Independent Oil & Gas Association",
+      "scannedAt": "2026-06-23T01:20:37.996Z",
+      "categoryCount": 81,
+      "listingOccurrences": 463,
+      "error": null
+    },
+    "north-dakota": {
+      "association": "North Dakota petroleum industry buyers guide",
+      "scannedAt": "2026-06-23T01:21:54.781Z",
+      "categoryCount": 101,
+      "listingOccurrences": 1098,
+      "error": null
+    },
+    "pennsylvania": {
+      "association": "Pennsylvania oil and gas industry buyers guide",
+      "scannedAt": "2026-06-23T01:22:31.651Z",
+      "categoryCount": 53,
+      "listingOccurrences": 264,
+      "error": null
+    },
+    "west-virginia": {
+      "association": "West Virginia oil and gas industry buyers guide",
+      "scannedAt": "2026-06-25T01:28:46.340Z",
+      "categoryCount": 65,
+      "listingOccurrences": 308,
+      "error": null
+    }
+  }
+}

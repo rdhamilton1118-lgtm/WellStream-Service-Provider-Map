@@ -1,0 +1,2924 @@
+{
+  "generatedAt": "2026-06-24T20:18:20.748Z",
+  "targetCount": 66,
+  "completedKeys": [
+    "allianceconsulting|3fourcoinsdriveste100|canonsburg|PA",
+    "apexpipeline|pobox580|nitro|WV",
+    "assist|207carltondrive|eighty four|PA",
+    "bboilfieldequipment|8791route22east|new alexandria|PA",
+    "bakertillyus|pobox2407rt20northprofessionalartsplaza|buckhannon|WV",
+    "bertisongeorge|100willoughbystreet17h|brooklyn|NY",
+    "billmangeologicconsultants|470sprucelane|houston|PA",
+    "bjinspections|246maplestreet|westfield|PA",
+    "bluewater|2335jeffersonavenue|washington|PA",
+    "chemstream|511railroadavenue|homer city|PA",
+    "civilenvironmentalconsultants|227smainstreet|athens|PA",
+    "civilenvironmentalconsultants|4350northernpikeste141|monroeville|PA",
+    "civilenvironmentalconsultants|700cherringtonparkway|moon township|PA",
+    "clevelandbrothersequipment|1307south2ndstreet|clearfield|PA",
+    "clevelandbrothersequipment|5300paxtonstreet|harrisburg|PA",
+    "clevelandbrothersequipment|190earnhardtdrive|hunker|PA",
+    "clevelandbrothersequipment|4565williampennhighway|murrysville|PA",
+    "douglaspipeline|929parkavenue|pittsburgh|PA",
+    "eckertseamanscherinmellott|600grantstreetste4400|pittsburgh|PA",
+    "encinoenvironmental|20302parkrow|katy|TX",
+    "energytransfer|1300mainstreet|houston|TX",
+    "engineeringinspectionsinternational|12370jacksonrunroad|sugar grove|PA",
+    "equipmentcontrols|2parkdrive20box614|lawrence|PA",
+    "firecherryconsulting|pobox151|brookville|PA",
+    "fisherassociates|121hillpointedriveste100|canonsburg|PA",
+    "fisherassociates|55chicagostreetste200|buffalo|NY",
+    "fusilierresources|470sprucelane|houston|PA",
+    "gaiconsultants|385eastwaterfrontdrive|homestead|PA",
+    "gciwatersolutions|701eastspringstreetbldg47|titusville|PA",
+    "insightcamera|1990packingroad|new bethlehem|PA",
+    "integritykokosingpipeline|20box225|fredericktown|OH",
+    "keyenvironmental|200thirdavenue|carnegie|PA",
+    "keystonestabilization|pmb1074530williampennhwy|murrysville|PA",
+    "keystonewell|1360oldfreeportroadste2a|pittsburgh|PA",
+    "kodiakgas|9950woodlochforestdrive19thfloor|spring|TX",
+    "longridgeenergypower|254industrialparkroad|jane lew|WV",
+    "marcellusdrillingnews|1250frontstreet203|binghamton|NY",
+    "marcellusdrillingnews|180mercerstreet|meadville|PA",
+    "marcellusdrillingnews|699pinegroveschoolroadpobox62|venus|PA",
+    "meinertmashekcommunications|100oakparkplace|pittsburgh|PA",
+    "mobileweldingand|20box246|wellsville|OH",
+    "moodyandassociates|101nmainstreetste3|athens|PA",
+    "moodyandassociates|2402west8thstreetste2|erie|PA",
+    "moodyandassociates|1720washingtonrdste100|washington|PA",
+    "nfpanaon|115vipdriveste300|wexford|PA",
+    "ngenovelgeoenvironmental|171montourrunroad|moon township|PA",
+    "northrupequipment|20box1461|beverly|OH",
+    "pennenvironmentalremediation|100ryancourtste20|pittsburgh|PA",
+    "pennecoenvironmentalsolutions|6608route22ste301|delmont|PA",
+    "permafixenvironmental|3159thst2ndfl|new brighton|PA",
+    "prcc|1436royalparkblvd|south park|PA",
+    "precisiongeophysical|pobox152|millersburg|OH",
+    "precisionpipelineequipment|253walnutstreet|houston|PA",
+    "setechnologies|500mositeswagste100|pittsburgh|PA",
+    "spiritenergy|pobox819|nitro|WV",
+    "tank|poboxn|dennison|OH",
+    "thethrashergroup|4000towncenterblvdste140|canonsburg|PA",
+    "toypipelinecontractors|870clagpooleroad20box|worthington|PA",
+    "trenchtech|800agersavenue|lemoyne|PA",
+    "tristateccshub|14302rnbparkway|omaha|NE",
+    "usacompressionpartners|4000towncenterblvdste340|canonsburg|PA",
+    "vavco|3penncenterwestste201|pittsburgh|PA",
+    "vineyardoilgas|10299westmainroad|north east|PA",
+    "waterfordtankfabrication|20box392|lowell|OH",
+    "wellstreamsolutions|6017atwoodste17|richmond|KY",
+    "westpennenergy|865stateroute210|shelocta|PA"
+  ],
+  "records": [
+    {
+      "key": "allianceconsulting|3fourcoinsdriveste100|canonsburg|PA",
+      "directory": {
+        "company": "Alliance Consulting, Inc.",
+        "address": "3 Four coins Drive, STE 100",
+        "city": "Canonsburg",
+        "state": "PA",
+        "postalCode": "15317",
+        "phone": "(724) 745-3630",
+        "fax": "(724) 745-3631",
+        "website": "https://www.aci-wv.com",
+        "sourceImage": "assets/Scan_20260624_155528.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155528.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155528.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155528.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJ2UM7cX5UNIgRg8gzY12xNOU",
+        "name": "Alliance Consulting Inc",
+        "formattedAddress": "3 Four Coins Dr #100, Canonsburg, PA 15317, USA",
+        "latitude": 40.2601962,
+        "longitude": -80.1779327,
+        "phone": "(724) 745-3630",
+        "website": "https://www.aci-wv.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=16516020748128864387",
+        "plusCode": "86GX7R6C+3R"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:46.678Z"
+    },
+    {
+      "key": "apexpipeline|pobox580|nitro|WV",
+      "directory": {
+        "company": "Apex Pipeline Services, Inc",
+        "address": "PO. Box 580",
+        "city": "Nitro",
+        "state": "WV",
+        "postalCode": "25143",
+        "phone": "(304) 204-0080",
+        "fax": "(304) 204-0083",
+        "website": "https://www.apexpipeline.com",
+        "sourceImage": "assets/Scan_20260624_155538.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155538.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155538.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155538.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJk3ScETvKSIgRhXuSNw8Gv6M",
+        "name": "Apex Pipelines Services Inc",
+        "formattedAddress": "503 River Rd, Nitro, WV 25143, USA",
+        "latitude": 38.4421814,
+        "longitude": -81.8401993,
+        "phone": "(304) 204-0080",
+        "website": "http://www.apexpipeline.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=11799156211160611717",
+        "plusCode": "86CWC5R5+VW"
+      },
+      "matchScore": 98,
+      "reviewStatus": "Manual review required",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:47.269Z"
+    },
+    {
+      "key": "assist|207carltondrive|eighty four|PA",
+      "directory": {
+        "company": "Assist Services",
+        "address": "207 Carlton Drive",
+        "city": "Eighty Four",
+        "state": "PA",
+        "postalCode": "15330",
+        "phone": "(724) 466-n95",
+        "fax": "",
+        "website": "https://www.assistservicesllc.com",
+        "sourceImage": "assets/Scan_20260624_155538.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155538.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155538.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155538.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJg36-qp0BNYgRSCqOBzpnJig",
+        "name": "Assist Services",
+        "formattedAddress": "207 Carlton Dr, Eighty Four, PA 15330, USA",
+        "latitude": 40.1644374,
+        "longitude": -80.0659769,
+        "phone": "(724) 239-2037",
+        "website": "https://www.assistservicesllc.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=2893113309564643912",
+        "plusCode": "86GX5W7M+QJ"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:47.806Z"
+    },
+    {
+      "key": "bboilfieldequipment|8791route22east|new alexandria|PA",
+      "directory": {
+        "company": "B&B Oilfield Equipment Corporation",
+        "address": "8791 Route 22 East",
+        "city": "New Alexandria",
+        "state": "PA",
+        "postalCode": "15670",
+        "phone": "(412) 394-5400",
+        "fax": "(412) 394-6576",
+        "website": "https://www.babstcalland.com",
+        "sourceImage": "assets/Scan_20260624_155538.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155538.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155538.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155538.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJ-2t5ZMs0y4kRPyFIsbE7DIY",
+        "name": "B & B Oilfield Equipment Corporation",
+        "formattedAddress": "8791 Gomers Ln, New Alexandria, PA 15670, USA",
+        "latitude": 40.41337499999999,
+        "longitude": -79.378438,
+        "phone": "(724) 668-2509",
+        "website": "https://bboilfieldeq.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=9659160935172415807",
+        "plusCode": "87G2CJ7C+9J"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:48.518Z"
+    },
+    {
+      "key": "bakertillyus|pobox2407rt20northprofessionalartsplaza|buckhannon|WV",
+      "directory": {
+        "company": "Baker Tilly US, LLP",
+        "address": "P.O. Box 2407, Rt. 20 North, Professional Arts Plaza",
+        "city": "Buckhannon",
+        "state": "WV",
+        "postalCode": "26201",
+        "phone": "(304) 472-5550",
+        "fax": "(304) 472-5577",
+        "website": "",
+        "sourceImage": "assets/Scan_20260624_155546.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155546.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155546.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155546.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJ4VcytO1RSogRjMhLMXWGth0",
+        "name": "Baker Tilly",
+        "formattedAddress": "78 Professional Arts Plaza Dr, Buckhannon, WV 26201, USA",
+        "latitude": 39.007746,
+        "longitude": -80.23342799999999,
+        "phone": "(304) 472-5550",
+        "website": "http://bakertilly.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "accounting",
+        "googleMapsUrl": "https://maps.google.com/?cid=2141046510757595276",
+        "plusCode": "86FX2Q58+3J"
+      },
+      "matchScore": 98,
+      "reviewStatus": "Manual review required",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:49.135Z"
+    },
+    {
+      "key": "bertisongeorge|100willoughbystreet17h|brooklyn|NY",
+      "directory": {
+        "company": "Bertison-George, Llc",
+        "address": "100 Willoughby street, #17H",
+        "city": "Brooklyn",
+        "state": "NY",
+        "postalCode": "11201",
+        "phone": "(347) 599-2880",
+        "fax": "",
+        "website": "https://www.bertison-george.com",
+        "sourceImage": "assets/Scan_20260624_155546.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155546.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155546.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155546.txt"
+        ]
+      },
+      "places": null,
+      "matchScore": 0,
+      "reviewStatus": "Manual review required",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:49.518Z"
+    },
+    {
+      "key": "billmangeologicconsultants|470sprucelane|houston|PA",
+      "directory": {
+        "company": "Billman Geologic Consultants, Inc.",
+        "address": "470 Spruce Lane",
+        "city": "Houston",
+        "state": "PA",
+        "postalCode": "15342",
+        "phone": "(724) 916-4557",
+        "fax": "(412) 291-1100",
+        "website": "https://www.billmangeologic.com",
+        "sourceImage": "assets/Scan_20260624_155546.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155546.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155546.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155546.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJqSf_Wy1TNIgRJMbWpoVoLpE",
+        "name": "Billman Geologic Consultants",
+        "formattedAddress": "470 Spruce Ln, Houston, PA 15342, USA",
+        "latitude": 40.242135,
+        "longitude": -80.22326489999999,
+        "phone": "(724) 916-4557",
+        "website": "https://billmangeologic.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=10461413907667273252",
+        "plusCode": "86GX6QRG+VM"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:50.090Z"
+    },
+    {
+      "key": "bjinspections|246maplestreet|westfield|PA",
+      "directory": {
+        "company": "Bj Inspections, Inc.",
+        "address": "246 Maple Street",
+        "city": "Westfield",
+        "state": "PA",
+        "postalCode": "16950",
+        "phone": "(814) 367-0419",
+        "fax": "(814) 367-2368",
+        "website": "https://www.bjinspections.com",
+        "sourceImage": "assets/Scan_20260624_155556.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155556.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155556.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155556.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJsdS3DUne0YkRWrNFwTrr9F8",
+        "name": "Bj Inspections Inc",
+        "formattedAddress": "246 Maple St, Westfield, PA 16950, USA",
+        "latitude": 41.9162802,
+        "longitude": -77.5358761,
+        "phone": "(814) 367-0419",
+        "website": "http://www.bjinspections.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=6914409965503755098",
+        "plusCode": "87H4WF87+GJ"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:50.622Z"
+    },
+    {
+      "key": "bluewater|2335jeffersonavenue|washington|PA",
+      "directory": {
+        "company": "Bluewater, Inc.",
+        "address": "2335 Jefferson Avenue",
+        "city": "Washington",
+        "state": "PA",
+        "postalCode": "15301",
+        "phone": "(724) 548-1812",
+        "fax": "(724) 548-7402",
+        "website": "https://www.bradigans.com",
+        "sourceImage": "assets/Scan_20260624_155556.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155556.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155556.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155556.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJNQ9VofqzNYgR4ikILg7EqDo",
+        "name": "Bluewater INC",
+        "formattedAddress": "2335 Jefferson Ave, Washington, PA 15301, USA",
+        "latitude": 40.1931698,
+        "longitude": -80.2892037,
+        "phone": "(878) 218-0826",
+        "website": "",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=4226843815468083682",
+        "plusCode": "86GX5PV6+78"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:51.157Z"
+    },
+    {
+      "key": "chemstream|511railroadavenue|homer city|PA",
+      "directory": {
+        "company": "Chemstream, Inc.",
+        "address": "511 Railroad Avenue",
+        "city": "Homer city",
+        "state": "PA",
+        "postalCode": "15748",
+        "phone": "(814) 594-5028",
+        "fax": "(724) 327-5280",
+        "website": "https://www.chemstream.com",
+        "sourceImage": "assets/Scan_20260624_155556.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155556.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155556.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155556.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJuYblniUgy4kR8wr6Pa4jDCI",
+        "name": "Chemstream Inc",
+        "formattedAddress": "511 Railroad Ave, Homer City, PA 15748, USA",
+        "latitude": 40.5363823,
+        "longitude": -79.1648603,
+        "phone": "(724) 915-8388",
+        "website": "https://chemstream.com/about/locations/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=2453375128281156339",
+        "plusCode": "87G2GRPP+H3"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:51.691Z"
+    },
+    {
+      "key": "civilenvironmentalconsultants|227smainstreet|athens|PA",
+      "directory": {
+        "company": "Civil & Environmental Consultants, Inc.",
+        "address": "227 S. Main street",
+        "city": "Athens",
+        "state": "PA",
+        "postalCode": "18810-1613",
+        "phone": "(570) 886-2077",
+        "fax": "(570) 886-2011",
+        "website": "",
+        "sourceImage": "assets/Scan_20260624_155604.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155604.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155604.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155604.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJWYQN-vsJ0IkRUYvBlovL348",
+        "name": "Civil & Environmental Consultants, Inc.",
+        "formattedAddress": "227 S Main St, Athens, PA 18810, USA",
+        "latitude": 41.95785009999999,
+        "longitude": -76.51833859999999,
+        "phone": "(570) 886-2007",
+        "website": "https://www.cecinc.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=10367228667620330321",
+        "plusCode": "87H5XF5J+4M"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:52.250Z"
+    },
+    {
+      "key": "civilenvironmentalconsultants|4350northernpikeste141|monroeville|PA",
+      "directory": {
+        "company": "Civil & Environmental Consultants, Inc.",
+        "address": "4350 Northern Pike, STE 141",
+        "city": "Monroeville",
+        "state": "PA",
+        "postalCode": "15146",
+        "phone": "(800) 899-3610",
+        "fax": "(724) 327-5280",
+        "website": "https://www.cecinc.com",
+        "sourceImage": "assets/Scan_20260624_155556.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155556.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155556.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155556.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJW6t8f6zGNIgRk_vE_W0KXHE",
+        "name": "Civil & Environmental Consultants, Inc.",
+        "formattedAddress": "4350 Northern Pike Ste 141, Monroeville, PA 15146, USA",
+        "latitude": 40.4258207,
+        "longitude": -79.7403588,
+        "phone": "(724) 327-5200",
+        "website": "https://www.cecinc.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=8168415291668495251",
+        "plusCode": "87G2C7G5+8V"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:52.769Z"
+    },
+    {
+      "key": "civilenvironmentalconsultants|700cherringtonparkway|moon township|PA",
+      "directory": {
+        "company": "Civil & Environmental Consultants, Inc.",
+        "address": "700 Cherrington Parkway",
+        "city": "Moon Township",
+        "state": "PA",
+        "postalCode": "15108",
+        "phone": "(412) 429-2324",
+        "fax": "(412) 429-2114",
+        "website": "",
+        "sourceImage": "assets/Scan_20260624_155604.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155604.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155604.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155604.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJ5VwSpZ1YNIgROeF7R-N4dpo",
+        "name": "Civil & Environmental Consultants, Inc.",
+        "formattedAddress": "700 Cherrington Pkwy, Moon Township, PA 15108, USA",
+        "latitude": 40.4934757,
+        "longitude": -80.2025604,
+        "phone": "(412) 429-2324",
+        "website": "https://www.cecinc.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=11130216446644969785",
+        "plusCode": "86GXFQVW+9X"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:53.264Z"
+    },
+    {
+      "key": "clevelandbrothersequipment|1307south2ndstreet|clearfield|PA",
+      "directory": {
+        "company": "Cleveland Brothers Equipment Company",
+        "address": "1307 south 2nd Street",
+        "city": "Clearfield",
+        "state": "PA",
+        "postalCode": "16801",
+        "phone": "(814) 765-1611",
+        "fax": "",
+        "website": "",
+        "sourceImage": "assets/20260624_155607.jpg",
+        "sourceText": "research/asset-ocr/20260624_155607.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/20260624_155607.jpg",
+          "assets/Scan_20260624_155617.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/20260624_155607.txt",
+          "research/asset-ocr/Scan_20260624_155617.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJS9iPQBRozIkRIc0qTLq63jU",
+        "name": "Cleveland Brothers Equipment Co., Inc.",
+        "formattedAddress": "1307 S 2nd St, Clearfield, PA 16830, USA",
+        "latitude": 41.0061172,
+        "longitude": -78.4548128,
+        "phone": "(814) 765-1611",
+        "website": "https://www.clevelandbrothers.com/company/locations/clearfield",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=3881745238144503073",
+        "plusCode": "87H32G4W+C3"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:53.839Z"
+    },
+    {
+      "key": "clevelandbrothersequipment|5300paxtonstreet|harrisburg|PA",
+      "directory": {
+        "company": "Cleveland Brothers Equipment Company",
+        "address": "5300 Paxton Street",
+        "city": "Harrisburg",
+        "state": "PA",
+        "postalCode": "17111",
+        "phone": "(717) 635-7447",
+        "fax": "",
+        "website": "",
+        "sourceImage": "assets/20260624_155607.jpg",
+        "sourceText": "research/asset-ocr/20260624_155607.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/20260624_155607.jpg",
+          "assets/Scan_20260624_155617.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/20260624_155607.txt",
+          "research/asset-ocr/Scan_20260624_155617.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJI0wXoxa_yIkRtLMFIidR04s",
+        "name": "Cleveland Brothers Equipment Co., Inc.",
+        "formattedAddress": "5300 Paxton St, Harrisburg, PA 17111, USA",
+        "latitude": 40.2564813,
+        "longitude": -76.7964913,
+        "phone": "(717) 564-2121",
+        "website": "https://www.clevelandbrothers.com/company/locations/harrisburg",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=10075486019874304948",
+        "plusCode": "87G57643+HC"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:54.375Z"
+    },
+    {
+      "key": "clevelandbrothersequipment|190earnhardtdrive|hunker|PA",
+      "directory": {
+        "company": "Cleveland Brothers Equipment Company",
+        "address": "190 Earnhardt Drive",
+        "city": "Hunker",
+        "state": "PA",
+        "postalCode": "15639",
+        "phone": "(570) 274-6164",
+        "fax": "(800) 371-6647",
+        "website": "https://www.clevelandbrothers.com",
+        "sourceImage": "assets/Scan_20260624_155604.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155604.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155604.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155604.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJQ5-NkuPYNIgRhWbDYrOfqUA",
+        "name": "Cleveland Brothers Equipment Co., Inc.",
+        "formattedAddress": "190 Earnhardt Dr, Hunker, PA 15639, USA",
+        "latitude": 40.214321,
+        "longitude": -79.6235837,
+        "phone": "(724) 861-6080",
+        "website": "https://www.clevelandbrothers.com/company/locations/new-stanton",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=4659430882296424069",
+        "plusCode": "87G2697G+PH"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:54.906Z"
+    },
+    {
+      "key": "clevelandbrothersequipment|4565williampennhighway|murrysville|PA",
+      "directory": {
+        "company": "Cleveland Brothers Equipment Company",
+        "address": "4565 William Penn Highway",
+        "city": "Murrysville",
+        "state": "PA",
+        "postalCode": "15668-2016",
+        "phone": "(724) 327-1300",
+        "fax": "(800) 371-6647",
+        "website": "",
+        "sourceImage": "assets/20260624_155607.jpg",
+        "sourceText": "research/asset-ocr/20260624_155607.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/20260624_155607.jpg",
+          "assets/Scan_20260624_155617.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/20260624_155607.txt",
+          "research/asset-ocr/Scan_20260624_155617.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJcQiqtELBNIgR3zurotBQhC0",
+        "name": "Cleveland Brothers Equipment Co., Inc.",
+        "formattedAddress": "4565 William Penn Hwy, Murrysville, PA 15668, USA",
+        "latitude": 40.4236373,
+        "longitude": -79.67020769999999,
+        "phone": "(724) 327-1300",
+        "website": "https://www.clevelandbrothers.com/company/locations/murrysville",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=3279835285645114335",
+        "plusCode": "87G2C8FH+FW"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:55.528Z"
+    },
+    {
+      "key": "douglaspipeline|929parkavenue|pittsburgh|PA",
+      "directory": {
+        "company": "Douglas Pipeline Company",
+        "address": "929 Park Avenue",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "postalCode": "15234-1603",
+        "phone": "(412) 298-0917",
+        "fax": "",
+        "website": "https://www.douglaspipeline.com",
+        "sourceImage": "assets/Scan_20260624_155634.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155634.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155634.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155634.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJf5io--H5NIgREtKu7L6_F9I",
+        "name": "Douglas Pipeline Company",
+        "formattedAddress": "929 Park Ave, Pittsburgh, PA 15234, USA",
+        "latitude": 40.366167,
+        "longitude": -80.0243029,
+        "phone": "(412) 531-2440",
+        "website": "http://www.douglaspipeline.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=15138779499164783122",
+        "plusCode": "86GX9X8G+F7"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:56.135Z"
+    },
+    {
+      "key": "eckertseamanscherinmellott|600grantstreetste4400|pittsburgh|PA",
+      "directory": {
+        "company": "Eckert Seamans Cherin & Mellott, Llc",
+        "address": "600 Grant Street, STE 4400",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "postalCode": "15219",
+        "phone": "(412) 566-1998",
+        "fax": "",
+        "website": "",
+        "sourceImage": "assets/Scan_20260624_155634.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155634.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155634.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155634.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJ-e9MVVjxNIgR20wUy3ZXoQE",
+        "name": "Eckert Seamans",
+        "formattedAddress": "600 Grant St 44th Floor, Pittsburgh, PA 15219, USA",
+        "latitude": 40.4414139,
+        "longitude": -79.99470819999999,
+        "phone": "(412) 566-6000",
+        "website": "https://www.eckertseamans.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=117471233013206235",
+        "plusCode": "87G2C2R4+H4"
+      },
+      "matchScore": 98,
+      "reviewStatus": "Manual review required",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:56.685Z"
+    },
+    {
+      "key": "encinoenvironmental|20302parkrow|katy|TX",
+      "directory": {
+        "company": "Encino Environmental Services",
+        "address": "20302 Park Row",
+        "city": "Katy",
+        "state": "TX",
+        "postalCode": "77449",
+        "phone": "(281) 201-3544",
+        "fax": "",
+        "website": "https://www.encinoenviron.com",
+        "sourceImage": "assets/Scan_20260624_155634.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155634.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "CABENO Environmental",
+        "possibleExistingMatchScore": 0.789,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155634.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155634.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJ1S6kyDIdQYYRgpCYJM5xMjg",
+        "name": "Encino Environmental Services",
+        "formattedAddress": "20302 Park Row Blvd Ste 1200, Katy, TX 77449, USA",
+        "latitude": 29.7900717,
+        "longitude": -95.73216529999999,
+        "phone": "(281) 201-3544",
+        "website": "http://www.encinoenviron.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=4049424145150677122",
+        "plusCode": "76X6Q7R9+24"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:57.246Z"
+    },
+    {
+      "key": "energytransfer|1300mainstreet|houston|TX",
+      "directory": {
+        "company": "Energy Transfer Company",
+        "address": "1300 Main Street",
+        "city": "Houston",
+        "state": "TX",
+        "postalCode": "77002",
+        "phone": "(713) 989-7803",
+        "fax": "(878) 332-2611",
+        "website": "https://www.energgtransfer.com",
+        "sourceImage": "assets/Scan_20260624_155650.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155650.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155650.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155650.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJscfJjcWVXhQR_qOHxRqk9zU",
+        "name": "Energy Transfer Partners",
+        "formattedAddress": "1300 Main St, Houston, TX 77002, USA",
+        "latitude": 29.7547045,
+        "longitude": -95.3674164,
+        "phone": "(713) 989-7000",
+        "website": "http://energytransfer.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=3888757238147818494",
+        "plusCode": "76X6QJ3M+V2"
+      },
+      "matchScore": 98,
+      "reviewStatus": "Manual review required",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:57.734Z"
+    },
+    {
+      "key": "engineeringinspectionsinternational|12370jacksonrunroad|sugar grove|PA",
+      "directory": {
+        "company": "Engineering & Inspections International",
+        "address": "12370 Jackson Run Road",
+        "city": "sugar Grove",
+        "state": "PA",
+        "postalCode": "16350-4526",
+        "phone": "(814) 489-3164",
+        "fax": "(814) 489-3158",
+        "website": "https://www.enginsp.net",
+        "sourceImage": "assets/Scan_20260624_155650.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155650.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155650.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155650.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJ3e3g8KZFzYkRkIKZ7T6EgCM",
+        "name": "Engineering & Inspections International",
+        "formattedAddress": "12370 Jackson Run Rd, Sugar Grove, PA 16350, USA",
+        "latitude": 41.9695046,
+        "longitude": -79.3339885,
+        "phone": "(814) 489-3164",
+        "website": "http://www.enginsp.net/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=2558189994155541136",
+        "plusCode": "87H2XM98+RC"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:58.261Z"
+    },
+    {
+      "key": "equipmentcontrols|2parkdrive20box614|lawrence|PA",
+      "directory": {
+        "company": "Equipment & Controls, Inc.",
+        "address": "2 Park Drive, 20. Box 614",
+        "city": "Lawrence",
+        "state": "PA",
+        "postalCode": "15055",
+        "phone": "(724) 873-2001",
+        "fax": "(724) 746-1225",
+        "website": "https://www.eci.us",
+        "sourceImage": "assets/Scan_20260624_155650.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155650.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155650.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155650.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJCfcloq5XNIgRIkSUlF7J4jQ",
+        "name": "Equipment & Controls, Inc. Operations Center",
+        "formattedAddress": "1005 Park Dr, Lawrence, PA 15055, USA",
+        "latitude": 40.310028,
+        "longitude": -80.1347122,
+        "phone": "(724) 746-3700",
+        "website": "https://www.eci.us/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=3810829642765714466",
+        "plusCode": "86GX8V68+24"
+      },
+      "matchScore": 98,
+      "reviewStatus": "Manual review required",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:58.792Z"
+    },
+    {
+      "key": "firecherryconsulting|pobox151|brookville|PA",
+      "directory": {
+        "company": "Fire Cherry Consulting, Llc",
+        "address": "P.O. Box 151",
+        "city": "Brookville",
+        "state": "PA",
+        "postalCode": "15825",
+        "phone": "(412) 848-5780",
+        "fax": "",
+        "website": "https://www.fisherassoc.com",
+        "sourceImage": "assets/Scan_20260624_155702.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155702.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155702.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155702.txt"
+        ]
+      },
+      "places": null,
+      "matchScore": 0,
+      "reviewStatus": "Manual review required",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:59.156Z"
+    },
+    {
+      "key": "fisherassociates|121hillpointedriveste100|canonsburg|PA",
+      "directory": {
+        "company": "Fisher Associates",
+        "address": "121 Hillpointe Drive, STE 100",
+        "city": "Canonsburg",
+        "state": "PA",
+        "postalCode": "15317-9552",
+        "phone": "(724) 916-4250",
+        "fax": "",
+        "website": "https://www.fisherassoc.com",
+        "sourceImage": "assets/Scan_20260624_155702.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155702.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155702.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155702.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJvwOEaRRUNIgRcfto_deZ5Y0",
+        "name": "Fisher Associates",
+        "formattedAddress": "121 Hillpointe Dr Ste 100, Canonsburg, PA 15317, USA",
+        "latitude": 40.2777808,
+        "longitude": -80.1731205,
+        "phone": "(724) 916-4250",
+        "website": "http://www.fisherassoc.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=10224747681963113329",
+        "plusCode": "86GX7RHG+4Q"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:17:59.686Z"
+    },
+    {
+      "key": "fisherassociates|55chicagostreetste200|buffalo|NY",
+      "directory": {
+        "company": "Fisherassociates",
+        "address": "55 Chicago street, STE 200",
+        "city": "Buffalo",
+        "state": "NY",
+        "postalCode": "14204-2503",
+        "phone": "(716) 858-1234",
+        "fax": "(814) 734-4489",
+        "website": "",
+        "sourceImage": "assets/Scan_20260624_155702.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155702.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155702.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155702.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJWzkkJk4S04kR-r9o4i10D2Y",
+        "name": "Fisher Associates",
+        "formattedAddress": "55 Chicago St #200, Buffalo, NY 14204, USA",
+        "latitude": 42.8697831,
+        "longitude": -78.86845509999999,
+        "phone": "(716) 858-1234",
+        "website": "http://www.fisherassoc.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=7354224456940175354",
+        "plusCode": "87J3V49J+WJ"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:00.249Z"
+    },
+    {
+      "key": "fusilierresources|470sprucelane|houston|PA",
+      "directory": {
+        "company": "Fusilier Resources, Llc",
+        "address": "470 Spruce Lane",
+        "city": "Houston",
+        "state": "PA",
+        "postalCode": "15342",
+        "phone": "(412) 600-3893",
+        "fax": "",
+        "website": "https://www.fusilierresources.com",
+        "sourceImage": "assets/Scan_20260624_155711.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155711.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155711.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155711.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJiZGAZhhTNIgRrLKutQD8tag",
+        "name": "470 Spruce Ln",
+        "formattedAddress": "470 Spruce Ln, Houston, PA 15342, USA",
+        "latitude": 40.2421292,
+        "longitude": -80.223258,
+        "phone": "",
+        "website": "",
+        "businessStatus": "",
+        "primaryType": "premise",
+        "googleMapsUrl": "https://maps.google.com/?cid=12156899849134846636",
+        "plusCode": ""
+      },
+      "matchScore": 27.4,
+      "reviewStatus": "Manual review required",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:00.750Z"
+    },
+    {
+      "key": "gaiconsultants|385eastwaterfrontdrive|homestead|PA",
+      "directory": {
+        "company": "Gai Consultants, Inc.",
+        "address": "385 East Waterfront Drive",
+        "city": "Homestead",
+        "state": "PA",
+        "postalCode": "15120-5005",
+        "phone": "(412) 476-2000",
+        "fax": "(412) 476-2020",
+        "website": "https://www.gaiconsultants.com",
+        "sourceImage": "assets/Scan_20260624_155711.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155711.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155711.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155711.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJY3eBHSPuNIgRqX0rS25oHVg",
+        "name": "GAI Consultants, Inc.",
+        "formattedAddress": "385 E Waterfront Dr, Homestead, PA 15120, USA",
+        "latitude": 40.412903,
+        "longitude": -79.9109699,
+        "phone": "(412) 476-2000",
+        "website": "https://gaiconsultants.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=6349345872579100073",
+        "plusCode": "87G2C37Q+5J"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:01.298Z"
+    },
+    {
+      "key": "gciwatersolutions|701eastspringstreetbldg47|titusville|PA",
+      "directory": {
+        "company": "Gci Water Solutions",
+        "address": "701 East spring street, Bldg. 47",
+        "city": "Titusville",
+        "state": "PA",
+        "postalCode": "16354",
+        "phone": "(989) 750-8254",
+        "fax": "(412) 487-6928",
+        "website": "https://www.gci-water.com",
+        "sourceImage": "assets/Scan_20260624_155711.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155711.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155711.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155711.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJUxNPolvDMogRP854Fr3bBm4",
+        "name": "GCI Water Solutions",
+        "formattedAddress": "Titusville, PA 16354, USA",
+        "latitude": 41.6252554,
+        "longitude": -79.6581635,
+        "phone": "",
+        "website": "",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=7928265799204654655",
+        "plusCode": "87H2J8GR+4P"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [
+        {
+          "name": "Grand Valley Manufacturing - Main Office",
+          "address": "701 E Spring St Bldg 52, Titusville, PA 16354, USA",
+          "score": 32.4,
+          "placeId": "ChIJv1-4bETDMogRJ1OWi5A5hFg"
+        }
+      ],
+      "researchedAt": "2026-06-24T20:18:01.832Z"
+    },
+    {
+      "key": "insightcamera|1990packingroad|new bethlehem|PA",
+      "directory": {
+        "company": "Insight Camera Services Llc",
+        "address": "1990 Packing Road",
+        "city": "New Bethlehem",
+        "state": "PA",
+        "postalCode": "16242",
+        "phone": "(814) 275-3390",
+        "fax": "(814) 275-3308",
+        "website": "https://www.insightcameraservices.com",
+        "sourceImage": "assets/Scan_20260624_155750.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155750.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155750.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155750.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJ-c5qqyq1zIkRLyMedQg__BQ",
+        "name": "1990 Packing Rd",
+        "formattedAddress": "1990 Packing Rd, New Bethlehem, PA 16242, USA",
+        "latitude": 41.0706301,
+        "longitude": -79.38023989999999,
+        "phone": "",
+        "website": "",
+        "businessStatus": "",
+        "primaryType": "premise",
+        "googleMapsUrl": "https://maps.google.com/?cid=1512152880446841647",
+        "plusCode": ""
+      },
+      "matchScore": 20.4,
+      "reviewStatus": "Manual review required",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:02.307Z"
+    },
+    {
+      "key": "integritykokosingpipeline|20box225|fredericktown|OH",
+      "directory": {
+        "company": "Integrity Kokosing Pipeline Services, Llc",
+        "address": "20. Box 225",
+        "city": "Fredericktown",
+        "state": "OH",
+        "postalCode": "43019-0225",
+        "phone": "(740) 848-4919",
+        "fax": "(740) 957-9267",
+        "website": "https://www.integritykokosing.com",
+        "sourceImage": "assets/Scan_20260624_155750.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155750.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155750.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155750.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJgTQf9-HJOYgRKgUjZZZFLLc",
+        "name": "Kokosing Construction Company, Inc.",
+        "formattedAddress": "17531 Waterford Rd, Fredericktown, OH 43019, USA",
+        "latitude": 40.4919919,
+        "longitude": -82.56103619999999,
+        "phone": "(740) 694-6315",
+        "website": "http://www.kokosing.biz/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=13199001120160285994",
+        "plusCode": "86GVFCRQ+QH"
+      },
+      "matchScore": 32,
+      "reviewStatus": "Manual review required",
+      "alternatives": [
+        {
+          "name": "Kokosing Materials, Inc. Fredericktown",
+          "address": "11624 Hyatt Rd, Fredericktown, OH 43019, USA",
+          "score": 27.3,
+          "placeId": "ChIJ9RMvPTnKOYgRxedzi-9q94w"
+        },
+        {
+          "name": "Kokosing Construction, Inc. and Kokosing Industrial, Inc. Corporate Headquarters",
+          "address": "6235 Westerville Rd, Westerville, OH 43081, USA",
+          "score": 26.1,
+          "placeId": "ChIJjVAAKDH1OIgRjdgWbxUNHIA"
+        }
+      ],
+      "researchedAt": "2026-06-24T20:18:02.822Z"
+    },
+    {
+      "key": "keyenvironmental|200thirdavenue|carnegie|PA",
+      "directory": {
+        "company": "Key Environmental, Inc",
+        "address": "200 Third Avenue",
+        "city": "Carnegie",
+        "state": "PA",
+        "postalCode": "15106-2600",
+        "phone": "(412) 279-3363",
+        "fax": "(412) 279-4332",
+        "website": "https://www.kegenvir.com",
+        "sourceImage": "assets/Scan_20260624_155801.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155801.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155801.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155801.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJw9g8r9H3NIgR3duLkq6SQUg",
+        "name": "Key Environmental Inc",
+        "formattedAddress": "200 3rd Ave, Carnegie, PA 15106, USA",
+        "latitude": 40.404568,
+        "longitude": -80.0892889,
+        "phone": "(412) 279-3363",
+        "website": "https://www.keyenvir.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=5206603922697608157",
+        "plusCode": "86GXCW36+R7"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:03.354Z"
+    },
+    {
+      "key": "keystonestabilization|pmb1074530williampennhwy|murrysville|PA",
+      "directory": {
+        "company": "Keystone Stabilization Llc",
+        "address": "PMB 107, 4530 William Penn Hwy.",
+        "city": "Murrysville",
+        "state": "PA",
+        "postalCode": "15668-2002",
+        "phone": "(412) 999-1649",
+        "fax": "",
+        "website": "https://www.keystonestabilization.com",
+        "sourceImage": "assets/Scan_20260624_155801.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155801.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155801.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155801.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJ3_0LrVXxNIgR6LI04s7H6XQ",
+        "name": "Keystone Staffing Solutions, LLC",
+        "formattedAddress": "Four Gateway Center, 444 Liberty Ave #1400, Pittsburgh, PA 15222, USA",
+        "latitude": 40.440898,
+        "longitude": -80.0046248,
+        "phone": "(412) 586-2044",
+        "website": "https://www.keystonestaffingllc.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=8424484269345518312",
+        "plusCode": "86GXCXRW+95"
+      },
+      "matchScore": 52.8,
+      "reviewStatus": "Manual review required",
+      "alternatives": [
+        {
+          "name": "Keystone Closing Services",
+          "address": "3865 Reed Blvd, Murrysville, PA 15668, USA",
+          "score": 51.3,
+          "placeId": "ChIJVU6ld5_BNIgRfRZu9brUh7o"
+        },
+        {
+          "name": "Keystone Closing Services",
+          "address": "17 Brilliant Ave, Pittsburgh, PA 15215, USA",
+          "score": 41.3,
+          "placeId": "ChIJlRvFlR_tNIgRUx9OAox-m28"
+        }
+      ],
+      "researchedAt": "2026-06-24T20:18:03.927Z"
+    },
+    {
+      "key": "keystonewell|1360oldfreeportroadste2a|pittsburgh|PA",
+      "directory": {
+        "company": "Keystone Well Services",
+        "address": "1360 old Freeport Road, STE 2A",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "postalCode": "15238",
+        "phone": "(412) 310-3357",
+        "fax": "",
+        "website": "https://www.kegstonewellservices.com",
+        "sourceImage": "assets/Scan_20260624_155801.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155801.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155801.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155801.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJHQsoAVS_z4kRAA6AUEZZzo8",
+        "name": "Keystone Well & Pump Service LLC",
+        "formattedAddress": "9712 Wallis Run Rd, Trout Run, PA 17771, USA",
+        "latitude": 41.41504,
+        "longitude": -76.86693869999999,
+        "phone": "(272) 202-8704",
+        "website": "",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=10362317951159242240",
+        "plusCode": "87H5C48M+26"
+      },
+      "matchScore": 88,
+      "reviewStatus": "Manual review required",
+      "alternatives": [
+        {
+          "name": "Keystone Pump & Well Service",
+          "address": "594 Rose Inn Ave, Nazareth, PA 18064, USA",
+          "score": 60.5,
+          "placeId": "ChIJd21pbBRpxIkRL-FMKaA4MEM"
+        },
+        {
+          "name": "Keystone Closing Services",
+          "address": "17 Brilliant Ave, Pittsburgh, PA 15215, USA",
+          "score": 55.3,
+          "placeId": "ChIJlRvFlR_tNIgRUx9OAox-m28"
+        }
+      ],
+      "researchedAt": "2026-06-24T20:18:04.502Z"
+    },
+    {
+      "key": "kodiakgas|9950woodlochforestdrive19thfloor|spring|TX",
+      "directory": {
+        "company": "Kodiak Gas Services, Llc",
+        "address": "9950 Woodloch Forest Drive, 19th Floor",
+        "city": "spring",
+        "state": "TX",
+        "postalCode": "77380-4253",
+        "phone": "(936) 539-3300",
+        "fax": "",
+        "website": "https://kodiakgas.com",
+        "sourceImage": "assets/Scan_20260624_155801.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155801.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "Kodiak Gas Services",
+        "possibleExistingMatch": "Kodiak Gas Services",
+        "possibleExistingMatchScore": 1,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155801.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155801.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJKZJ5IgMjR4YRlDvPjsw0aGE",
+        "name": "Kodiak Gas Services",
+        "formattedAddress": "9950 Woodloch Forest Dr 19th Floor, The Woodlands, TX 77380, USA",
+        "latitude": 30.1607699,
+        "longitude": -95.4551264,
+        "phone": "(936) 539-3300",
+        "website": "https://www.kodiakgas.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=7018918072430836628",
+        "plusCode": "86265G6V+8W"
+      },
+      "matchScore": 108,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:05.061Z"
+    },
+    {
+      "key": "longridgeenergypower|254industrialparkroad|jane lew|WV",
+      "directory": {
+        "company": "Long Ridge Energy & Power",
+        "address": "254 Industrial Park Road",
+        "city": "Jane Lew",
+        "state": "WV",
+        "postalCode": "26378",
+        "phone": "(304) 805-2157",
+        "fax": "",
+        "website": "https://ma-resources.com",
+        "sourceImage": "assets/Scan_20260624_155810.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155810.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155810.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155810.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJez0llNwHNogRMUglXRwT-g4",
+        "name": "Long Ridge Energy Generation",
+        "formattedAddress": "43840 OH-7, Hannibal, OH 43931, USA",
+        "latitude": 39.7045226,
+        "longitude": -80.8454699,
+        "phone": "(740) 300-1467",
+        "website": "https://www.longridgeenergy.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=1079196073251391537",
+        "plusCode": "86FXP533+RR"
+      },
+      "matchScore": 50.6,
+      "reviewStatus": "Manual review required",
+      "alternatives": [
+        {
+          "name": "Worldwide Equipment",
+          "address": "685 Industrial Park Rd, Jane Lew, WV 26378, USA",
+          "score": 35.5,
+          "placeId": "ChIJmfBBkiRGSogRq5NAlRKOosE"
+        },
+        {
+          "name": "Jane Lew Home Center",
+          "address": "5930 Main St, Jane Lew, WV 26378, USA",
+          "score": 32,
+          "placeId": "ChIJN7BbMyhHSogR0LT071Iej4w"
+        }
+      ],
+      "researchedAt": "2026-06-24T20:18:05.624Z"
+    },
+    {
+      "key": "marcellusdrillingnews|1250frontstreet203|binghamton|NY",
+      "directory": {
+        "company": "Marcellus Drilling News",
+        "address": "1250 Front street, #203",
+        "city": "Binghamton",
+        "state": "NY",
+        "postalCode": "13901",
+        "phone": "(607) 238-2500",
+        "fax": "(814) 337-0929",
+        "website": "https://www.marcellusdrilling.com",
+        "sourceImage": "assets/Scan_20260624_155810.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155810.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155810.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155810.txt"
+        ]
+      },
+      "places": null,
+      "matchScore": 0,
+      "reviewStatus": "Manual review required",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:05.998Z"
+    },
+    {
+      "key": "marcellusdrillingnews|180mercerstreet|meadville|PA",
+      "directory": {
+        "company": "Marcellus Drilling News",
+        "address": "180 Mercer Street",
+        "city": "Meadville",
+        "state": "PA",
+        "postalCode": "16335",
+        "phone": "(814) 724-5890",
+        "fax": "(814) 337-0929",
+        "website": "https://www.mpbcpacom",
+        "sourceImage": "assets/Scan_20260624_155810.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155810.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155810.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155810.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJ8QmcoXtYMogR8MPYtpkDvwk",
+        "name": "180 Mercer St",
+        "formattedAddress": "180 Mercer St, Meadville, PA 16335, USA",
+        "latitude": 41.684696,
+        "longitude": -80.10627699999999,
+        "phone": "",
+        "website": "",
+        "businessStatus": "",
+        "primaryType": "street_address",
+        "googleMapsUrl": "https://maps.google.com/?cid=702284025625625584",
+        "plusCode": "86HXMVMV+VF"
+      },
+      "matchScore": 25,
+      "reviewStatus": "Manual review required",
+      "alternatives": [
+        {
+          "name": "180 Mercer St",
+          "address": "180 Mercer St, Meadville, PA 16335, USA",
+          "score": 25,
+          "placeId": "ChIJC-UR5RNXMogRzAx7En5DjwU"
+        }
+      ],
+      "researchedAt": "2026-06-24T20:18:06.473Z"
+    },
+    {
+      "key": "marcellusdrillingnews|699pinegroveschoolroadpobox62|venus|PA",
+      "directory": {
+        "company": "Marcellus Drilling News",
+        "address": "699 Pinegrove School Road, P.O. Box 62",
+        "city": "Venus",
+        "state": "PA",
+        "postalCode": "16364",
+        "phone": "(814) 354-2934",
+        "fax": "(814) 354-2938",
+        "website": "https://www.mckissicktrucking.com",
+        "sourceImage": "assets/Scan_20260624_155810.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155810.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155810.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155810.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJp7SUSpQoM4gRI7R0zKPjw-s",
+        "name": "699 Pinegrove School Rd",
+        "formattedAddress": "699 Pinegrove School Rd, Venus, PA 16364, USA",
+        "latitude": 41.3860968,
+        "longitude": -79.54199129999999,
+        "phone": "",
+        "website": "",
+        "businessStatus": "",
+        "primaryType": "premise",
+        "googleMapsUrl": "https://maps.google.com/?cid=16988672512021017635",
+        "plusCode": ""
+      },
+      "matchScore": 15,
+      "reviewStatus": "Manual review required",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:06.981Z"
+    },
+    {
+      "key": "meinertmashekcommunications|100oakparkplace|pittsburgh|PA",
+      "directory": {
+        "company": "Meinert/Mashek Communications",
+        "address": "100 Oak Park Place",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "postalCode": "15243",
+        "phone": "(412) 759-3139",
+        "fax": "",
+        "website": "https://www.mm-comm.com",
+        "sourceImage": "assets/Scan_20260624_155810.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155810.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155810.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155810.txt"
+        ]
+      },
+      "places": null,
+      "matchScore": 0,
+      "reviewStatus": "Manual review required",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:07.368Z"
+    },
+    {
+      "key": "mobileweldingand|20box246|wellsville|OH",
+      "directory": {
+        "company": "Mobile Welding And Services Llc",
+        "address": "20. Box 246",
+        "city": "Wellsville",
+        "state": "OH",
+        "postalCode": "43968",
+        "phone": "(814) 853-2429",
+        "fax": "",
+        "website": "https://www.mwsunlimited.com",
+        "sourceImage": "assets/Scan_20260624_155810.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155810.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155810.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155810.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJOTSGnC1hQIgR_WmckJ7a2Ww",
+        "name": "Welding Services",
+        "formattedAddress": "220 Baker Ln, Carlisle, OH 45005, USA",
+        "latitude": 39.571744,
+        "longitude": -84.3375867,
+        "phone": "(844) 295-3349",
+        "website": "https://www.weldingservicesllc.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "car_repair",
+        "googleMapsUrl": "https://maps.google.com/?cid=7843540600608287229",
+        "plusCode": "86FQHMC6+MX"
+      },
+      "matchScore": 88,
+      "reviewStatus": "Manual review required",
+      "alternatives": [
+        {
+          "name": "C M Mobile Welding and Fabrication LLC",
+          "address": "232 Champlin Hill Rd, Smethport, PA 16749, USA",
+          "score": 83,
+          "placeId": "ChIJ-QYGw_3ZIm0RsXAQV8094go"
+        },
+        {
+          "name": "Mobile Welding",
+          "address": "Brill Ln, Augusta, WV 26704, USA",
+          "score": 83,
+          "placeId": "ChIJ1TbgH42FtYkR1MPIIMDwwXc"
+        }
+      ],
+      "researchedAt": "2026-06-24T20:18:07.966Z"
+    },
+    {
+      "key": "moodyandassociates|101nmainstreetste3|athens|PA",
+      "directory": {
+        "company": "Moody And Associates, Inc.",
+        "address": "101 N. Main street, STE 3",
+        "city": "Athens",
+        "state": "PA",
+        "postalCode": "18810-1707",
+        "phone": "(607) 565-8800",
+        "fax": "(607) 565-8805",
+        "website": "",
+        "sourceImage": "assets/Scan_20260624_155819.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155819.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155819.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155819.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJqWLpbNkJ0IkRrwlvG1CRgWw",
+        "name": "Moody and Associates, Inc.",
+        "formattedAddress": "101 N Main St Ste 3, Athens, PA 18810, USA",
+        "latitude": 41.9639522,
+        "longitude": -76.52182220000002,
+        "phone": "(607) 565-8800",
+        "website": "https://www.moody-s.com/athens/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=7818690201335564719",
+        "plusCode": "87H5XF7H+H7"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:08.519Z"
+    },
+    {
+      "key": "moodyandassociates|2402west8thstreetste2|erie|PA",
+      "directory": {
+        "company": "Moody And Associates, Inc.",
+        "address": "2402 West 8th street, STE 2",
+        "city": "Erie",
+        "state": "PA",
+        "postalCode": "16505",
+        "phone": "(814) 724-4970",
+        "fax": "",
+        "website": "",
+        "sourceImage": "assets/Scan_20260624_155819.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155819.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155819.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155819.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJw2K7swp_MogRlWsPYDX6Rho",
+        "name": "Moody and Associates, Inc.",
+        "formattedAddress": "2402 W 8th St, Erie, PA 16505, USA",
+        "latitude": 42.1081785,
+        "longitude": -80.13749020000002,
+        "phone": "(814) 724-4970",
+        "website": "https://moody-s.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=1893475800507706261",
+        "plusCode": "86JX4V57+72"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:09.130Z"
+    },
+    {
+      "key": "moodyandassociates|1720washingtonrdste100|washington|PA",
+      "directory": {
+        "company": "Moody And Associates, Inc.",
+        "address": "1720 Washington Rd., STE 100",
+        "city": "Washington",
+        "state": "PA",
+        "postalCode": "15301",
+        "phone": "(724) 746-5200",
+        "fax": "(724) 746-5603",
+        "website": "https://www.moody-s.com",
+        "sourceImage": "assets/Scan_20260624_155819.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155819.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155819.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155819.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJQ0hbW0GGb0ARfiQ9dwyVLBs",
+        "name": "Moody and Associates, Inc.",
+        "formattedAddress": "1720 Washington Rd Suite 100, Washington, PA 15301, USA",
+        "latitude": 40.2203832,
+        "longitude": -80.1873604,
+        "phone": "(724) 746-5200",
+        "website": "https://www.moody-s.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=1958103818771965054",
+        "plusCode": "86GX6RC7+53"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:09.632Z"
+    },
+    {
+      "key": "nfpanaon|115vipdriveste300|wexford|PA",
+      "directory": {
+        "company": "Nfp, An Aon Company",
+        "address": "115 VIP Drive, STE 300",
+        "city": "Wexford",
+        "state": "PA",
+        "postalCode": "15090",
+        "phone": "(724) 940-9403",
+        "fax": "(724) 940-9410",
+        "website": "https://www.ngeconsulting.com",
+        "sourceImage": "assets/Scan_20260624_155839.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155839.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155839.jpg",
+          "assets/Scan_20260624_160242.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155839.txt",
+          "research/asset-ocr/Scan_20260624_160242.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJc2ehnv6JNIgRjQNmREORupg",
+        "name": "NFP, an Aon company",
+        "formattedAddress": "115 VIP Drive #300, Wexford, PA 15090, USA",
+        "latitude": 40.618403,
+        "longitude": -80.094095,
+        "phone": "(724) 940-9400",
+        "website": "https://www.nfp.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=11005268357529600909",
+        "plusCode": "86GXJW94+99"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:10.180Z"
+    },
+    {
+      "key": "ngenovelgeoenvironmental|171montourrunroad|moon township|PA",
+      "directory": {
+        "company": "Nge (Novel Geo-Environmental, Inc.)",
+        "address": "171 Montour Run Road",
+        "city": "Moon Township",
+        "state": "PA",
+        "postalCode": "15108",
+        "phone": "(412) 722-1970",
+        "fax": "(412) 722-1969",
+        "website": "https://www.ngeconsulting.com",
+        "sourceImage": "assets/Scan_20260624_155839.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_155839.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_155839.jpg",
+          "assets/Scan_20260624_160242.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_155839.txt",
+          "research/asset-ocr/Scan_20260624_160242.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJ0xnPEsleNIgRLvwuxe6JT64",
+        "name": "NGE",
+        "formattedAddress": "171 Montour Run Rd, Moon Township, PA 15108, USA",
+        "latitude": 40.4646193,
+        "longitude": -80.1619117,
+        "phone": "(412) 722-1970",
+        "website": "http://www.ngeconsulting.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=12560409544363015214",
+        "plusCode": "86GXFR7Q+R6"
+      },
+      "matchScore": 98,
+      "reviewStatus": "Manual review required",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:10.687Z"
+    },
+    {
+      "key": "northrupequipment|20box1461|beverly|OH",
+      "directory": {
+        "company": "Northrup Equipment Company",
+        "address": "20. Box 1461",
+        "city": "Beverly",
+        "state": "OH",
+        "postalCode": "45715",
+        "phone": "(740) 410-1007",
+        "fax": "(740) 410-1010",
+        "website": "https://www.northrupequipmentcompany.com",
+        "sourceImage": "assets/Scan_20260624_160252.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_160252.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_160252.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_160252.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJ5R_SNIBMSIgRGaT5eDj2WOA",
+        "name": "Northrup Equipment Co",
+        "formattedAddress": "220 5th St, Beverly, OH 45715, USA",
+        "latitude": 39.5475962,
+        "longitude": -81.6380563,
+        "phone": "(740) 410-1007",
+        "website": "https://www.northrupequipmentcompany.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=16165941584854623257",
+        "plusCode": "86FWG9X6+2Q"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:11.199Z"
+    },
+    {
+      "key": "pennenvironmentalremediation|100ryancourtste20|pittsburgh|PA",
+      "directory": {
+        "company": "Penn Environmental & Remediation, Inc.",
+        "address": "100 Ryan court, STE 20",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "postalCode": "15205-1310",
+        "phone": "(412) 722-1222",
+        "fax": "",
+        "website": "https://www.penn-er.com",
+        "sourceImage": "assets/Scan_20260624_160252.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_160252.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_160252.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_160252.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJcz76iZxYNIgRZn2XArYowME",
+        "name": "Penn E&R, Inc.",
+        "formattedAddress": "100 Ryan Ct, Pittsburgh, PA 15205, USA",
+        "latitude": 40.4254734,
+        "longitude": -80.1023489,
+        "phone": "(412) 722-1222",
+        "website": "http://www.penn-er.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=13961203607041178982",
+        "plusCode": "86GXCVGX+53"
+      },
+      "matchScore": 33,
+      "reviewStatus": "Manual review required",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:11.730Z"
+    },
+    {
+      "key": "pennecoenvironmentalsolutions|6608route22ste301|delmont|PA",
+      "directory": {
+        "company": "Penneco Environmental Solutions, Llc",
+        "address": "6608 Route 22, STE 301",
+        "city": "Delmont",
+        "state": "PA",
+        "postalCode": "15626",
+        "phone": "(724) 468-6014",
+        "fax": "",
+        "website": "https://www.pennecoenvironmentalsolutions.com",
+        "sourceImage": "assets/Scan_20260624_160252.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_160252.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_160252.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_160252.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJTXfpfObFNIgRdDSKAKaILs8",
+        "name": "Penneco Environmental Solutions",
+        "formattedAddress": "6608 US-22 #301, Delmont, PA 15626, USA",
+        "latitude": 40.398998,
+        "longitude": -79.577803,
+        "phone": "(724) 468-6014",
+        "website": "https://pennecoenvironmentalsolutions.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=14929020061334778996",
+        "plusCode": "87G29CXC+HV"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:12.279Z"
+    },
+    {
+      "key": "permafixenvironmental|3159thst2ndfl|new brighton|PA",
+      "directory": {
+        "company": "Permafix Environmental Services",
+        "address": "315 9th St., 2nd FL",
+        "city": "New Brighton",
+        "state": "PA",
+        "postalCode": "15066",
+        "phone": "(724) 728-3960",
+        "fax": "(724) 728-3962",
+        "website": "https://www.perma-fix.com",
+        "sourceImage": "assets/Scan_20260624_160315.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_160315.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_160315.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_160315.txt"
+        ]
+      },
+      "places": null,
+      "matchScore": 0,
+      "reviewStatus": "Manual review required",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:12.707Z"
+    },
+    {
+      "key": "prcc|1436royalparkblvd|south park|PA",
+      "directory": {
+        "company": "Prcc",
+        "address": "1436 Royal Park Blvd.",
+        "city": "south Park",
+        "state": "PA",
+        "postalCode": "15129",
+        "phone": "(412) 735-4114",
+        "fax": "(412) 653-1837",
+        "website": "https://www.pghcleancities.org",
+        "sourceImage": "assets/Scan_20260624_160315.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_160315.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_160315.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_160315.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJQ5E2n4_7NIgR6YbB9DuVsRo",
+        "name": "1436 Royal Park Blvd",
+        "formattedAddress": "1436 Royal Park Blvd, South Park Township, PA 15129, USA",
+        "latitude": 40.2885468,
+        "longitude": -79.9765602,
+        "phone": "",
+        "website": "",
+        "businessStatus": "",
+        "primaryType": "premise",
+        "googleMapsUrl": "https://maps.google.com/?cid=1923482600605845225",
+        "plusCode": ""
+      },
+      "matchScore": 23.2,
+      "reviewStatus": "Manual review required",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:13.176Z"
+    },
+    {
+      "key": "precisiongeophysical|pobox152|millersburg|OH",
+      "directory": {
+        "company": "Precision Geophysical, Inc.",
+        "address": "P.o. Box 152",
+        "city": "Millersburg",
+        "state": "OH",
+        "postalCode": "44654-0152",
+        "phone": "(330) 674-2198",
+        "fax": "(724) 746-5428",
+        "website": "https://www.precisiongeophysical.com",
+        "sourceImage": "assets/Scan_20260624_160315.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_160315.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_160315.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_160315.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJQ_yp9e5yN4gRP4AVA0ZKWeA",
+        "name": "Precision Geophysical Inc.",
+        "formattedAddress": "2695 OH-83, Millersburg, OH 44654, USA",
+        "latitude": 40.4866688,
+        "longitude": -81.8971215,
+        "phone": "(330) 674-2198",
+        "website": "https://precisiongeophysical.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=16166034001983012927",
+        "plusCode": "86GWF4P3+M5"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:13.668Z"
+    },
+    {
+      "key": "precisionpipelineequipment|253walnutstreet|houston|PA",
+      "directory": {
+        "company": "Precision Pipeline Equipment, Inc.",
+        "address": "253 Walnut Street",
+        "city": "Houston",
+        "state": "PA",
+        "postalCode": "15342",
+        "phone": "(724) 746-5427",
+        "fax": "(724) 746-5428",
+        "website": "https://www.precisionpipeline.com",
+        "sourceImage": "assets/Scan_20260624_160315.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_160315.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_160315.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_160315.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJcwIYWCRTNIgRXYGRAqUAUZ8",
+        "name": "Precision Pipeline Equipment, Inc.",
+        "formattedAddress": "253 Walnut St, Houston, PA 15342, USA",
+        "latitude": 40.2340828,
+        "longitude": -80.2237813,
+        "phone": "(724) 746-5427",
+        "website": "http://precisionpipeline.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=11479957633856799069",
+        "plusCode": "86GX6QMG+JF"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:14.239Z"
+    },
+    {
+      "key": "setechnologies|500mositeswagste100|pittsburgh|PA",
+      "directory": {
+        "company": "Se Technologies, Llc",
+        "address": "500 Mosites wag, STE 100",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "postalCode": "15205",
+        "phone": "(412) 221-1100",
+        "fax": "(412) 257-6103",
+        "website": "https://www.se-env.com",
+        "sourceImage": "assets/Scan_20260624_160324.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_160324.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_160324.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_160324.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJsRPcoAL4NIgR5pcweOlw_7k",
+        "name": "SE Technologies, LLC",
+        "formattedAddress": "500 Mosites Wy, Pittsburgh, PA 15205, USA",
+        "latitude": 40.4471037,
+        "longitude": -80.1507893,
+        "phone": "(412) 221-1100",
+        "website": "https://se-env.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=13402555164124026854",
+        "plusCode": "86GXCRWX+RM"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:14.781Z"
+    },
+    {
+      "key": "spiritenergy|pobox819|nitro|WV",
+      "directory": {
+        "company": "Spirit Energy Services, Llc",
+        "address": "P.O. Box 819",
+        "city": "Nitro",
+        "state": "WV",
+        "postalCode": "25143",
+        "phone": "(304) 590-7707",
+        "fax": "",
+        "website": "https://www.spiritserviceecom",
+        "sourceImage": "assets/Scan_20260624_160413.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_160413.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_160413.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_160413.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJ1eEWPmrKSIgRbwdod67cJkA",
+        "name": "Spirit Services of WV, LLC",
+        "formattedAddress": "4 Plant Rd, Nitro, WV 25143, USA",
+        "latitude": 38.4249248,
+        "longitude": -81.84637889999999,
+        "phone": "(304) 204-0027",
+        "website": "http://www.spiritservices.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=4622624709428119407",
+        "plusCode": "86CWC5F3+XC"
+      },
+      "matchScore": 53,
+      "reviewStatus": "Manual review required",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:15.286Z"
+    },
+    {
+      "key": "tank|poboxn|dennison|OH",
+      "directory": {
+        "company": "Tank Services",
+        "address": "P.O. Box n",
+        "city": "Dennison",
+        "state": "OH",
+        "postalCode": "44621",
+        "phone": "(330) 479-9267",
+        "fax": "",
+        "website": "https://www.tankservices.com",
+        "sourceImage": "assets/Scan_20260624_160426.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_160426.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_160426.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_160426.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJUQjnKZPZNogRpO_GMVzhPds",
+        "name": "Tank Services",
+        "formattedAddress": "4412 Pleasant Valley Rd SE, Dennison, OH 44621, USA",
+        "latitude": 40.4120374,
+        "longitude": -81.28834090000001,
+        "phone": "(330) 479-9267",
+        "website": "http://tankservices.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=15798030853973929892",
+        "plusCode": "86GWCP66+RM"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:15.793Z"
+    },
+    {
+      "key": "thethrashergroup|4000towncenterblvdste140|canonsburg|PA",
+      "directory": {
+        "company": "The Thrasher Group",
+        "address": "4000 Town center Blvd., STE 140",
+        "city": "Canonsburg",
+        "state": "PA",
+        "postalCode": "15317",
+        "phone": "(724) 485-7035",
+        "fax": "",
+        "website": "https://www.thethrashergroup.com",
+        "sourceImage": "assets/Scan_20260624_160448.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_160448.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_160448.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_160448.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJrd5tahRUNIgRYCFmRqqbkxY",
+        "name": "The Thrasher Group",
+        "formattedAddress": "4000 Town Center Blvd Ste 140, Canonsburg, PA 15317, USA",
+        "latitude": 40.2774356,
+        "longitude": -80.16755189999999,
+        "phone": "(724) 485-7035",
+        "website": "https://thethrashergroup.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=1626815046038724960",
+        "plusCode": "86GX7RGJ+XX"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:16.323Z"
+    },
+    {
+      "key": "toypipelinecontractors|870clagpooleroad20box|worthington|PA",
+      "directory": {
+        "company": "Toy Pipeline Contractors, Inc.",
+        "address": "870 Clagpoole Road, 20. Box",
+        "city": "Worthington",
+        "state": "PA",
+        "postalCode": "16262",
+        "phone": "(724) 297-3464",
+        "fax": "(724) 297-3466",
+        "website": "https://www.toypci.com",
+        "sourceImage": "assets/Scan_20260624_160448.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_160448.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "Toy Pipeline Contractors, Inc.",
+        "possibleExistingMatch": "Toy Pipeline Contractors, Inc.",
+        "possibleExistingMatchScore": 1,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_160448.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_160448.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJR7AOSetYM4gRXmCFLvbFyIU",
+        "name": "Toy Pipeline Contractors Inc",
+        "formattedAddress": "870 Claypoole Rd, Worthington, PA 16262, USA",
+        "latitude": 40.8337349,
+        "longitude": -79.62377710000001,
+        "phone": "(724) 297-3464",
+        "website": "https://www.toypci.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=9640172663519666270",
+        "plusCode": "87G2R9MG+FF"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:16.813Z"
+    },
+    {
+      "key": "trenchtech|800agersavenue|lemoyne|PA",
+      "directory": {
+        "company": "Trenchtech, Inc.",
+        "address": "800 Agers Avenue",
+        "city": "Lemoyne",
+        "state": "PA",
+        "postalCode": "17043",
+        "phone": "(800) 443-6832",
+        "fax": "",
+        "website": "https://www.usacompression.com",
+        "sourceImage": "assets/Scan_20260624_160458.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_160458.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_160458.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_160458.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJY2ylwCTByIkRiDzeNgndW0o",
+        "name": "TrenchTech - PA",
+        "formattedAddress": "800 Ayers Ave, Lemoyne, PA 17043, USA",
+        "latitude": 40.2393597,
+        "longitude": -76.8973014,
+        "phone": "(800) 443-6832",
+        "website": "https://www.shoringsolutions.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=5358119213332315272",
+        "plusCode": "87G564Q3+P3"
+      },
+      "matchScore": 98,
+      "reviewStatus": "Manual review required",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:17.318Z"
+    },
+    {
+      "key": "tristateccshub|14302rnbparkway|omaha|NE",
+      "directory": {
+        "company": "Tri-State Ccs Hub",
+        "address": "14302 r-NB Parkway",
+        "city": "Omaha",
+        "state": "NE",
+        "postalCode": "68154",
+        "phone": "(402) 691-9500",
+        "fax": "",
+        "website": "https://tristateccs.com",
+        "sourceImage": "assets/Scan_20260624_160426.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_160426.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_160426.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_160426.txt"
+        ]
+      },
+      "places": null,
+      "matchScore": 0,
+      "reviewStatus": "Manual review required",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:17.684Z"
+    },
+    {
+      "key": "usacompressionpartners|4000towncenterblvdste340|canonsburg|PA",
+      "directory": {
+        "company": "Usa Compression Partners, Llc",
+        "address": "4000 Town center Blvd„ STE 340",
+        "city": "Canonsburg",
+        "state": "PA",
+        "postalCode": "15317",
+        "phone": "(724) 745-3770",
+        "fax": "",
+        "website": "https://www.usacompression.com",
+        "sourceImage": "assets/Scan_20260624_160458.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_160458.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_160458.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_160458.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJg6RFKQa1RIYRh8y2nOWEHwQ",
+        "name": "USA Compression Partners LP",
+        "formattedAddress": "111 Congress Ave. #2400, Austin, TX 78701, USA",
+        "latitude": 30.264007,
+        "longitude": -97.74479900000001,
+        "phone": "(512) 473-2662",
+        "website": "https://www.usacompression.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=297102222141344903",
+        "plusCode": "86247774+J3"
+      },
+      "matchScore": 103,
+      "reviewStatus": "Manual review required",
+      "alternatives": [
+        {
+          "name": "Alpine Energy, LLC",
+          "address": "4600 J. Barry Ct Ste 340, Canonsburg, PA 15317, USA",
+          "score": 37.1,
+          "placeId": "ChIJnRLVKixXNIgRaofaU724eW8"
+        }
+      ],
+      "researchedAt": "2026-06-24T20:18:18.237Z"
+    },
+    {
+      "key": "vavco|3penncenterwestste201|pittsburgh|PA",
+      "directory": {
+        "company": "Vavco, Llc",
+        "address": "3 Penn Center west, STE 201",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "postalCode": "15276",
+        "phone": "(412) 788-1401",
+        "fax": "(412) 788-1403",
+        "website": "https://www.vavcollc.com",
+        "sourceImage": "assets/Scan_20260624_160458.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_160458.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_160458.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_160458.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJVRih0SFZNIgRet5sDVCszyE",
+        "name": "Vavco LLC",
+        "formattedAddress": "3 Penn Center Blvd, Pittsburgh, PA 15205, USA",
+        "latitude": 40.4285251,
+        "longitude": -80.1255486,
+        "phone": "(412) 788-1401",
+        "website": "http://www.vavcollc.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=2436355383253327482",
+        "plusCode": "86GXCVHF+CQ"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:18.752Z"
+    },
+    {
+      "key": "vineyardoilgas|10299westmainroad|north east|PA",
+      "directory": {
+        "company": "Vineyard Oil & Gas Company",
+        "address": "10299 West Main Road",
+        "city": "North East",
+        "state": "PA",
+        "postalCode": "16428-2855",
+        "phone": "(814) 725-8742",
+        "fax": "(814) 725-9667",
+        "website": "https://www.vineyardoilandgas.com",
+        "sourceImage": "assets/Scan_20260624_160458.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_160458.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_160458.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_160458.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJ_95SYENkLYgRk8ECrw1o9jc",
+        "name": "Vineyard Oil & Gas Co",
+        "formattedAddress": "10299 W Main St, North East, PA 16428, USA",
+        "latitude": 42.2056177,
+        "longitude": -79.86183539999999,
+        "phone": "(814) 725-8742",
+        "website": "https://www.vineyardoilandgas.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=4032524924336914835",
+        "plusCode": "87J2644Q+67"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:19.303Z"
+    },
+    {
+      "key": "waterfordtankfabrication|20box392|lowell|OH",
+      "directory": {
+        "company": "Waterford Tank & Fabrication, Ltd",
+        "address": "20. Box 392",
+        "city": "Lowell",
+        "state": "OH",
+        "postalCode": "45744",
+        "phone": "(740) 984-4100",
+        "fax": "(740) 984-4110",
+        "website": "https://www.waterfordtanks.com",
+        "sourceImage": "assets/Scan_20260624_160458.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_160458.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "",
+        "possibleExistingMatch": "",
+        "possibleExistingMatchScore": 0,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_160458.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_160458.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJ3aCrGhsvSIgRBN5pF0pK5gs",
+        "name": "Waterford Tank & Fabrication",
+        "formattedAddress": "203 OH-83, Beverly, OH 45715, USA",
+        "latitude": 39.5701675,
+        "longitude": -81.6549453,
+        "phone": "(740) 984-4100",
+        "website": "https://www.waterfordtanks.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=857454461141507588",
+        "plusCode": "86FWH8CW+32"
+      },
+      "matchScore": 108,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:19.810Z"
+    },
+    {
+      "key": "wellstreamsolutions|6017atwoodste17|richmond|KY",
+      "directory": {
+        "company": "Wellstream Solutions, Llc",
+        "address": "6017 Atwood STE 17",
+        "city": "Richmond",
+        "state": "KY",
+        "postalCode": "40475",
+        "phone": "(859) 200-0989",
+        "fax": "(724) 354-3128",
+        "website": "https://www.wellstreamsolutions.com",
+        "sourceImage": "assets/Scan_20260624_160618.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_160618.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "WellStream Solutions, LLC",
+        "possibleExistingMatch": "WellStream Solutions, LLC",
+        "possibleExistingMatchScore": 1,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_160618.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_160618.txt"
+        ]
+      },
+      "places": null,
+      "matchScore": 0,
+      "reviewStatus": "Manual review required",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:20.233Z"
+    },
+    {
+      "key": "westpennenergy|865stateroute210|shelocta|PA",
+      "directory": {
+        "company": "West Penn Energy Services, Llc",
+        "address": "865 State Route 210",
+        "city": "Shelocta",
+        "state": "PA",
+        "postalCode": "15774",
+        "phone": "(724) 354-4118",
+        "fax": "(724) 354-3128",
+        "website": "https://www.wpes-pa.com",
+        "sourceImage": "assets/Scan_20260624_160618.jpg",
+        "sourceText": "research/asset-ocr/Scan_20260624_160618.txt",
+        "evidence": "2025-2026 PIOGA Membership Directory image OCR; visual confirmation required before promotion",
+        "existingMatch": "West Penn Energy Services",
+        "possibleExistingMatch": "West Penn Energy Services",
+        "possibleExistingMatchScore": 1,
+        "relevance": "Likely oil/gas provider or industry ally",
+        "sourceImages": [
+          "assets/Scan_20260624_160618.jpg"
+        ],
+        "sourceTexts": [
+          "research/asset-ocr/Scan_20260624_160618.txt"
+        ]
+      },
+      "places": {
+        "placeId": "ChIJDwpAUwxUy4kRsOKDcqDZ-84",
+        "name": "West Penn Energy Services LLC",
+        "formattedAddress": "865 PA-210, Shelocta, PA 15774, USA",
+        "latitude": 40.68958070000001,
+        "longitude": -79.3388666,
+        "phone": "(724) 354-4118",
+        "website": "http://www.wpes-pa.com/",
+        "businessStatus": "OPERATIONAL",
+        "primaryType": "establishment",
+        "googleMapsUrl": "https://maps.google.com/?cid=14914753874106770096",
+        "plusCode": "87G2MMQ6+RF"
+      },
+      "matchScore": 118,
+      "reviewStatus": "Strong current match - eligible for review",
+      "alternatives": [],
+      "researchedAt": "2026-06-24T20:18:20.748Z"
+    }
+  ]
+}

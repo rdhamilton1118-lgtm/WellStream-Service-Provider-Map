@@ -1,0 +1,38 @@
+name: Weekly existing-provider enrichment
+
+on:
+  schedule:
+    - cron: '15 10 * * 2'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    env:
+      GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Build queue or enrich next batch
+        shell: bash
+        run: |
+          if [ -z "$GOOGLE_PLACES_API_KEY" ]; then
+            node scripts/enrich-existing-providers.mjs --dry-run
+          else
+            node scripts/enrich-existing-providers.mjs --limit=50
+          fi
+      - name: Commit enrichment research
+        run: |
+          git config user.name "wellstream-enrichment-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add reports/existing-provider-enrichment-queue.json
+          if [ -f research/existing-provider-enrichment-candidates.json ]; then
+            git add research/existing-provider-enrichment-candidates.json
+          fi
+          git diff --cached --quiet || git commit -m "research: enrich existing provider profiles"
+          git push
