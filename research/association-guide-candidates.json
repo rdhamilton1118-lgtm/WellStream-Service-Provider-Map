@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-06-25T01:28:46.341Z",
+  "generatedAt": "2026-07-01T12:23:49.137Z",
   "sources": {
     "montana": {
       "association": "Montana Petroleum Association",
-      "scannedAt": "2026-06-23T01:19:56.512Z",
+      "scannedAt": "2026-07-01T12:21:59.611Z",
       "categoryCount": 51,
       "listingOccurrences": 117,
       "error": null
     },
     "kansas": {
       "association": "Kansas Independent Oil & Gas Association",
-      "scannedAt": "2026-06-23T01:20:37.996Z",
+      "scannedAt": "2026-07-01T12:22:29.726Z",
       "categoryCount": 81,
-      "listingOccurrences": 463,
+      "listingOccurrences": 464,
       "error": null
     },
     "north-dakota": {
       "association": "North Dakota petroleum industry buyers guide",
-      "scannedAt": "2026-06-23T01:21:54.781Z",
+      "scannedAt": "2026-07-01T12:23:05.202Z",
       "categoryCount": 101,
       "listingOccurrences": 1098,
       "error": null
     },
     "pennsylvania": {
       "association": "Pennsylvania oil and gas industry buyers guide",
-      "scannedAt": "2026-06-23T01:22:31.651Z",
+      "scannedAt": "2026-07-01T12:23:28.588Z",
       "categoryCount": 53,
-      "listingOccurrences": 264,
+      "listingOccurrences": 263,
       "error": null
     },
     "west-virginia": {
       "association": "West Virginia oil and gas industry buyers guide",
-      "scannedAt": "2026-06-25T01:28:46.340Z",
+      "scannedAt": "2026-07-01T12:23:49.137Z",
       "categoryCount": 65,
       "listingOccurrences": 308,
       "error": null
@@ -4012,6 +4012,24 @@
       "researchStatus": "Association guide discovery — verify current operations and oil/gas fit against company source"
     },
     {
+      "key": "dancosystems11101johnsondriveshawneeks66203",
+      "companyName": "DanCo Systems Inc",
+      "address": "11101 Johnson Drive, Shawnee, KS 66203",
+      "phone": "(913) 962-0600",
+      "website": "https://www.dancosystems.com/",
+      "description": "DanCo Systems, Inc. is a manufacturer’s representative and supplier of hardware instrumentation and hardware and software process control, data acquisition, and reporting systems. DanCo covers all process...",
+      "association": "Kansas Independent Oil & Gas Association",
+      "guideState": "KS",
+      "categories": [
+        "Gas Measurement"
+      ],
+      "sourceUrls": [
+        "https://www.ksoilgasbuyersguide.com/listing.php?listing_id=750001697&company_name=DanCo+Systems+Inc"
+      ],
+      "existingProviderMatch": null,
+      "researchStatus": "Association guide discovery — verify current operations and oil/gas fit against company source"
+    },
+    {
       "key": "darbysweldingmachine7848thaveswdickinsonnd58601",
       "companyName": "Darby's Welding & Machine LLC",
       "address": "78 48th AVE SW, Dickinson, ND 58601",
@@ -4183,6 +4201,24 @@
         "https://www.ndoilgasbuyersguide.com/listings.php?section_id=%25&cat=Consulting&scat=Drilling+Engineering+%26+Optimization&num=100",
         "https://www.ndoilgasbuyersguide.com/listings.php?section_id=%25&cat=Producers+-+Exploration%2C+Production+%26+Development&scat=Contract+Pumping+%2F+Lease+Operators&num=100",
         "https://www.ndoilgasbuyersguide.com/listings.php?section_id=%25&cat=Professional+Services&scat=Inspections&num=100"
+      ],
+      "existingProviderMatch": null,
+      "researchStatus": "Association guide discovery — verify current operations and oil/gas fit against company source"
+    },
+    {
+      "key": "deepearthtechnologiesbemidjimn",
+      "companyName": "Deepearth Technologies",
+      "address": "Bemidji, MN",
+      "phone": "(877) 266-5691",
+      "website": "http://www.cool-ox.com",
+      "description": "Environmental Sustainability Experts Deep Earth Technologies, Inc., (DTI) has been focused on Environmental Sustainability and Remediation for over two decades. We are a turn-key company providing not only...",
+      "association": "North Dakota petroleum industry buyers guide",
+      "guideState": "ND",
+      "categories": [
+        "Soil Testing / Remediation"
+      ],
+      "sourceUrls": [
+        "https://www.ndoilgasbuyersguide.com/listing.php?listing_id=750002120&company_name=Deepearth+Technologies"
       ],
       "existingProviderMatch": null,
       "researchStatus": "Association guide discovery — verify current operations and oil/gas fit against company source"
@@ -7073,6 +7109,24 @@
       ],
       "sourceUrls": [
         "https://www.wvoilgasbuyersguide.com/listing.php?listing_id=750002896&company_name=High+Point+Construction+Group%2C+LLC"
+      ],
+      "existingProviderMatch": null,
+      "researchStatus": "Association guide discovery — verify current operations and oil/gas fit against company source"
+    },
+    {
+      "key": "hillservices4940covingtonwaymemphistn38128",
+      "companyName": "Hill Services Inc",
+      "address": "4940 Covington WAY, Memphis, TN 38128",
+      "phone": "(901) 205-3277",
+      "website": "",
+      "description": "",
+      "association": "Pennsylvania oil and gas industry buyers guide",
+      "guideState": "PA",
+      "categories": [
+        "Pipeline Construction"
+      ],
+      "sourceUrls": [
+        "https://www.paoilgasbuyersguide.com/listings.php?section_id=%25&cat=Construction&scat=Pipeline+Construction&num=100"
       ],
       "existingProviderMatch": null,
       "researchStatus": "Association guide discovery — verify current operations and oil/gas fit against company source"
