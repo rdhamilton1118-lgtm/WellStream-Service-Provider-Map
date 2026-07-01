@@ -8,6 +8,17 @@ import logo from '../assets/wellstream-mark-board.png';
 import serviceIconLibrary from '../assets/Service Provider Icons.png';
 
 const safeURL = value => { try { const url = new URL(value); return ['http:', 'https:'].includes(url.protocol) ? url.href : ''; } catch { return ''; } };
+const firstWebsiteURL = value => safeURL(String(value || '').match(/https?:\/\/[^\s|;]+/i)?.[0] || '');
+const PROVIDER_BRANDS = [...PROVIDERS.reduce((brands, provider) => {
+  const website = firstWebsiteURL(provider.Website);
+  if (!website) return brands;
+  const domain = new URL(website).hostname.replace(/^www\./i, '').toLowerCase();
+  if (!domain || /(?:google|facebook|linkedin|maps)\./i.test(domain)) return brands;
+  const name = provider['Company Name'].replace(/\s+-\s+.*$/, '').trim();
+  const existing = brands.get(domain);
+  if (!existing || name.length < existing.name.length) brands.set(domain, { domain, name, website });
+  return brands;
+}, new Map()).values()].sort((a, b) => a.name.localeCompare(b.name));
 const detail = (label, value, wide = false) => value ? <div className={`detail-item ${wide ? 'wide' : ''}`}><small>{label}</small><div>{value}</div></div> : null;
 const publicValue = value => {
   const text = String(value || '').trim();
@@ -55,6 +66,14 @@ function App() {
       <a className="website-link" href="https://wellstreamsolutions.com/?utm_source=provider_atlas&utm_medium=referral&utm_campaign=provider_intelligence" target="_blank" rel="noreferrer">Visit our website <span aria-hidden="true">↗</span></a>
       <button className="mobile-filter-btn" type="button" onClick={() => setMobileOpen(open => !open)}>Filters</button>
     </header>
+    <section className="provider-ticker" aria-label="Service provider websites">
+      <div className="ticker-label"><b>Provider network</b><span>Public web marks</span></div>
+      <div className="ticker-window">
+        <div className="ticker-track" style={{ '--ticker-duration': `${Math.max(70, PROVIDER_BRANDS.length * 2.5)}s` }}>
+          {[0, 1].map(copy => <div className="ticker-group" aria-hidden={copy === 1} key={copy}>{PROVIDER_BRANDS.map(brand => <a className="ticker-brand" href={brand.website} target="_blank" rel="noreferrer" title={`Visit ${brand.name}`} key={`${copy}-${brand.domain}`}><img src={`https://${brand.domain}/favicon.ico`} alt="" loading="lazy" onError={event => { event.currentTarget.closest('a').remove(); }}/><span>{brand.name}</span></a>)}</div>)}
+        </div>
+      </div>
+    </section>
     <main>
       <aside className={`sidebar ${mobileOpen ? 'open' : ''}`}>
         <section className="intro"><p className="eyebrow">WellStream Solutions, LLC</p><h1>Dependable solutions.<br/><span>Stronger operations.</span></h1><p>Find oilfield and gasfield service providers by capability, location, and operating fit.</p></section>

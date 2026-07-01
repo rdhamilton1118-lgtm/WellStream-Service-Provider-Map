@@ -13,6 +13,8 @@ import actionEnergy from '../data/Action_Energy_Services_Gillette_2026-06-30.csv
 import capillarySpooling from '../data/Capillary_Spooling_Oilfield_Profile_2026-06-30.csv?raw';
 import gilletteOilfieldExact from '../data/Gillette_Oilfield_Exact_Search_Expansion_2026-06-30.csv?raw';
 import precisionWellCorrection from '../data/Precision_Well_Service_Gillette_Correction_2026-06-30.csv?raw';
+import wellConstructionManufacturers from '../data/Well_Construction_Tool_Manufacturers_2026-07-01.csv?raw';
+import pumpdownCompletions from '../data/Pumpdown_Completions_Profile_Expansion_2026-07-01.csv?raw';
 
 export const GROUPS = [
   { name: 'Drilling & Directional', color: '#e45a46', words: ['drill', 'coring', 'directional', 'mudlogging', 'geosteering', 'bit'] },
@@ -42,7 +44,7 @@ export function parseCSV(text) {
   return rows.map(values => Object.fromEntries(headers.map((header, index) => [header, (values[index] || '').trim()])));
 }
 
-const sources = [base, gillette, dickinson, nine, stoneham, montana, pioga, nationwide, greatLakes, directional, newKotaExpansion, actionEnergy, capillarySpooling, gilletteOilfieldExact, precisionWellCorrection];
+const sources = [base, gillette, dickinson, nine, stoneham, montana, pioga, nationwide, greatLakes, directional, newKotaExpansion, actionEnergy, capillarySpooling, gilletteOilfieldExact, precisionWellCorrection, wellConstructionManufacturers, pumpdownCompletions];
 export const PROVIDERS = sources.flatMap(parseCSV)
   .map((provider, id) => ({ ...provider, id }))
   .filter(provider => provider['Company Name'] && Number.isFinite(Number(provider.Latitude)) && Number.isFinite(Number(provider.Longitude)))
