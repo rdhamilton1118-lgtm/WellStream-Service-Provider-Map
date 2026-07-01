@@ -52,7 +52,6 @@ function App() {
   return <div className="app-shell">
     <header className="topbar">
       <a className="brand" href="#" aria-label="WellStream Solutions provider intelligence home"><img className="brand-mark" src={logo} alt=""/><span className="brand-rule"/><span className="brand-name"><b>WellStream</b><strong>Solutions</strong><small>LLC · Provider Intelligence</small></span></a>
-      <div className="topbar-meta"><span className="live-dot"/><span>{PROVIDERS.length.toLocaleString()} mapped locations · weekly audit ready</span></div>
       <a className="website-link" href="https://wellstreamsolutions.com/?utm_source=provider_atlas&utm_medium=referral&utm_campaign=provider_intelligence" target="_blank" rel="noreferrer">Visit our website <span aria-hidden="true">↗</span></a>
       <button className="mobile-filter-btn" type="button" onClick={() => setMobileOpen(open => !open)}>Filters</button>
     </header>
