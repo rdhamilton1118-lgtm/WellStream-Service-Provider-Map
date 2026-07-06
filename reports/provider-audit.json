@@ -1,0 +1,2054 @@
+{
+  "generatedAt": "2026-07-06T14:40:37.769Z",
+  "recordCount": 602,
+  "checkedWebsiteCount": 500,
+  "healthyWebsiteCount": 440,
+  "websitesForReview": [
+    {
+      "index": 0,
+      "company": "Consolidated Pipe & Supply",
+      "url": "http://consolidatedpipe.com/",
+      "status": 0,
+      "ok": false,
+      "error": "timeout"
+    },
+    {
+      "index": 7,
+      "company": "Aera Energy - California oilfield service ecosystem marker",
+      "url": "https://www.aeraenergy.com/",
+      "status": 403,
+      "ok": false,
+      "finalUrl": "https://www.crc.com/"
+    },
+    {
+      "index": 10,
+      "company": "Berry Corporation - California vendor ecosystem marker",
+      "url": "https://bry.com/",
+      "status": 403,
+      "ok": false,
+      "finalUrl": "https://www.crc.com/"
+    },
+    {
+      "index": 29,
+      "company": "Environmental Works, Inc. - Denver Metro",
+      "url": "https://www.environmentalworks.com/drilling-services/",
+      "status": 403,
+      "ok": false,
+      "finalUrl": "https://www.environmentalworks.com/drilling-services/"
+    },
+    {
+      "index": 34,
+      "company": "Eagle Automation",
+      "url": "https://www.eagleautomation.com/",
+      "status": 405,
+      "ok": false,
+      "finalUrl": "https://www.eagleautomation.com/"
+    },
+    {
+      "index": 49,
+      "company": "Dillman Services, Inc.",
+      "url": "https://www.dillmanservices.com/",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "index": 51,
+      "company": "Les Wilson, Inc.",
+      "url": "http://www.leswilsoninc.com",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "index": 77,
+      "company": "Premier Pulling & Drilling Services",
+      "url": "http://www.premierwellservice.com/",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "index": 90,
+      "company": "Sunrise Oilfield Supply",
+      "url": "http://www.sunriseoilfieldsupply.com/",
+      "status": 405,
+      "ok": false,
+      "finalUrl": "http://www.sunriseoilfieldsupply.com/"
+    },
+    {
+      "index": 93,
+      "company": "Mountain Valley Supply, LLC",
+      "url": "http://www.mountainvalleysupplyllc.com",
+      "status": 404,
+      "ok": false,
+      "finalUrl": "http://www.mountainvalleysupplyllc.com/"
+    },
+    {
+      "index": 97,
+      "company": "Norris Wireline Service LLC",
+      "url": "https://www.facebook.com/NorrisWirelineServiceLLC/ | Needs website verification",
+      "status": 404,
+      "ok": false,
+      "finalUrl": "https://www.facebook.com/NorrisWirelineServiceLLC/%20|%20Needs%20website%20verification"
+    },
+    {
+      "index": 113,
+      "company": "ControlWorx",
+      "url": "https://www.johnhcarter.com/about-us/controlworx/",
+      "status": 403,
+      "ok": false,
+      "finalUrl": "https://www.johnhcarter.com/about-us/controlworx/"
+    },
+    {
+      "index": 121,
+      "company": "Oilfield Innovators Limited, LLC",
+      "url": "http://oilfieldltd.com/",
+      "status": 405,
+      "ok": false,
+      "finalUrl": "http://oilfieldltd.com/"
+    },
+    {
+      "index": 130,
+      "company": "TETRA Technologies - Port Fourchon",
+      "url": "https://onetetra.com/energy-services/completion-fluids-additives/",
+      "status": 403,
+      "ok": false,
+      "finalUrl": "https://onetetra.com/energy-services/completion-fluids-additives/"
+    },
+    {
+      "index": 136,
+      "company": "Mid-State Oil Tools",
+      "url": "https://midstateoiltools.com/",
+      "status": 403,
+      "ok": false,
+      "finalUrl": "https://midstateoiltools.com/"
+    },
+    {
+      "index": 139,
+      "company": "Environmental Works, Inc. - Kansas City",
+      "url": "https://www.environmentalworks.com/drilling-services/",
+      "status": 403,
+      "ok": false,
+      "finalUrl": "https://www.environmentalworks.com/drilling-services/"
+    },
+    {
+      "index": 153,
+      "company": "Elite Hot Oil, Inc.",
+      "url": "https://www.manta.com/mb_45_E31857NC_27/oil_field_services_nec/montana",
+      "status": 403,
+      "ok": false,
+      "finalUrl": "https://www.manta.com/mb_45_E31857NC_27/oil_field_services_nec/montana"
+    },
+    {
+      "index": 164,
+      "company": "Liberty Energy",
+      "url": "https://libertyenergy.com/contact/ | https://libertyenergy.com/",
+      "status": 404,
+      "ok": false,
+      "finalUrl": "https://libertyenergy.com/contact/%20|%20https://libertyenergy.com/"
+    },
+    {
+      "index": 175,
+      "company": "Fox Oil Drilling Company - Artesia",
+      "url": "https://www.foxoildrilling.com/oil-rigs.html",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "index": 180,
+      "company": "USA Compression Partners - Carlsbad",
+      "url": "https://usacompression.com/",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "index": 186,
+      "company": "Fox Oil Drilling Company - Hobbs",
+      "url": "https://www.foxoildrilling.com/oil-rigs.html",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "index": 193,
+      "company": "Maverick Well Drilling - Downhole Camera Service",
+      "url": "https://maverickwells.com/",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "index": 212,
+      "company": "MCWL Paladin Geological Services",
+      "url": "https://www.mcwlinc.com/",
+      "status": 403,
+      "ok": false,
+      "finalUrl": "https://www.mcwlinc.com/"
+    },
+    {
+      "index": 216,
+      "company": "Bison Oilfield Services",
+      "url": "https://bisonoilfieldservices.com/",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "index": 233,
+      "company": "Varel - Oklahoma City District Lead",
+      "url": "https://www.varel.com/",
+      "status": 0,
+      "ok": false,
+      "error": "timeout"
+    },
+    {
+      "index": 234,
+      "company": "Arrow Pump & Supply, Inc.",
+      "url": "https://www.thomasnet.com/suppliers/oklahoma/all-cities/oil-field-equipment-supplies-54630801",
+      "status": 403,
+      "ok": false,
+      "finalUrl": "https://www.thomasnet.com/suppliers/oklahoma/all-cities/oil-field-equipment-supplies-54630801"
+    },
+    {
+      "index": 240,
+      "company": "Innovex Downhole Solutions / Team Oil Tools legacy",
+      "url": "https://www.innovex-inc.com/",
+      "status": 403,
+      "ok": false,
+      "finalUrl": "https://www.innovex-inc.com/"
+    },
+    {
+      "index": 242,
+      "company": "TEAM Oil Tools / Innovex Downhole Solutions",
+      "url": "https://www.innovex-inc.com/",
+      "status": 403,
+      "ok": false,
+      "finalUrl": "https://www.innovex-inc.com/"
+    },
+    {
+      "index": 251,
+      "company": "Team Oil Tools / Innovex - Appalachian Lead",
+      "url": "https://www.innovex-inc.com/",
+      "status": 525,
+      "ok": false,
+      "finalUrl": "https://www.innovex-inc.com/"
+    },
+    {
+      "index": 255,
+      "company": "Kriebel Energy / Kriebel Well Services",
+      "url": "https://www.kriebelcompanies.com/",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "index": 256,
+      "company": "USA Compression Partners - Northeast Region",
+      "url": "https://usacompression.com/",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "index": 269,
+      "company": "Allegheny Control Products",
+      "url": "https://alleghenycontrolproducts.com/",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "index": 274,
+      "company": "Fox Oil Drilling Company",
+      "url": "https://www.foxoildrilling.com/",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "index": 276,
+      "company": "DTA, L.P. - Saxonburg / Don Martin Trucking",
+      "url": "https://www.dtalp.com/",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "index": 292,
+      "company": "Wright & Company, Inc.",
+      "url": "http://wrightandcompany.com/",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "index": 308,
+      "company": "USA Compression Partners - Corporate",
+      "url": "https://usacompression.com/",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "index": 312,
+      "company": "Harbison-Fischer",
+      "url": "https://www.championx.com/",
+      "status": 403,
+      "ok": false,
+      "finalUrl": "https://www.championx.com/"
+    },
+    {
+      "index": 318,
+      "company": "Baker Hughes - Casing Patch / Fishing Services",
+      "url": "https://www.bakerhughes.com/ | https://www.bakerhughes.com/evaluation/surface-logging-services",
+      "status": 404,
+      "ok": false,
+      "finalUrl": "https://www.bakerhughes.com/%20|%20https:/www.bakerhughes.com/evaluation/surface-logging-services"
+    },
+    {
+      "index": 336,
+      "company": "Forum Energy Technologies - Gas Metering Skids",
+      "url": "https://f-e-t.com/ | https://www.f-e-t.com/",
+      "status": 404,
+      "ok": false,
+      "finalUrl": "https://f-e-t.com/%20%20https:/www.f-e-t.com/"
+    },
+    {
+      "index": 343,
+      "company": "Halliburton Multi-Chem",
+      "url": "https://www.halliburton.com/en/production/production-chemicals",
+      "status": 404,
+      "ok": false,
+      "finalUrl": "https://www.halliburton.com/en/error/404?path=/content/halliburton/en/production/production-chemicals.html"
+    },
+    {
+      "index": 348,
+      "company": "Innovex International",
+      "url": "https://www.innovex-inc.com/",
+      "status": 0,
+      "ok": false,
+      "error": "timeout"
+    },
+    {
+      "index": 413,
+      "company": "Gravity Oilfield Services",
+      "url": "https://www.gravityoilfieldservices.com/",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "index": 423,
+      "company": "USA Compression Partners - Midland",
+      "url": "https://usacompression.com/",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "index": 438,
+      "company": "TETRA Technologies - Spring",
+      "url": "https://onetetra.com/",
+      "status": 403,
+      "ok": false,
+      "finalUrl": "https://onetetra.com/"
+    },
+    {
+      "index": 440,
+      "company": "ChampionX Chemical Technologies",
+      "url": "https://www.championx.com/",
+      "status": 403,
+      "ok": false,
+      "finalUrl": "https://www.championx.com/"
+    },
+    {
+      "index": 444,
+      "company": "ChampionX Artificial Lift",
+      "url": "https://www.championx.com/",
+      "status": 403,
+      "ok": false,
+      "finalUrl": "https://www.championx.com/"
+    },
+    {
+      "index": 445,
+      "company": "ChampionX Emissions Technologies / Scientific Aviation",
+      "url": "https://www.championx.com/products-and-solutions/emissions-technologies/",
+      "status": 403,
+      "ok": false,
+      "finalUrl": "https://www.championx.com/products-and-solutions/emissions-technologies/"
+    },
+    {
+      "index": 479,
+      "company": "GEF, Inc.",
+      "url": "https://www.gefinc.com/",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "index": 481,
+      "company": "C&C Supply",
+      "url": "https://candcsupply.net/",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "index": 483,
+      "company": "Capstar Drilling, Inc.",
+      "url": "https://capstardrilling.com | https://capstardrilling.com/",
+      "status": 0,
+      "ok": false,
+      "error": "Failed to parse URL from https://capstardrilling.com | https://capstardrilling.com/"
+    },
+    {
+      "index": 494,
+      "company": "TRK Casing",
+      "url": "https://trkcasing.com/locations/",
+      "status": 403,
+      "ok": false,
+      "finalUrl": "https://trkcasing.com/locations/"
+    },
+    {
+      "index": 501,
+      "company": "Cyclone Drilling - Gillette",
+      "url": "https://cyclonedrilling.com/ | https://cyclonedrilling.com",
+      "status": 404,
+      "ok": false,
+      "finalUrl": "https://cyclonedrilling.com/%20|%20https://cyclonedrilling.com"
+    },
+    {
+      "index": 516,
+      "company": "Weston Engineering - Upton",
+      "url": "https://westoneng.com/ | http://westoneng.com",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "index": 522,
+      "company": "American Compressor Solutions",
+      "url": "http://acswy.com/",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "index": 563,
+      "company": "Stoneham Drilling Corporation - Denver",
+      "url": "https://www.wesc.ca/services/drilling-rigs/stoneham-drilling.html",
+      "status": 405,
+      "ok": false,
+      "finalUrl": "https://www.wesc.ca/services/drilling-rigs/stoneham-drilling.html"
+    },
+    {
+      "index": 564,
+      "company": "Stoneham Drilling Corporation - Williston Field Operations",
+      "url": "https://www.wesc.ca/services/drilling-rigs/stoneham-drilling.html",
+      "status": 405,
+      "ok": false,
+      "finalUrl": "https://www.wesc.ca/services/drilling-rigs/stoneham-drilling.html"
+    },
+    {
+      "index": 566,
+      "company": "Northern States Fishing Tools - Watford City",
+      "url": "http://northernstatesfishing.com",
+      "status": 404,
+      "ok": false,
+      "finalUrl": "http://northernstatesfishing.com/"
+    },
+    {
+      "index": 583,
+      "company": "Engineering & Inspections International",
+      "url": "https://www.enginsp.net",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "index": 587,
+      "company": "Gci Water Solutions",
+      "url": "https://www.gci-water.com",
+      "status": 404,
+      "ok": false,
+      "finalUrl": "https://www.gci-water.com/"
+    },
+    {
+      "index": 588,
+      "company": "Key Environmental, Inc",
+      "url": "https://www.kegenvir.com",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    }
+  ],
+  "possibleDuplicates": [],
+  "locationAudit": {
+    "recordsNeedingPhysicalAddress": 269,
+    "recordsNeedingPhoneEnrichment": 237,
+    "recordsNeedingWebsiteEnrichment": 102,
+    "cityCentroidRecords": 329,
+    "unverifiedUserLeads": 48,
+    "sharedCoordinateGroupCount": 42,
+    "sharedCoordinateGroups": [
+      {
+        "coordinates": "29.760400|-95.369800",
+        "count": 60,
+        "providers": [
+          {
+            "row": 319,
+            "company": "Archrock",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 320,
+            "company": "Baker Hughes - Casing Patch / Fishing Services",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 321,
+            "company": "Baker Hughes Artificial Lift",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 322,
+            "company": "Baker Hughes Core / Cased-Hole / Fishing Tools",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 323,
+            "company": "Baker Hughes Drill Bits",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 324,
+            "company": "Blue Tank",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 326,
+            "company": "Canamera Coring",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 328,
+            "company": "DEMCO Valves / SLB Cameron",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 329,
+            "company": "Datalog Geological Services, LLC - Houston HQ",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 330,
+            "company": "Diamond Coring",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 331,
+            "company": "Downhole Camera Technology",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 335,
+            "company": "Environmental Standards",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 336,
+            "company": "Expro Downhole Camera and Video Services",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 338,
+            "company": "Forum Energy Technologies - Gas Metering Skids",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 339,
+            "company": "Gas Analytical",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 340,
+            "company": "Geological Logging Systems",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 342,
+            "company": "Gyrodata",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 343,
+            "company": "Gyrodata / SLB",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 344,
+            "company": "Halliburton - Houston / U.S. Sales",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 345,
+            "company": "Halliburton Multi-Chem",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 347,
+            "company": "Horizontal Well Drillers",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 349,
+            "company": "Independence Contract Drilling",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 350,
+            "company": "Innovex International",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 351,
+            "company": "Integrated Downhole Solutions",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 356,
+            "company": "Lally Pipe & Tube - Texas Yard Placeholder",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 358,
+            "company": "Milestone Environmental Services",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 359,
+            "company": "Millennium Stimulation Services Ltd.",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 360,
+            "company": "NOV - Houston Corporate",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 361,
+            "company": "NOV Artificial Lift Systems",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 362,
+            "company": "NOV Bowen Casing Patch / Fishing Tools",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 363,
+            "company": "NOV Bowen Premier Casing Patch",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 364,
+            "company": "NOV ReedHycalog",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 366,
+            "company": "NexTier Cementing & Pressure Pumping",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 367,
+            "company": "PECCO",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 368,
+            "company": "Pason Systems USA",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 369,
+            "company": "Patterson-UTI Drilling - Houston Corporate",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 370,
+            "company": "Peak Completions",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 374,
+            "company": "Quest Coring",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 376,
+            "company": "ReadyFlo Systems",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 377,
+            "company": "SAExploration / Seismic Services Lead",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 378,
+            "company": "SLB - Houston / U.S. Sales",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 379,
+            "company": "SLB Artificial Lift",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 380,
+            "company": "SLB Rock & Fluid Analysis / Core Analysis",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 381,
+            "company": "SLB Saltel Expandable Steel Patches",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 382,
+            "company": "Savanna Drilling / Total Energy Services",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 383,
+            "company": "Scientific Drilling",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 384,
+            "company": "Silverthorne Seismic",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 385,
+            "company": "Smith Bits / SLB",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 386,
+            "company": "Stewart & Stevenson",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 387,
+            "company": "Substrata Camera Services",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 389,
+            "company": "Thru Tubing Solutions",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 390,
+            "company": "Titan Submersible Pumps",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 391,
+            "company": "Trican Completion Solutions",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 393,
+            "company": "Universal Wellheads",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 394,
+            "company": "Weatherford - Houston",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 395,
+            "company": "Weatherford Coring / Drilling Technology",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 396,
+            "company": "Weatherford HOMCO / X-SPAN Casing Patch",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 397,
+            "company": "Weatherford Rotaflex / Artificial Lift",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 398,
+            "company": "WellEZ",
+            "city": "Houston",
+            "state": "TX"
+          },
+          {
+            "row": 402,
+            "company": "Zedi / Emerson Zedi",
+            "city": "Houston",
+            "state": "TX"
+          }
+        ]
+      },
+      {
+        "coordinates": "35.467600|-97.516400",
+        "count": 15,
+        "providers": [
+          {
+            "row": 215,
+            "company": "Case Wireline Services",
+            "city": "Oklahoma",
+            "state": "OK"
+          },
+          {
+            "row": 216,
+            "company": "Baker Hughes - Oklahoma City Area Service Lead",
+            "city": "Oklahoma City",
+            "state": "OK"
+          },
+          {
+            "row": 218,
+            "company": "Bison Oilfield Services",
+            "city": "Oklahoma City",
+            "state": "OK"
+          },
+          {
+            "row": 220,
+            "company": "Case Wireline Services, Inc.",
+            "city": "Oklahoma City",
+            "state": "OK"
+          },
+          {
+            "row": 223,
+            "company": "Friend Bit Service",
+            "city": "Oklahoma City",
+            "state": "OK"
+          },
+          {
+            "row": 224,
+            "company": "Greasebook",
+            "city": "Oklahoma City",
+            "state": "OK"
+          },
+          {
+            "row": 225,
+            "company": "Great White Pressure Control",
+            "city": "Oklahoma City",
+            "state": "OK"
+          },
+          {
+            "row": 226,
+            "company": "Halliburton - Oklahoma City Area Service Lead",
+            "city": "Oklahoma City",
+            "state": "OK"
+          },
+          {
+            "row": 228,
+            "company": "L.R. McBride Engineering, Inc.",
+            "city": "Oklahoma City",
+            "state": "OK"
+          },
+          {
+            "row": 229,
+            "company": "Mathena Drilling Systems",
+            "city": "Oklahoma City",
+            "state": "OK"
+          },
+          {
+            "row": 230,
+            "company": "NOMAC Drilling",
+            "city": "Oklahoma City",
+            "state": "OK"
+          },
+          {
+            "row": 232,
+            "company": "Production Control Services",
+            "city": "Oklahoma City",
+            "state": "OK"
+          },
+          {
+            "row": 233,
+            "company": "SLB - Oklahoma City Area Service Lead",
+            "city": "Oklahoma City",
+            "state": "OK"
+          },
+          {
+            "row": 234,
+            "company": "Technical Drilling Services (TDS) powered by Stratagraph",
+            "city": "Oklahoma City",
+            "state": "OK"
+          },
+          {
+            "row": 235,
+            "company": "Varel - Oklahoma City District Lead",
+            "city": "Oklahoma City",
+            "state": "OK"
+          }
+        ]
+      },
+      {
+        "coordinates": "31.997300|-102.077900",
+        "count": 13,
+        "providers": [
+          {
+            "row": 410,
+            "company": "Baker Hughes - Midland District",
+            "city": "Midland",
+            "state": "TX"
+          },
+          {
+            "row": 412,
+            "company": "Columbine Corporation - Midland",
+            "city": "Midland",
+            "state": "TX"
+          },
+          {
+            "row": 414,
+            "company": "Field Geo Services Inc.",
+            "city": "Midland",
+            "state": "TX"
+          },
+          {
+            "row": 415,
+            "company": "Gravity Oilfield Services",
+            "city": "Midland",
+            "state": "TX"
+          },
+          {
+            "row": 416,
+            "company": "Halliburton - Midland District",
+            "city": "Midland",
+            "state": "TX"
+          },
+          {
+            "row": 417,
+            "company": "Kimray Store / Distributor Placeholder - Permian",
+            "city": "Midland",
+            "state": "TX"
+          },
+          {
+            "row": 418,
+            "company": "Latshaw Drilling - Midland Yard",
+            "city": "Midland",
+            "state": "TX"
+          },
+          {
+            "row": 419,
+            "company": "Liberty Lift Solutions - Midland",
+            "city": "Midland",
+            "state": "TX"
+          },
+          {
+            "row": 422,
+            "company": "SLB - Midland District",
+            "city": "Midland",
+            "state": "TX"
+          },
+          {
+            "row": 423,
+            "company": "Select Water Solutions - Midland",
+            "city": "Midland",
+            "state": "TX"
+          },
+          {
+            "row": 425,
+            "company": "USA Compression Partners - Midland",
+            "city": "Midland",
+            "state": "TX"
+          },
+          {
+            "row": 426,
+            "company": "Ulterra - Midland District Lead",
+            "city": "Midland",
+            "state": "TX"
+          },
+          {
+            "row": 427,
+            "company": "Varel - Midland District Lead",
+            "city": "Midland",
+            "state": "TX"
+          }
+        ]
+      },
+      {
+        "coordinates": "35.373300|-119.018700",
+        "count": 11,
+        "providers": [
+          {
+            "row": 9,
+            "company": "Aera Energy - California oilfield service ecosystem marker",
+            "city": "Bakersfield",
+            "state": "CA"
+          },
+          {
+            "row": 10,
+            "company": "Baker Hughes - Bakersfield Area Service Lead",
+            "city": "Bakersfield",
+            "state": "CA"
+          },
+          {
+            "row": 11,
+            "company": "Baker Hughes Drill Bits - Bakersfield Lead",
+            "city": "Bakersfield",
+            "state": "CA"
+          },
+          {
+            "row": 12,
+            "company": "Berry Corporation - California vendor ecosystem marker",
+            "city": "Bakersfield",
+            "state": "CA"
+          },
+          {
+            "row": 15,
+            "company": "California Resources Corporation Vendor Network Placeholder",
+            "city": "Bakersfield",
+            "state": "CA"
+          },
+          {
+            "row": 16,
+            "company": "HPS Mechanical Inc.",
+            "city": "Bakersfield",
+            "state": "CA"
+          },
+          {
+            "row": 17,
+            "company": "Halliburton - Bakersfield Area Service Lead",
+            "city": "Bakersfield",
+            "state": "CA"
+          },
+          {
+            "row": 20,
+            "company": "Pengo Wireline",
+            "city": "Bakersfield",
+            "state": "CA"
+          },
+          {
+            "row": 23,
+            "company": "SLB - Bakersfield Area Service Lead",
+            "city": "Bakersfield",
+            "state": "CA"
+          },
+          {
+            "row": 26,
+            "company": "Unified Field Services Corporation",
+            "city": "Bakersfield",
+            "state": "CA"
+          },
+          {
+            "row": 27,
+            "company": "Western Wireline Inc. - Bakersfield",
+            "city": "Bakersfield",
+            "state": "CA"
+          }
+        ]
+      },
+      {
+        "coordinates": "44.291100|-105.502200",
+        "count": 10,
+        "providers": [
+          {
+            "row": 501,
+            "company": "Century Geophysical",
+            "city": "Gillette",
+            "state": "WY"
+          },
+          {
+            "row": 502,
+            "company": "Century Geophysical / Century Wireline Services",
+            "city": "Gillette",
+            "state": "WY"
+          },
+          {
+            "row": 503,
+            "company": "Cyclone Drilling - Gillette",
+            "city": "Gillette",
+            "state": "WY"
+          },
+          {
+            "row": 508,
+            "company": "Precision Well Services - Gillette",
+            "city": "Gillette",
+            "state": "WY"
+          },
+          {
+            "row": 509,
+            "company": "True Grit Well Services",
+            "city": "Gillette",
+            "state": "WY"
+          },
+          {
+            "row": 511,
+            "company": "Winn-Marion Companies - Gillette",
+            "city": "Gillette",
+            "state": "WY"
+          },
+          {
+            "row": 519,
+            "company": "Baker Hughes - Gillette District",
+            "city": "Gillette",
+            "state": "WY"
+          },
+          {
+            "row": 526,
+            "company": "Arthun Engine Services",
+            "city": "Gillette",
+            "state": "WY"
+          },
+          {
+            "row": 530,
+            "company": "Calfrac Well Services - Gillette",
+            "city": "Gillette",
+            "state": "WY"
+          },
+          {
+            "row": 532,
+            "company": "Axis Energy Services - Gillette",
+            "city": "Gillette",
+            "state": "WY"
+          }
+        ]
+      },
+      {
+        "coordinates": "32.702600|-103.136000",
+        "count": 8,
+        "providers": [
+          {
+            "row": 186,
+            "company": "Baker Hughes - Hobbs Area Service Lead",
+            "city": "Hobbs",
+            "state": "NM"
+          },
+          {
+            "row": 187,
+            "company": "Energy Fishing and Rental Services",
+            "city": "Hobbs",
+            "state": "NM"
+          },
+          {
+            "row": 188,
+            "company": "Fox Oil Drilling Company - Hobbs",
+            "city": "Hobbs",
+            "state": "NM"
+          },
+          {
+            "row": 189,
+            "company": "Halliburton - Hobbs Area Service Lead",
+            "city": "Hobbs",
+            "state": "NM"
+          },
+          {
+            "row": 190,
+            "company": "Halliburton Drill Bits - Hobbs Lead",
+            "city": "Hobbs",
+            "state": "NM"
+          },
+          {
+            "row": 192,
+            "company": "SLB - Hobbs Area Service Lead",
+            "city": "Hobbs",
+            "state": "NM"
+          },
+          {
+            "row": 193,
+            "company": "Select Water Solutions - Hobbs",
+            "city": "Hobbs",
+            "state": "NM"
+          },
+          {
+            "row": 194,
+            "company": "Yellowjacket Oilfield Services - Hobbs",
+            "city": "Hobbs",
+            "state": "NM"
+          }
+        ]
+      },
+      {
+        "coordinates": "30.224100|-92.019800",
+        "count": 6,
+        "providers": [
+          {
+            "row": 120,
+            "company": "Baker Hughes - Lafayette Area Service Lead",
+            "city": "Lafayette",
+            "state": "LA"
+          },
+          {
+            "row": 121,
+            "company": "Diversified Well Logging",
+            "city": "Lafayette",
+            "state": "LA"
+          },
+          {
+            "row": 122,
+            "company": "Halliburton - Lafayette Area Service Lead",
+            "city": "Lafayette",
+            "state": "LA"
+          },
+          {
+            "row": 124,
+            "company": "SLB - Lafayette Area Service Lead",
+            "city": "Lafayette",
+            "state": "LA"
+          },
+          {
+            "row": 125,
+            "company": "Stratagraph Energy Group - Lafayette",
+            "city": "Lafayette",
+            "state": "LA"
+          },
+          {
+            "row": 126,
+            "company": "Thomas Tools",
+            "city": "Lafayette",
+            "state": "LA"
+          }
+        ]
+      },
+      {
+        "coordinates": "42.850100|-106.325200",
+        "count": 6,
+        "providers": [
+          {
+            "row": 487,
+            "company": "DNOW Power Service",
+            "city": "Casper",
+            "state": "WY"
+          },
+          {
+            "row": 488,
+            "company": "Halliburton - Casper Area Service Lead",
+            "city": "Casper",
+            "state": "WY"
+          },
+          {
+            "row": 490,
+            "company": "Karst Industries",
+            "city": "Casper",
+            "state": "WY"
+          },
+          {
+            "row": 492,
+            "company": "Mesa West Directional",
+            "city": "Casper",
+            "state": "WY"
+          },
+          {
+            "row": 493,
+            "company": "PT Hose & Bearing / Wyoming Bearing",
+            "city": "Casper",
+            "state": "WY"
+          },
+          {
+            "row": 494,
+            "company": "SLB - Casper Area Service Lead",
+            "city": "Casper",
+            "state": "WY"
+          }
+        ]
+      },
+      {
+        "coordinates": "39.739200|-104.990300",
+        "count": 5,
+        "providers": [
+          {
+            "row": 35,
+            "company": "Calfrac Well Services - U.S. Operations",
+            "city": "Denver",
+            "state": "CO"
+          },
+          {
+            "row": 36,
+            "company": "Eagle Automation",
+            "city": "Denver",
+            "state": "CO"
+          },
+          {
+            "row": 38,
+            "company": "SLB - Denver Area Service Lead",
+            "city": "Denver",
+            "state": "CO"
+          },
+          {
+            "row": 39,
+            "company": "True Drilling - Denver Marketing Lead",
+            "city": "Denver",
+            "state": "CO"
+          },
+          {
+            "row": 565,
+            "company": "Stoneham Drilling Corporation - Denver",
+            "city": "Denver",
+            "state": "CO"
+          }
+        ]
+      },
+      {
+        "coordinates": "36.154000|-95.992800",
+        "count": 5,
+        "providers": [
+          {
+            "row": 239,
+            "company": "Dallas Morris Drilling",
+            "city": "Tulsa",
+            "state": "OK"
+          },
+          {
+            "row": 240,
+            "company": "FESCO, Ltd. - Tulsa",
+            "city": "Tulsa",
+            "state": "OK"
+          },
+          {
+            "row": 242,
+            "company": "Innovex Downhole Solutions / Team Oil Tools legacy",
+            "city": "Tulsa",
+            "state": "OK"
+          },
+          {
+            "row": 243,
+            "company": "Latshaw Drilling - Tulsa Office",
+            "city": "Tulsa",
+            "state": "OK"
+          },
+          {
+            "row": 245,
+            "company": "Unit Drilling Company",
+            "city": "Tulsa",
+            "state": "OK"
+          }
+        ]
+      },
+      {
+        "coordinates": "48.146970|-103.617970",
+        "count": 4,
+        "providers": [
+          {
+            "row": 169,
+            "company": "Patterson-UTI Drilling - Williston",
+            "city": "Williston",
+            "state": "ND"
+          },
+          {
+            "row": 173,
+            "company": "Select Water Solutions - Williston",
+            "city": "Williston",
+            "state": "ND"
+          },
+          {
+            "row": 174,
+            "company": "True Pipe & Supply - Williston",
+            "city": "Williston",
+            "state": "ND"
+          },
+          {
+            "row": 566,
+            "company": "Stoneham Drilling Corporation - Williston Field Operations",
+            "city": "Williston",
+            "state": "ND"
+          }
+        ]
+      },
+      {
+        "coordinates": "31.845700|-102.367600",
+        "count": 4,
+        "providers": [
+          {
+            "row": 431,
+            "company": "Keystone Clearwater Solutions - Odessa",
+            "city": "Odessa",
+            "state": "TX"
+          },
+          {
+            "row": 432,
+            "company": "Liberty Energy - Odessa",
+            "city": "Odessa",
+            "state": "TX"
+          },
+          {
+            "row": 433,
+            "company": "Select Water Solutions - Odessa",
+            "city": "Odessa",
+            "state": "TX"
+          },
+          {
+            "row": 434,
+            "company": "Stratagraph Energy Group - Odessa",
+            "city": "Odessa",
+            "state": "TX"
+          }
+        ]
+      },
+      {
+        "coordinates": "31.968600|-99.901800",
+        "count": 4,
+        "providers": [
+          {
+            "row": 443,
+            "company": "Tucker Energy Services / Wireline Lead",
+            "city": "Texas",
+            "state": "TX"
+          },
+          {
+            "row": 444,
+            "company": "Wildcat Oil Tools",
+            "city": "Texas",
+            "state": "TX"
+          },
+          {
+            "row": 445,
+            "company": "Edge Services",
+            "city": "Texas / Oklahoma",
+            "state": "TX"
+          },
+          {
+            "row": 451,
+            "company": "Downhole Inspection Solutions",
+            "city": "United States",
+            "state": "TX"
+          }
+        ]
+      },
+      {
+        "coordinates": "37.747900|-84.294700",
+        "count": 3,
+        "providers": [
+          {
+            "row": 108,
+            "company": "C & C Downhole, LLC",
+            "city": "Richmond",
+            "state": "KY"
+          },
+          {
+            "row": 109,
+            "company": "RussMar Utility Management, LLC",
+            "city": "Richmond",
+            "state": "KY"
+          },
+          {
+            "row": 110,
+            "company": "WellStream Solutions, LLC",
+            "city": "Richmond",
+            "state": "KY"
+          }
+        ]
+      },
+      {
+        "coordinates": "31.694100|-89.130600",
+        "count": 3,
+        "providers": [
+          {
+            "row": 145,
+            "company": "Boots Smith Completion Services - Laurel",
+            "city": "Laurel",
+            "state": "MS"
+          },
+          {
+            "row": 147,
+            "company": "DW Services - Laurel",
+            "city": "Laurel",
+            "state": "MS"
+          },
+          {
+            "row": 148,
+            "company": "GRACO Oilfield Services - Laurel",
+            "city": "Laurel",
+            "state": "MS"
+          }
+        ]
+      },
+      {
+        "coordinates": "45.783300|-108.500700",
+        "count": 3,
+        "providers": [
+          {
+            "row": 151,
+            "company": "Montana Petroleum Association Buyer’s Guide Vendors",
+            "city": "Billings",
+            "state": "MT"
+          },
+          {
+            "row": 152,
+            "company": "Winn-Marion Companies - Billings",
+            "city": "Billings",
+            "state": "MT"
+          },
+          {
+            "row": 567,
+            "company": "Industrial Service Solutions - Billings",
+            "city": "Billings",
+            "state": "MT"
+          }
+        ]
+      },
+      {
+        "coordinates": "48.147000|-103.618000",
+        "count": 3,
+        "providers": [
+          {
+            "row": 160,
+            "company": "Baker Hughes - Williston Area Service Lead",
+            "city": "Williston",
+            "state": "ND"
+          },
+          {
+            "row": 171,
+            "company": "SLB - Williston Area Service Lead",
+            "city": "Williston",
+            "state": "ND"
+          },
+          {
+            "row": 172,
+            "company": "SLB Smith Bits - Williston Lead",
+            "city": "Williston",
+            "state": "ND"
+          }
+        ]
+      },
+      {
+        "coordinates": "32.842300|-104.403300",
+        "count": 3,
+        "providers": [
+          {
+            "row": 176,
+            "company": "Clear Fork Wireline",
+            "city": "Artesia",
+            "state": "NM"
+          },
+          {
+            "row": 177,
+            "company": "Fox Oil Drilling Company - Artesia",
+            "city": "Artesia",
+            "state": "NM"
+          },
+          {
+            "row": 178,
+            "company": "Ranger Energy Services - Artesia",
+            "city": "Artesia",
+            "state": "NM"
+          }
+        ]
+      },
+      {
+        "coordinates": "36.728100|-108.218700",
+        "count": 3,
+        "providers": [
+          {
+            "row": 183,
+            "company": "Aztec Well Servicing",
+            "city": "Farmington",
+            "state": "NM"
+          },
+          {
+            "row": 184,
+            "company": "Basin Well Logging / Steel Energy",
+            "city": "Farmington",
+            "state": "NM"
+          },
+          {
+            "row": 185,
+            "company": "J.A. Drake Well Service",
+            "city": "Farmington",
+            "state": "NM"
+          }
+        ]
+      },
+      {
+        "coordinates": "40.262600|-80.187300",
+        "count": 3,
+        "providers": [
+          {
+            "row": 251,
+            "company": "Columbine Corporation - Appalachian Operations",
+            "city": "Canonsburg",
+            "state": "PA"
+          },
+          {
+            "row": 252,
+            "company": "Keystone Clearwater Solutions - Canonsburg",
+            "city": "Canonsburg",
+            "state": "PA"
+          },
+          {
+            "row": 253,
+            "company": "Team Oil Tools / Innovex - Appalachian Lead",
+            "city": "Canonsburg",
+            "state": "PA"
+          }
+        ]
+      },
+      {
+        "coordinates": "40.440600|-79.995900",
+        "count": 3,
+        "providers": [
+          {
+            "row": 271,
+            "company": "Allegheny Control Products",
+            "city": "Pittsburgh",
+            "state": "PA"
+          },
+          {
+            "row": 273,
+            "company": "Hunt Geophysical",
+            "city": "Pittsburgh",
+            "state": "PA"
+          },
+          {
+            "row": 286,
+            "company": "West Penn Energy Services",
+            "city": "Western Pennsylvania",
+            "state": "PA"
+          }
+        ]
+      },
+      {
+        "coordinates": "34.746500|-92.289600",
+        "count": 2,
+        "providers": [
+          {
+            "row": 6,
+            "company": "Hoover Compliance",
+            "city": "Little Rock",
+            "state": "AR"
+          },
+          {
+            "row": 7,
+            "company": "Lally Pipe & Tube - Arkansas Yard Placeholder",
+            "city": "Little Rock",
+            "state": "AR"
+          }
+        ]
+      },
+      {
+        "coordinates": "35.3941535|-119.1445388",
+        "count": 2,
+        "providers": [
+          {
+            "row": 13,
+            "company": "C&J Well Services",
+            "city": "Bakersfield",
+            "state": "CA"
+          },
+          {
+            "row": 14,
+            "company": "CJ Well Services",
+            "city": "Bakersfield",
+            "state": "CA"
+          }
+        ]
+      },
+      {
+        "coordinates": "38.090900|-88.158600",
+        "count": 2,
+        "providers": [
+          {
+            "row": 50,
+            "company": "Bradford Supply - Carmi",
+            "city": "Carmi",
+            "state": "IL"
+          },
+          {
+            "row": 53,
+            "company": "Les Wilson, Inc.",
+            "city": "Carmi",
+            "state": "IL"
+          }
+        ]
+      },
+      {
+        "coordinates": "38.090900|-88.158700",
+        "count": 2,
+        "providers": [
+          {
+            "row": 54,
+            "company": "Reliance Well Services - Illinois Camp (Carmi)",
+            "city": "Carmi",
+            "state": "IL"
+          },
+          {
+            "row": 55,
+            "company": "Warren Service Company - Carmi",
+            "city": "Carmi",
+            "state": "IL"
+          }
+        ]
+      },
+      {
+        "coordinates": "37.971700|-100.872700",
+        "count": 2,
+        "providers": [
+          {
+            "row": 73,
+            "company": "Quest Drilling Company - Garden City Yard",
+            "city": "Garden City",
+            "state": "KS"
+          },
+          {
+            "row": 74,
+            "company": "Sunrise Oilfield Supply - Garden City",
+            "city": "Garden City",
+            "state": "KS"
+          }
+        ]
+      },
+      {
+        "coordinates": "37.836200|-87.590000",
+        "count": 2,
+        "providers": [
+          {
+            "row": 101,
+            "company": "Bradford Supply Company - Henderson",
+            "city": "Henderson",
+            "state": "KY"
+          },
+          {
+            "row": 102,
+            "company": "West Kentucky Well Surveys",
+            "city": "Henderson",
+            "state": "KY"
+          }
+        ]
+      },
+      {
+        "coordinates": "29.595800|-90.719500",
+        "count": 2,
+        "providers": [
+          {
+            "row": 118,
+            "company": "M&M Oil Tools",
+            "city": "Houma",
+            "state": "LA"
+          },
+          {
+            "row": 119,
+            "company": "Supreme Services - Offshore Services",
+            "city": "Houma",
+            "state": "LA"
+          }
+        ]
+      },
+      {
+        "coordinates": "32.525200|-93.750200",
+        "count": 2,
+        "providers": [
+          {
+            "row": 133,
+            "company": "Datalog Geological Services - Shreveport Support Facility",
+            "city": "Shreveport",
+            "state": "LA"
+          },
+          {
+            "row": 134,
+            "company": "FESCO - Shreveport / Haynesville Lead",
+            "city": "Shreveport",
+            "state": "LA"
+          }
+        ]
+      },
+      {
+        "coordinates": "47.802200|-103.283200",
+        "count": 2,
+        "providers": [
+          {
+            "row": 159,
+            "company": "Select Water Solutions - Watford City",
+            "city": "Watford City",
+            "state": "ND"
+          },
+          {
+            "row": 568,
+            "company": "Northern States Fishing Tools - Watford City",
+            "city": "Watford City",
+            "state": "ND"
+          }
+        ]
+      },
+      {
+        "coordinates": "32.420700|-104.228800",
+        "count": 2,
+        "providers": [
+          {
+            "row": 181,
+            "company": "Select Water Solutions - Permian / New Mexico",
+            "city": "Carlsbad",
+            "state": "NM"
+          },
+          {
+            "row": 182,
+            "company": "USA Compression Partners - Carlsbad",
+            "city": "Carlsbad",
+            "state": "NM"
+          }
+        ]
+      },
+      {
+        "coordinates": "39.961200|-82.998800",
+        "count": 2,
+        "providers": [
+          {
+            "row": 197,
+            "company": "Lally Pipe & Tube - Ohio Yard Placeholder",
+            "city": "Columbus",
+            "state": "OH"
+          },
+          {
+            "row": 198,
+            "company": "McGraw Kokosing",
+            "city": "Columbus",
+            "state": "OH"
+          }
+        ]
+      },
+      {
+        "coordinates": "39.415400|-81.454800",
+        "count": 2,
+        "providers": [
+          {
+            "row": 201,
+            "company": "Ken Miller Supply of West Virginia, Inc. - Marietta",
+            "city": "Marietta",
+            "state": "OH"
+          },
+          {
+            "row": 202,
+            "company": "Stevens Oil & Gas - Engine Chief",
+            "city": "Marietta",
+            "state": "OH"
+          }
+        ]
+      },
+      {
+        "coordinates": "35.532300|-97.955000",
+        "count": 2,
+        "providers": [
+          {
+            "row": 210,
+            "company": "NOMAC Drilling - El Reno",
+            "city": "El Reno",
+            "state": "OK"
+          },
+          {
+            "row": 211,
+            "company": "Ranger Energy Services - El Reno",
+            "city": "El Reno",
+            "state": "OK"
+          }
+        ]
+      },
+      {
+        "coordinates": "35.526200|-98.707600",
+        "count": 2,
+        "providers": [
+          {
+            "row": 246,
+            "company": "Columbine Corporation - Mid-Continent Operations",
+            "city": "Weatherford",
+            "state": "OK"
+          },
+          {
+            "row": 247,
+            "company": "Impac Exploration Services - Weatherford",
+            "city": "Weatherford",
+            "state": "OK"
+          }
+        ]
+      },
+      {
+        "coordinates": "40.943700|-78.970900",
+        "count": 2,
+        "providers": [
+          {
+            "row": 276,
+            "company": "Fox Oil Drilling Company",
+            "city": "Punxsutawney",
+            "state": "PA"
+          },
+          {
+            "row": 277,
+            "company": "Keystone Drill Services - Punxsutawney",
+            "city": "Punxsutawney",
+            "state": "PA"
+          }
+        ]
+      },
+      {
+        "coordinates": "39.896500|-80.187300",
+        "count": 2,
+        "providers": [
+          {
+            "row": 283,
+            "company": "E&H Manufacturing / PSC Product Line",
+            "city": "Waynesburg",
+            "state": "PA"
+          },
+          {
+            "row": 284,
+            "company": "Kimray Store / Distributor Placeholder - Appalachia",
+            "city": "Waynesburg",
+            "state": "PA"
+          }
+        ]
+      },
+      {
+        "coordinates": "36.162700|-86.781600",
+        "count": 2,
+        "providers": [
+          {
+            "row": 299,
+            "company": "FyreRok Reservoir Consulting",
+            "city": "Nashville",
+            "state": "TN"
+          },
+          {
+            "row": 300,
+            "company": "Master Pump & Equipment",
+            "city": "Nashville",
+            "state": "TN"
+          }
+        ]
+      },
+      {
+        "coordinates": "32.755500|-97.330800",
+        "count": 2,
+        "providers": [
+          {
+            "row": 313,
+            "company": "Basic Energy Services / legacy successor research",
+            "city": "Fort Worth",
+            "state": "TX"
+          },
+          {
+            "row": 314,
+            "company": "Harbison-Fischer",
+            "city": "Fort Worth",
+            "state": "TX"
+          }
+        ]
+      },
+      {
+        "coordinates": "30.165800|-95.461300",
+        "count": 2,
+        "providers": [
+          {
+            "row": 446,
+            "company": "ChampionX Artificial Lift",
+            "city": "The Woodlands",
+            "state": "TX"
+          },
+          {
+            "row": 447,
+            "company": "ChampionX Emissions Technologies / Scientific Aviation",
+            "city": "The Woodlands",
+            "state": "TX"
+          }
+        ]
+      },
+      {
+        "coordinates": "39.828300|-98.579500",
+        "count": 2,
+        "providers": [
+          {
+            "row": 454,
+            "company": "Enverus / OpenInvoice OFS Directory - Source Reference",
+            "city": "United States",
+            "state": "US"
+          },
+          {
+            "row": 455,
+            "company": "ShaleDirectories.com - Appalachian/Permian/Eagle Ford/Bakken Discovery Source",
+            "city": "United States",
+            "state": "US"
+          }
+        ]
+      },
+      {
+        "coordinates": "38.349800|-81.632600",
+        "count": 2,
+        "providers": [
+          {
+            "row": 467,
+            "company": "GAS, Inc.",
+            "city": "Charleston",
+            "state": "WV"
+          },
+          {
+            "row": 468,
+            "company": "Javins Corporation",
+            "city": "Charleston",
+            "state": "WV"
+          }
+        ]
+      }
+    ]
+  },
+  "policy": "This audit flags evidence for human review. It never deletes a provider from a single failed web request."
+}
