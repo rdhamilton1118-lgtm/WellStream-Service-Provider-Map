@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-06T14:40:37.769Z",
+  "generatedAt": "2026-07-13T13:32:14.373Z",
   "recordCount": 602,
   "checkedWebsiteCount": 500,
-  "healthyWebsiteCount": 440,
+  "healthyWebsiteCount": 443,
   "websitesForReview": [
     {
       "index": 0,
@@ -197,14 +197,6 @@
       "error": "fetch failed"
     },
     {
-      "index": 233,
-      "company": "Varel - Oklahoma City District Lead",
-      "url": "https://www.varel.com/",
-      "status": 0,
-      "ok": false,
-      "error": "timeout"
-    },
-    {
       "index": 234,
       "company": "Arrow Pump & Supply, Inc.",
       "url": "https://www.thomasnet.com/suppliers/oklahoma/all-cities/oil-field-equipment-supplies-54630801",
@@ -225,14 +217,6 @@
       "company": "TEAM Oil Tools / Innovex Downhole Solutions",
       "url": "https://www.innovex-inc.com/",
       "status": 403,
-      "ok": false,
-      "finalUrl": "https://www.innovex-inc.com/"
-    },
-    {
-      "index": 251,
-      "company": "Team Oil Tools / Innovex - Appalachian Lead",
-      "url": "https://www.innovex-inc.com/",
-      "status": 525,
       "ok": false,
       "finalUrl": "https://www.innovex-inc.com/"
     },
@@ -277,14 +261,6 @@
       "error": "fetch failed"
     },
     {
-      "index": 292,
-      "company": "Wright & Company, Inc.",
-      "url": "http://wrightandcompany.com/",
-      "status": 0,
-      "ok": false,
-      "error": "fetch failed"
-    },
-    {
       "index": 308,
       "company": "USA Compression Partners - Corporate",
       "url": "https://usacompression.com/",
@@ -323,14 +299,6 @@
       "status": 404,
       "ok": false,
       "finalUrl": "https://www.halliburton.com/en/error/404?path=/content/halliburton/en/production/production-chemicals.html"
-    },
-    {
-      "index": 348,
-      "company": "Innovex International",
-      "url": "https://www.innovex-inc.com/",
-      "status": 0,
-      "ok": false,
-      "error": "timeout"
     },
     {
       "index": 413,
@@ -379,6 +347,14 @@
       "status": 403,
       "ok": false,
       "finalUrl": "https://www.championx.com/products-and-solutions/emissions-technologies/"
+    },
+    {
+      "index": 471,
+      "company": "American Producers Supply",
+      "url": "https://www.americanproducers.com/",
+      "status": 403,
+      "ok": false,
+      "finalUrl": "https://www.americanproducers.com/"
     },
     {
       "index": 479,
