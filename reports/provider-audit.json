@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-13T13:32:14.373Z",
+  "generatedAt": "2026-07-20T13:20:04.350Z",
   "recordCount": 602,
   "checkedWebsiteCount": 500,
-  "healthyWebsiteCount": 443,
+  "healthyWebsiteCount": 442,
   "websitesForReview": [
     {
       "index": 0,
@@ -13,20 +13,12 @@
       "error": "timeout"
     },
     {
-      "index": 7,
-      "company": "Aera Energy - California oilfield service ecosystem marker",
-      "url": "https://www.aeraenergy.com/",
-      "status": 403,
-      "ok": false,
-      "finalUrl": "https://www.crc.com/"
-    },
-    {
       "index": 10,
       "company": "Berry Corporation - California vendor ecosystem marker",
       "url": "https://bry.com/",
-      "status": 403,
+      "status": 0,
       "ok": false,
-      "finalUrl": "https://www.crc.com/"
+      "error": "fetch failed"
     },
     {
       "index": 29,
@@ -181,6 +173,14 @@
       "error": "fetch failed"
     },
     {
+      "index": 197,
+      "company": "One AquaSource, Inc.",
+      "url": "https://oneaquasource.com/",
+      "status": 0,
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
       "index": 212,
       "company": "MCWL Paladin Geological Services",
       "url": "https://www.mcwlinc.com/",
@@ -298,7 +298,15 @@
       "url": "https://www.halliburton.com/en/production/production-chemicals",
       "status": 404,
       "ok": false,
-      "finalUrl": "https://www.halliburton.com/en/error/404?path=/content/halliburton/en/production/production-chemicals.html"
+      "finalUrl": "https://www.halliburton.com/en/production/production-chemicals"
+    },
+    {
+      "index": 397,
+      "company": "Wellbore Integrity Solutions",
+      "url": "http://www.wellboreintegrity.com/",
+      "status": 403,
+      "ok": false,
+      "finalUrl": "https://www.wellboreintegrity.com/"
     },
     {
       "index": 413,
