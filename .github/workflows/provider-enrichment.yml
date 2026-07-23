@@ -1,8 +1,6 @@
-name: Weekly existing-provider enrichment
+name: Manual existing-provider enrichment
 
 on:
-  schedule:
-    - cron: '15 10 * * 2'
   workflow_dispatch:
 
 permissions:

@@ -38,7 +38,7 @@ The audit deliberately does not auto-delete a provider after one failed request.
 
 Provider enrichment includes an explicit Maps/business-profile pass for street address, phone, website, category, and Plus Code. Map-derived contact information remains labeled separately from company-source verification.
 
-Run `npm run enrich:providers:dry` to rebuild the existing-provider gap queue. With `GOOGLE_PLACES_API_KEY` configured, `npm run enrich:providers -- --limit=50` researches the next batch and stages address, phone, website, coordinates, business status, Plus Code, and Maps URL suggestions for review. The weekly Tuesday workflow repeats this pass without automatically overwriting the live master list.
+Run `npm run enrich:providers:dry` to rebuild the existing-provider gap queue. With `GOOGLE_PLACES_API_KEY` configured, `npm run enrich:providers -- --limit=50` researches the next batch and stages address, phone, website, coordinates, business status, Plus Code, and Maps URL suggestions for review. The GitHub Actions enrichment workflow is manual-only, so it will not refresh provider research unless it is intentionally run.
 
 Generate the market-by-market expansion queue with `npm run research-queue`. The governing process is documented in `research/RESEARCH_STANDARD.md`.
 

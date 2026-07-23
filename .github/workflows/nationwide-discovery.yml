@@ -1,8 +1,6 @@
 name: Nationwide provider discovery
 
 on:
-  schedule:
-    - cron: '30 10 * * 3'
   workflow_dispatch:
 
 permissions:

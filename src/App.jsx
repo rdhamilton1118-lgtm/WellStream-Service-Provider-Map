@@ -1,4 +1,4 @@
-import React, { useMemo, useRef, useState } from 'react';
+import React, { useEffect, useMemo, useRef, useState } from 'react';
 import * as XLSX from 'xlsx';
 import { jsPDF } from 'jspdf';
 import autoTable from 'jspdf-autotable';
@@ -19,6 +19,21 @@ const PROVIDER_BRANDS = [...PROVIDERS.reduce((brands, provider) => {
   if (!existing || name.length < existing.name.length) brands.set(domain, { domain, name, website });
   return brands;
 }, new Map()).values()].sort((a, b) => a.name.localeCompare(b.name));
+const providerLogoURL = brand => `https://${brand.domain}/favicon.ico`;
+const verifyProviderLogo = brand => new Promise(resolve => {
+  const image = new Image();
+  const timer = window.setTimeout(() => finish(false), 6000);
+  const finish = valid => {
+    window.clearTimeout(timer);
+    image.onload = null;
+    image.onerror = null;
+    resolve(valid ? { ...brand, logo: providerLogoURL(brand) } : null);
+  };
+  image.onload = () => finish(image.naturalWidth > 1 && image.naturalHeight > 1);
+  image.onerror = () => finish(false);
+  image.decoding = 'async';
+  image.src = providerLogoURL(brand);
+});
 const detail = (label, value, wide = false) => value ? <div className={`detail-item ${wide ? 'wide' : ''}`}><small>{label}</small><div>{value}</div></div> : null;
 const publicValue = value => {
   const text = String(value || '').trim();
@@ -37,7 +52,34 @@ function App() {
   const [selectedGroup, setSelectedGroup] = useState(''); const [rendered, setRendered] = useState(30); const [activeId, setActiveId] = useState(null);
   const [visible, setVisible] = useState([]); const [details, setDetails] = useState(null); const [exportOpen, setExportOpen] = useState(false); const [mobileOpen, setMobileOpen] = useState(false);
   const [iconGuideOpen, setIconGuideOpen] = useState(false);
+  const [tickerBrands, setTickerBrands] = useState([]);
+  const [tickerReady, setTickerReady] = useState(false);
+  const [tickerStarted, setTickerStarted] = useState(false);
   const mapRef = useRef(null);
+  const tickerRef = useRef(null);
+  useEffect(() => {
+    let cancelled = false;
+    const loadLogos = async () => {
+      const verified = (await Promise.all(PROVIDER_BRANDS.map(verifyProviderLogo))).filter(Boolean);
+      if (!cancelled) { setTickerBrands(verified); setTickerReady(true); }
+    };
+    loadLogos();
+    return () => { cancelled = true; };
+  }, []);
+  useEffect(() => {
+    if (!tickerReady || !tickerBrands.length || !tickerRef.current) return;
+    let cancelled = false;
+    const prepareTrack = async () => {
+      const images = [...tickerRef.current.querySelectorAll('.ticker-brand img')];
+      await Promise.race([
+        Promise.allSettled(images.map(image => image.decode?.() || Promise.resolve())),
+        new Promise(resolve => window.setTimeout(resolve, 2500))
+      ]);
+      if (!cancelled) requestAnimationFrame(() => requestAnimationFrame(() => setTickerStarted(true)));
+    };
+    prepareTrack();
+    return () => { cancelled = true; };
+  }, [tickerReady, tickerBrands]);
   const states = useMemo(() => [...new Set(PROVIDERS.map(p => p.State).filter(Boolean))].sort(), []);
   const filtered = useMemo(() => PROVIDERS.filter(p => {
     const service = [p['Primary Category'], p.Notes, p['Oilfield Specific Fit']].join(' ').toLowerCase();
@@ -67,11 +109,12 @@ function App() {
       <button className="mobile-filter-btn" type="button" onClick={() => setMobileOpen(open => !open)}>Filters</button>
     </header>
     <section className="provider-ticker" aria-label="Service provider websites">
-      <div className="ticker-label"><b>Provider network</b><span>Public web marks</span></div>
-      <div className="ticker-window">
-        <div className="ticker-track" style={{ '--ticker-duration': `${Math.max(70, PROVIDER_BRANDS.length * 2.5)}s` }}>
-          {[0, 1].map(copy => <div className="ticker-group" aria-hidden={copy === 1} key={copy}>{PROVIDER_BRANDS.map(brand => <a className="ticker-brand" href={brand.website} target="_blank" rel="noreferrer" title={`Visit ${brand.name}`} key={`${copy}-${brand.domain}`}><img src={`https://${brand.domain}/favicon.ico`} alt="" loading="lazy" onError={event => { event.currentTarget.closest('a').remove(); }}/><span>{brand.name}</span></a>)}</div>)}
-        </div>
+      <div className="ticker-label"><b>Provider network</b></div>
+      <div ref={tickerRef} className={`ticker-window ${tickerReady ? 'ready' : 'loading'} ${tickerStarted ? 'started' : ''}`}>
+        {!tickerReady && <div className="ticker-loading" aria-hidden="true"><span/><span/><span/><span/></div>}
+        {tickerReady && tickerBrands.length > 0 && <div className="ticker-track" style={{ '--ticker-duration': `${Math.max(55, tickerBrands.length * 2.5)}s` }}>
+          {[0, 1].map(copy => <div className="ticker-group" aria-hidden={copy === 1} key={copy}>{tickerBrands.map(brand => <a className="ticker-brand" href={brand.website} target="_blank" rel="noreferrer" tabIndex={copy === 1 ? -1 : undefined} title={`Visit ${brand.name}`} key={`${copy}-${brand.domain}`}><img src={brand.logo} alt="" loading="eager" decoding="sync"/><span>{brand.name}</span></a>)}</div>)}
+        </div>}
       </div>
     </section>
     <main>

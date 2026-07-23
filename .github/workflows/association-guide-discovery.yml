@@ -1,8 +1,6 @@
 name: Association buyers guide discovery
 
 on:
-  schedule:
-    - cron: '45 9 1 * *'
   workflow_dispatch:
 
 permissions:
