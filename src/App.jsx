@@ -30,7 +30,7 @@ function App() {
   const states = useMemo(() => [...new Set(PROVIDERS.map(p => p.State).filter(Boolean))].sort(), []);
   const filtered = useMemo(() => PROVIDERS.filter(p => {
     const service = [p['Primary Category'], p.Notes, p['Oilfield Specific Fit']].join(' ').toLowerCase();
-    const gas = /gas|compress|pipeline|measurement|scada|wireline|well service|workover|frac|cement|drill|pump|production/.test(service) ? ' gasfield natural gas gas well upstream midstream ' : '';
+    const gas = /gas|compress|pipeline|measurement|scada|wireline|well service|workover|frac|cement|drill|pump|production|dehy|dehydration|glycol|btex|emissions/.test(service) ? ' gasfield natural gas gas well upstream midstream dehy dehydration glycol btex compressor station ' : '';
     const aliases = p['Company Name'] === 'ProDirectional' ? ' pro directional pro coring procoring conventional coring sidewall coring core recovery ' : '';
     const haystack = [p['Company Name'], aliases, service, gas, p.City, p.State].join(' ').toLowerCase();
     return (!query.trim() || haystack.includes(query.trim().toLowerCase())) && (!stateFilter || p.State === stateFilter) && (!priority || p.Priority.startsWith(priority)) && (!selectedGroup || groupFor(p['Primary Category']).name === selectedGroup);
