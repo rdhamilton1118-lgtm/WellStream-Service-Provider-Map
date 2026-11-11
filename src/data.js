@@ -17,7 +17,7 @@ import wellConstructionManufacturers from '../data/Well_Construction_Tool_Manufa
 import pumpdownCompletions from '../data/Pumpdown_Completions_Profile_Expansion_2026-07-01.csv?raw';
 import upstreamMidstreamDehy from '../data/Upstream_Midstream_Dehy_Service_Expansion_2026-09-09.csv?raw';
 import userProvidedAdditions from '../data/User_Provided_Provider_Additions_2026-09-09.csv?raw';
-import consolidatedPipe from '../data/Consolidated_Pipe_Line_Pipe_Locations_2026-11-11.csv?raw';
+import consolidatedPipe from '../data/Consolidated_Pipe_All_Locations_2026-11-11.csv?raw';
 
 export const GROUPS = [
   { name: 'Drilling & Directional', color: '#e45a46', words: ['drill', 'coring', 'directional', 'mudlogging', 'geosteering', 'bit'] },

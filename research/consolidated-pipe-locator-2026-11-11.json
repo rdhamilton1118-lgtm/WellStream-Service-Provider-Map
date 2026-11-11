@@ -1,0 +1,1877 @@
+{
+  "retrievedOn": "2026-11-11",
+  "source": "https://consolidatedpipe.com/locations/",
+  "categories": [
+    {
+      "id": 29,
+      "name": "Blue Ridge"
+    },
+    {
+      "id": 18,
+      "name": "CCI"
+    },
+    {
+      "id": 22,
+      "name": "Central Alabama"
+    },
+    {
+      "id": 28,
+      "name": "Gulf Coast"
+    },
+    {
+      "id": 27,
+      "name": "High Country Fusion"
+    },
+    {
+      "id": 8,
+      "name": "Industrial Sales"
+    },
+    {
+      "id": 24,
+      "name": "Line Pipe"
+    },
+    {
+      "id": 10,
+      "name": "Line Pipe Sales"
+    },
+    {
+      "id": 26,
+      "name": "North Alabama"
+    },
+    {
+      "id": 25,
+      "name": "North Atlantic"
+    },
+    {
+      "id": 20,
+      "name": "North Georgia"
+    },
+    {
+      "id": 23,
+      "name": "Northwest"
+    },
+    {
+      "id": 11,
+      "name": "Piling"
+    },
+    {
+      "id": 30,
+      "name": "Power/Industrial"
+    },
+    {
+      "id": 21,
+      "name": "South Atlantic"
+    },
+    {
+      "id": 16,
+      "name": "Specialty Coating"
+    },
+    {
+      "id": 12,
+      "name": "Structural"
+    },
+    {
+      "id": 15,
+      "name": "Thin Film Plant"
+    },
+    {
+      "id": 13,
+      "name": "Treatment Plant"
+    },
+    {
+      "id": 9,
+      "name": "Utility Sales"
+    },
+    {
+      "id": 14,
+      "name": "Valve Controls"
+    },
+    {
+      "id": 19,
+      "name": "Vulcan Plastics"
+    },
+    {
+      "id": 17,
+      "name": "Warehouse"
+    },
+    {
+      "id": 37,
+      "name": "Wear"
+    },
+    {
+      "id": 38,
+      "name": "West"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1825,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=austin-texas",
+      "title": {
+        "rendered": "Austin, Texas"
+      },
+      "wpsl_store_category": []
+    },
+    {
+      "id": 1823,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=lake-charles-louisiana",
+      "title": {
+        "rendered": "Lake Charles, Louisiana"
+      },
+      "wpsl_store_category": []
+    },
+    {
+      "id": 1756,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=michael-bell-copy-copy-copy-copy-copy-2-copy-copy-copy",
+      "title": {
+        "rendered": "Cortland, New York"
+      },
+      "wpsl_store_category": [
+        38
+      ]
+    },
+    {
+      "id": 1387,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=michael-bell-copy-copy-copy-copy-copy-2-copy-copy",
+      "title": {
+        "rendered": "Denver, Colorado"
+      },
+      "wpsl_store_category": [
+        38
+      ]
+    },
+    {
+      "id": 1385,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=michael-bell-copy-copy-copy-copy-copy-2-copy",
+      "title": {
+        "rendered": "Doylestown, Pennsylvania"
+      },
+      "wpsl_store_category": [
+        29
+      ]
+    },
+    {
+      "id": 1383,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=michael-bell-copy-copy-copy-copy-copy-2",
+      "title": {
+        "rendered": "Byron, Georgia"
+      },
+      "wpsl_store_category": [
+        20
+      ]
+    },
+    {
+      "id": 1381,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=michael-bell-copy-copy-copy-copy-copy-copy-copy",
+      "title": {
+        "rendered": "Lake City, Florida"
+      },
+      "wpsl_store_category": [
+        28
+      ]
+    },
+    {
+      "id": 1374,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=michael-bell-copy-copy-copy-copy-copy-copy",
+      "title": {
+        "rendered": "West Palm Beach, Florida"
+      },
+      "wpsl_store_category": [
+        28
+      ]
+    },
+    {
+      "id": 1316,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=michael-bell-copy-copy-copy-copy-copy",
+      "title": {
+        "rendered": "Fort Smith, Arkansas"
+      },
+      "wpsl_store_category": [
+        23
+      ]
+    },
+    {
+      "id": 1240,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=michael-bell-copy-copy-copy-copy",
+      "title": {
+        "rendered": "Clayton, North Carolina"
+      },
+      "wpsl_store_category": [
+        25
+      ]
+    },
+    {
+      "id": 1236,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=michael-bell-copy-copy-copy",
+      "title": {
+        "rendered": "Chesapeake, Virginia"
+      },
+      "wpsl_store_category": [
+        29
+      ]
+    },
+    {
+      "id": 1232,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=michael-bell-copy-copy",
+      "title": {
+        "rendered": "Chantilly, Virginia"
+      },
+      "wpsl_store_category": [
+        29
+      ]
+    },
+    {
+      "id": 982,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=michael-bell-copy",
+      "title": {
+        "rendered": "Fort Worth, Texas"
+      },
+      "wpsl_store_category": [
+        28
+      ]
+    },
+    {
+      "id": 623,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=rich-kane",
+      "title": {
+        "rendered": "Wilmington, Illinois"
+      },
+      "wpsl_store_category": [
+        30
+      ]
+    },
+    {
+      "id": 622,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=kristin-hoerst",
+      "title": {
+        "rendered": "West Berlin, New Jersey"
+      },
+      "wpsl_store_category": [
+        30
+      ]
+    },
+    {
+      "id": 621,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=michael-bell",
+      "title": {
+        "rendered": "Waycross, Georgia"
+      },
+      "wpsl_store_category": [
+        21
+      ]
+    },
+    {
+      "id": 620,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=jody-brannon",
+      "title": {
+        "rendered": "Tuscaloosa, Alabama"
+      },
+      "wpsl_store_category": [
+        22
+      ]
+    },
+    {
+      "id": 619,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=justin-gillon",
+      "title": {
+        "rendered": "Tupelo, Mississippi"
+      },
+      "wpsl_store_category": [
+        23
+      ]
+    },
+    {
+      "id": 618,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=jared-fuser",
+      "title": {
+        "rendered": "Tulsa, Oklahoma￼"
+      },
+      "wpsl_store_category": [
+        24
+      ]
+    },
+    {
+      "id": 617,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=mark-mathias",
+      "title": {
+        "rendered": "Trussville, Alabama"
+      },
+      "wpsl_store_category": [
+        30
+      ]
+    },
+    {
+      "id": 616,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=chad-paderick",
+      "title": {
+        "rendered": "Troutville, Virginia"
+      },
+      "wpsl_store_category": [
+        29
+      ]
+    },
+    {
+      "id": 615,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=steve-davis",
+      "title": {
+        "rendered": "Tallahassee, Florida"
+      },
+      "wpsl_store_category": [
+        28
+      ]
+    },
+    {
+      "id": 614,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=rob-morton",
+      "title": {
+        "rendered": "St. Louis, Missouri"
+      },
+      "wpsl_store_category": [
+        23
+      ]
+    },
+    {
+      "id": 613,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=bart-ennis",
+      "title": {
+        "rendered": "Springdale, Arkansas"
+      },
+      "wpsl_store_category": [
+        23
+      ]
+    },
+    {
+      "id": 612,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=jim-baker",
+      "title": {
+        "rendered": "Ferguson, Kentucky"
+      },
+      "wpsl_store_category": [
+        23
+      ]
+    },
+    {
+      "id": 611,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=brandon-ledbetter",
+      "title": {
+        "rendered": "Savannah, Georgia"
+      },
+      "wpsl_store_category": [
+        21
+      ]
+    },
+    {
+      "id": 610,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=bret-layton",
+      "title": {
+        "rendered": "Salt Lake City, Utah – High Country Fusion"
+      },
+      "wpsl_store_category": [
+        27
+      ]
+    },
+    {
+      "id": 609,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=mark-ripley",
+      "title": {
+        "rendered": "Richmond, Virginia"
+      },
+      "wpsl_store_category": [
+        25
+      ]
+    },
+    {
+      "id": 608,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=pete-dimario",
+      "title": {
+        "rendered": "Pensacola, Florida"
+      },
+      "wpsl_store_category": [
+        28
+      ]
+    },
+    {
+      "id": 607,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=joe-cobb",
+      "title": {
+        "rendered": "Orlando, Florida"
+      },
+      "wpsl_store_category": [
+        28
+      ]
+    },
+    {
+      "id": 606,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=brian-hamrick",
+      "title": {
+        "rendered": "Nashville, Tennessee"
+      },
+      "wpsl_store_category": [
+        23
+      ]
+    },
+    {
+      "id": 605,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=mark-harris",
+      "title": {
+        "rendered": "Montgomery, Alabama"
+      },
+      "wpsl_store_category": [
+        22
+      ]
+    },
+    {
+      "id": 604,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=tommy-hallmark",
+      "title": {
+        "rendered": "Mobile, Alabama"
+      },
+      "wpsl_store_category": [
+        28
+      ]
+    },
+    {
+      "id": 603,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=randy-bing",
+      "title": {
+        "rendered": "Memphis, Tennessee"
+      },
+      "wpsl_store_category": [
+        23
+      ]
+    },
+    {
+      "id": 602,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=jeff-diurba",
+      "title": {
+        "rendered": "Pittsburgh, Pennsylvania"
+      },
+      "wpsl_store_category": [
+        30
+      ]
+    },
+    {
+      "id": 601,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=terry-norman",
+      "title": {
+        "rendered": "Madison, Georgia"
+      },
+      "wpsl_store_category": [
+        20
+      ]
+    },
+    {
+      "id": 600,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=bryan-witcher",
+      "title": {
+        "rendered": "Macon, Georgia"
+      },
+      "wpsl_store_category": [
+        20
+      ]
+    },
+    {
+      "id": 599,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=tommy-weatherly",
+      "title": {
+        "rendered": "Longs, South Carolina"
+      },
+      "wpsl_store_category": [
+        21
+      ]
+    },
+    {
+      "id": 598,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=john-ramey",
+      "title": {
+        "rendered": "Little Rock, Arkansas"
+      },
+      "wpsl_store_category": [
+        23
+      ]
+    },
+    {
+      "id": 597,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=tim-hallmark",
+      "title": {
+        "rendered": "Lawrenceville, Georgia"
+      },
+      "wpsl_store_category": [
+        20
+      ]
+    },
+    {
+      "id": 596,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=byron-goble",
+      "title": {
+        "rendered": "Knoxville, Tennessee"
+      },
+      "wpsl_store_category": [
+        29
+      ]
+    },
+    {
+      "id": 595,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=sean-vandergriff",
+      "title": {
+        "rendered": "Piney Flats, Tennessee"
+      },
+      "wpsl_store_category": [
+        29
+      ]
+    },
+    {
+      "id": 594,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=todd-aebersold",
+      "title": {
+        "rendered": "Jeffersonville, Indiana"
+      },
+      "wpsl_store_category": [
+        23
+      ]
+    },
+    {
+      "id": 593,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=chance-hardin",
+      "title": {
+        "rendered": "Jackson, Mississippi"
+      },
+      "wpsl_store_category": [
+        28
+      ]
+    },
+    {
+      "id": 592,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=lubin-kruse",
+      "title": {
+        "rendered": "Huntsville, Alabama"
+      },
+      "wpsl_store_category": [
+        26
+      ]
+    },
+    {
+      "id": 590,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=james-shelton",
+      "title": {
+        "rendered": "Houston, Texas – Utility Sales"
+      },
+      "wpsl_store_category": [
+        9
+      ]
+    },
+    {
+      "id": 589,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=pat-johnson",
+      "title": {
+        "rendered": "Houston, Texas – Line Pipe"
+      },
+      "wpsl_store_category": [
+        24
+      ]
+    },
+    {
+      "id": 588,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=allen-lepine",
+      "title": {
+        "rendered": "Gulf Port, Mississippi"
+      },
+      "wpsl_store_category": [
+        28
+      ]
+    },
+    {
+      "id": 587,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=john-ballenger",
+      "title": {
+        "rendered": "Greenville, South Carolina"
+      },
+      "wpsl_store_category": [
+        25
+      ]
+    },
+    {
+      "id": 586,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=steve-pagley",
+      "title": {
+        "rendered": "Greenville, North Carolina"
+      },
+      "wpsl_store_category": [
+        25
+      ]
+    },
+    {
+      "id": 585,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=ty-womble",
+      "title": {
+        "rendered": "Greensboro, North Carolina"
+      },
+      "wpsl_store_category": [
+        25
+      ]
+    },
+    {
+      "id": 584,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=david-hanks",
+      "title": {
+        "rendered": "Fairfield, Idaho – High Country Fusion"
+      },
+      "wpsl_store_category": [
+        27
+      ]
+    },
+    {
+      "id": 583,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=michael-brice",
+      "title": {
+        "rendered": "Dickinson, North Dakota – High Country Fusion"
+      },
+      "wpsl_store_category": [
+        27
+      ]
+    },
+    {
+      "id": 582,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=joey-lee",
+      "title": {
+        "rendered": "Decatur, Alabama"
+      },
+      "wpsl_store_category": [
+        26
+      ]
+    },
+    {
+      "id": 581,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=brian-hansel",
+      "title": {
+        "rendered": "Debord, Kentucky"
+      },
+      "wpsl_store_category": [
+        23
+      ]
+    },
+    {
+      "id": 580,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=eddie-brewer",
+      "title": {
+        "rendered": "Florence, Kentucky"
+      },
+      "wpsl_store_category": [
+        23
+      ]
+    },
+    {
+      "id": 579,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=nick-groat",
+      "title": {
+        "rendered": "Columbus, Ohio – Line Pipe"
+      },
+      "wpsl_store_category": [
+        24
+      ]
+    },
+    {
+      "id": 578,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=trey-lewis",
+      "title": {
+        "rendered": "Columbus, Georgia"
+      },
+      "wpsl_store_category": [
+        20
+      ]
+    },
+    {
+      "id": 577,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=sonya-stoneburner",
+      "title": {
+        "rendered": "Columbia, South Carolina"
+      },
+      "wpsl_store_category": [
+        25
+      ]
+    },
+    {
+      "id": 576,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=david-jenkins",
+      "title": {
+        "rendered": "Chattanooga, Tennessee"
+      },
+      "wpsl_store_category": [
+        23
+      ]
+    },
+    {
+      "id": 575,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=jaret-lederman",
+      "title": {
+        "rendered": "Charlotte, North Carolina"
+      },
+      "wpsl_store_category": [
+        25
+      ]
+    },
+    {
+      "id": 574,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=bryon-teegardin",
+      "title": {
+        "rendered": "Charleston, South Carolina"
+      },
+      "wpsl_store_category": [
+        21
+      ]
+    },
+    {
+      "id": 573,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=matthew-mcgahagan",
+      "title": {
+        "rendered": "Canfield, Ohio – Line Pipe"
+      },
+      "wpsl_store_category": [
+        24
+      ]
+    },
+    {
+      "id": 572,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=craig-brown",
+      "title": {
+        "rendered": "Bowling Green, Kentucky"
+      },
+      "wpsl_store_category": [
+        23
+      ]
+    },
+    {
+      "id": 571,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=tom-conner",
+      "title": {
+        "rendered": "Blue Bell, Pennsylvania – Structural"
+      },
+      "wpsl_store_category": [
+        12
+      ]
+    },
+    {
+      "id": 570,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=james-gleason",
+      "title": {
+        "rendered": "Bethlehem, Pennsylvania – Structural"
+      },
+      "wpsl_store_category": [
+        12
+      ]
+    },
+    {
+      "id": 569,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=rus-newman",
+      "title": {
+        "rendered": "Auburn, Alabama"
+      },
+      "wpsl_store_category": [
+        22
+      ]
+    },
+    {
+      "id": 568,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=rob-stryker",
+      "title": {
+        "rendered": "Albany, Georgia"
+      },
+      "wpsl_store_category": [
+        21
+      ]
+    },
+    {
+      "id": 567,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=paul-harris",
+      "title": {
+        "rendered": "Acworth, Georgia"
+      },
+      "wpsl_store_category": [
+        20
+      ]
+    },
+    {
+      "id": 566,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=billy-turner",
+      "title": {
+        "rendered": "Athens, Alabama – Vulcan Plastics"
+      },
+      "wpsl_store_category": [
+        19
+      ]
+    },
+    {
+      "id": 565,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=donnie-finchum",
+      "title": {
+        "rendered": "Bessemer, Alabama – CCI"
+      },
+      "wpsl_store_category": [
+        18
+      ]
+    },
+    {
+      "id": 564,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=mike-zeanah",
+      "title": {
+        "rendered": "Birmingham, Alabama – Warehouse"
+      },
+      "wpsl_store_category": [
+        17
+      ]
+    },
+    {
+      "id": 563,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=jay-mizzell",
+      "title": {
+        "rendered": "Bessemer, Alabama – Specialty Coating"
+      },
+      "wpsl_store_category": [
+        16
+      ]
+    },
+    {
+      "id": 562,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=chris-brasher",
+      "title": {
+        "rendered": "Bessemer, Alabama – Structural"
+      },
+      "wpsl_store_category": [
+        12
+      ]
+    },
+    {
+      "id": 561,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=jeff-hallmark",
+      "title": {
+        "rendered": "Birmingham, Alabama – Thin Film Plant"
+      },
+      "wpsl_store_category": [
+        15
+      ]
+    },
+    {
+      "id": 560,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=bill-henke-2",
+      "title": {
+        "rendered": "Birmingham, Alabama – Valve Controls"
+      },
+      "wpsl_store_category": [
+        14
+      ]
+    },
+    {
+      "id": 559,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=travis-stephens",
+      "title": {
+        "rendered": "Birmingham, Alabama – Treatment Plant"
+      },
+      "wpsl_store_category": [
+        13
+      ]
+    },
+    {
+      "id": 557,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=brian-rogers",
+      "title": {
+        "rendered": "Birmingham, Alabama – Piling &#038; Structural"
+      },
+      "wpsl_store_category": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": 556,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=charlie-hamrick",
+      "title": {
+        "rendered": "Birmingham, Alabama – Line Pipe"
+      },
+      "wpsl_store_category": [
+        10
+      ]
+    },
+    {
+      "id": 555,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=darryl-fleming",
+      "title": {
+        "rendered": "Birmingham, Alabama – Utility"
+      },
+      "wpsl_store_category": [
+        9
+      ]
+    },
+    {
+      "id": 554,
+      "link": "https://consolidatedpipe.com/?wpsl_stores=bill-henke",
+      "title": {
+        "rendered": "Birmingham, Alabama – Industrial Sales"
+      },
+      "wpsl_store_category": [
+        8
+      ]
+    }
+  ],
+  "stores": [
+    {
+      "id": 618,
+      "store": "Tulsa, Oklahoma￼",
+      "address": "10800 East 51st Street",
+      "address2": "",
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "zip": "74146",
+      "phone": "918-724-4298",
+      "lat": "36.089354",
+      "lng": "-95.856307"
+    },
+    {
+      "id": 613,
+      "store": "Springdale, Arkansas",
+      "address": "874 West Henri-De-Tonti Blvd",
+      "address2": "",
+      "city": "Springdale",
+      "state": "Arkansas",
+      "zip": "72762",
+      "phone": "479-365-7219",
+      "lat": "36.177286",
+      "lng": "-94.248837"
+    },
+    {
+      "id": 1316,
+      "store": "Fort Smith, Arkansas",
+      "address": "2800 Wheeler Ave",
+      "address2": "",
+      "city": "Fort Smith",
+      "state": "Arkansas",
+      "zip": "72901",
+      "phone": "(479) 806-1039",
+      "lat": "35.357138",
+      "lng": "-94.427486"
+    },
+    {
+      "id": 1387,
+      "store": "Denver, Colorado",
+      "address": "13505 East 112th Ave",
+      "address2": "",
+      "city": "Brighton",
+      "state": "Colorado",
+      "zip": "80603",
+      "phone": "701-300-4308",
+      "lat": "39.899826",
+      "lng": "-104.828731"
+    },
+    {
+      "id": 614,
+      "store": "St. Louis, Missouri",
+      "address": "801 Marshall Rd",
+      "address2": "",
+      "city": "St. Louis",
+      "state": "Missouri",
+      "zip": "63088",
+      "phone": "636-825-6678",
+      "lat": "38.551255",
+      "lng": "-90.477296"
+    },
+    {
+      "id": 982,
+      "store": "Fort Worth, Texas",
+      "address": "12319 N Saginaw Blvd",
+      "address2": "",
+      "city": "Fort Worth",
+      "state": "Texas",
+      "zip": "76179",
+      "phone": "682-610-9714",
+      "lat": "32.951613",
+      "lng": "-97.422256"
+    },
+    {
+      "id": 598,
+      "store": "Little Rock, Arkansas",
+      "address": "4 Production Dr",
+      "address2": "",
+      "city": "Little Rock",
+      "state": "Arkansas",
+      "zip": "72209",
+      "phone": "501-371-9520",
+      "lat": "34.671347",
+      "lng": "-92.367827"
+    },
+    {
+      "id": 603,
+      "store": "Memphis, Tennessee",
+      "address": "190 Mann Dr",
+      "address2": "",
+      "city": "Collierville",
+      "state": "Tennessee",
+      "zip": "38017",
+      "phone": "901-850-3200",
+      "lat": "35.006364",
+      "lng": "-89.64247"
+    },
+    {
+      "id": 623,
+      "store": "Wilmington, Illinois",
+      "address": "23920 Stripmine Rd",
+      "address2": "",
+      "city": "Wilmington",
+      "state": "Illinois",
+      "zip": "60481",
+      "phone": "815-476-5266",
+      "lat": "41.30487",
+      "lng": "-88.188086"
+    },
+    {
+      "id": 1825,
+      "store": "Austin, Texas",
+      "address": "1201 County Rd 311",
+      "address2": "",
+      "city": "Jarrell",
+      "state": "Texas",
+      "zip": "72212",
+      "phone": "",
+      "lat": "30.777606",
+      "lng": "-97.607889"
+    },
+    {
+      "id": 583,
+      "store": "Dickinson, North Dakota – High Country Fusion",
+      "address": "11118 30J St SW",
+      "address2": "",
+      "city": "Dickinson",
+      "state": "North Dakota",
+      "zip": "58601",
+      "phone": "701-483-4232",
+      "lat": "46.9725",
+      "lng": "-102.793623"
+    },
+    {
+      "id": 619,
+      "store": "Tupelo, Mississippi",
+      "address": "2505 Mattox St",
+      "address2": "",
+      "city": "Tupelo",
+      "state": "Mississippi",
+      "zip": "38801",
+      "phone": "662-841-1270",
+      "lat": "34.220462",
+      "lng": "-88.713492"
+    },
+    {
+      "id": 593,
+      "store": "Jackson, Mississippi",
+      "address": "110 Morris Drive",
+      "address2": "",
+      "city": "Brandon",
+      "state": "Mississippi",
+      "zip": "39042",
+      "phone": "601-922-6600",
+      "lat": "32.292240",
+      "lng": "-90.284050"
+    },
+    {
+      "id": 590,
+      "store": "Houston, Texas – Utility Sales",
+      "address": "18501 Aldine Westfield Rd",
+      "address2": "",
+      "city": "Houston",
+      "state": "Texas",
+      "zip": "77073",
+      "phone": "281-214-7060",
+      "lat": "29.987684",
+      "lng": "-95.367748"
+    },
+    {
+      "id": 606,
+      "store": "Nashville, Tennessee",
+      "address": "1500 County Hospital Rd",
+      "address2": "",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "zip": "37218",
+      "phone": "615-242-4286",
+      "lat": "36.185246",
+      "lng": "-86.841368"
+    },
+    {
+      "id": 572,
+      "store": "Bowling Green, Kentucky",
+      "address": "768 Interstate Dr",
+      "address2": "",
+      "city": "Bowling Green",
+      "state": "Kentucky",
+      "zip": "42101",
+      "phone": "270-393-8311",
+      "lat": "37.007306",
+      "lng": "-86.369947"
+    },
+    {
+      "id": 589,
+      "store": "Houston, Texas – Line Pipe",
+      "address": "15810 Park Ten Place, Suite 180",
+      "address2": "",
+      "city": "Houston",
+      "state": "Texas",
+      "zip": "77084",
+      "phone": "(281) 558-4413",
+      "lat": "29.787307",
+      "lng": "-95.660017"
+    },
+    {
+      "id": 594,
+      "store": "Jeffersonville, Indiana",
+      "address": "2821 Sable Mill Ln",
+      "address2": "",
+      "city": "Jeffersonville",
+      "state": "Indiana",
+      "zip": "47130",
+      "phone": "812-280-0100",
+      "lat": "38.351052",
+      "lng": "-85.740523"
+    },
+    {
+      "id": 1823,
+      "store": "Lake Charles, Louisiana",
+      "address": "4280 Goodman Lane",
+      "address2": "",
+      "city": "Lake Charles",
+      "state": "LA",
+      "zip": "74213",
+      "phone": "",
+      "lat": "30.234521",
+      "lng": "-93.155828"
+    },
+    {
+      "id": 566,
+      "store": "Athens, Alabama – Vulcan Plastics",
+      "address": "207 Durham Dr SW",
+      "address2": "",
+      "city": "Athens",
+      "state": "Alabama",
+      "zip": "35611",
+      "phone": "256-233-3520",
+      "lat": "34.769139",
+      "lng": "-86.973436"
+    },
+    {
+      "id": 582,
+      "store": "Decatur, Alabama",
+      "address": "3436 Hwy 20 West",
+      "address2": "",
+      "city": "Decatur",
+      "state": "Alabama",
+      "zip": "35603",
+      "phone": "256-353-6511",
+      "lat": "34.618908",
+      "lng": "-87.067275"
+    },
+    {
+      "id": 592,
+      "store": "Huntsville, Alabama",
+      "address": "200 Production Ave",
+      "address2": "",
+      "city": "Madison",
+      "state": "Alabama",
+      "zip": "35758",
+      "phone": "256-850-8100",
+      "lat": "34.673484",
+      "lng": "-86.770506"
+    },
+    {
+      "id": 620,
+      "store": "Tuscaloosa, Alabama",
+      "address": "1812 Culver Rd",
+      "address2": "",
+      "city": "Tuscaloosa",
+      "state": "Alabama",
+      "zip": "35401",
+      "phone": "205-722-0021",
+      "lat": "33.197111",
+      "lng": "-87.59622"
+    },
+    {
+      "id": 580,
+      "store": "Florence, Kentucky",
+      "address": "7705 Foundation Dr.",
+      "address2": "",
+      "city": "Florence",
+      "state": "Kentucky",
+      "zip": "41042",
+      "phone": "859-261-0319",
+      "lat": "38.9828397",
+      "lng": "-84.5952615"
+    },
+    {
+      "id": 561,
+      "store": "Birmingham, Alabama – Thin Film Plant",
+      "address": "1121 Brock Industiral Dr",
+      "address2": "",
+      "city": "Birmingham",
+      "state": "Alabama",
+      "zip": "35208",
+      "phone": "205-323-7261",
+      "lat": "33.518337",
+      "lng": "-86.872825"
+    },
+    {
+      "id": 563,
+      "store": "Bessemer, Alabama – Specialty Coating",
+      "address": "2095 4th Ave SW",
+      "address2": "",
+      "city": "Bessemer",
+      "state": "Alabama",
+      "zip": "35022",
+      "phone": "205-477-5889",
+      "lat": "33.339803",
+      "lng": "-87.00416"
+    },
+    {
+      "id": 562,
+      "store": "Bessemer, Alabama – Structural",
+      "address": "801 Labarge Dr",
+      "address2": "",
+      "city": "Bessemer",
+      "state": "Alabama",
+      "zip": "35022",
+      "phone": "205-323-7261",
+      "lat": "33.352318",
+      "lng": "-86.986387"
+    },
+    {
+      "id": 565,
+      "store": "Bessemer, Alabama – CCI",
+      "address": "801 Labarge Dr",
+      "address2": "",
+      "city": "Bessemer",
+      "state": "Alabama",
+      "zip": "35022",
+      "phone": "205-323-7261",
+      "lat": "33.352318",
+      "lng": "-86.986387"
+    },
+    {
+      "id": 554,
+      "store": "Birmingham, Alabama – Industrial Sales",
+      "address": "750 Tom Martin Dr",
+      "address2": "",
+      "city": "Birmingham",
+      "state": "Alabama",
+      "zip": "35211",
+      "phone": "205-323-7261",
+      "lat": "33.435555",
+      "lng": "-86.852898"
+    },
+    {
+      "id": 555,
+      "store": "Birmingham, Alabama – Utility",
+      "address": "750 Tom Martin Dr",
+      "address2": "",
+      "city": "Birmingham",
+      "state": "Alabama",
+      "zip": "35211",
+      "phone": "205-323-7261",
+      "lat": "33.435555",
+      "lng": "-86.852898"
+    },
+    {
+      "id": 556,
+      "store": "Birmingham, Alabama – Line Pipe",
+      "address": "750 Tom Martin Dr",
+      "address2": "",
+      "city": "Birmingham",
+      "state": "Alabama",
+      "zip": "35211",
+      "phone": "205-323-7261",
+      "lat": "33.435555",
+      "lng": "-86.852898"
+    },
+    {
+      "id": 557,
+      "store": "Birmingham, Alabama – Piling &#038; Structural",
+      "address": "750 Tom Martin Dr",
+      "address2": "",
+      "city": "Birmingham",
+      "state": "Alabama",
+      "zip": "35211",
+      "phone": "205-323-7261",
+      "lat": "33.435555",
+      "lng": "-86.852898"
+    },
+    {
+      "id": 559,
+      "store": "Birmingham, Alabama – Treatment Plant",
+      "address": "750 Tom Martin Dr",
+      "address2": "",
+      "city": "Birmingham",
+      "state": "Alabama",
+      "zip": "35211",
+      "phone": "205-323-7261",
+      "lat": "33.435555",
+      "lng": "-86.852898"
+    },
+    {
+      "id": 560,
+      "store": "Birmingham, Alabama – Valve Controls",
+      "address": "750 Tom Martin Dr",
+      "address2": "",
+      "city": "Birmingham",
+      "state": "Alabama",
+      "zip": "35211",
+      "phone": "205-323-7261",
+      "lat": "33.435555",
+      "lng": "-86.852898"
+    },
+    {
+      "id": 564,
+      "store": "Birmingham, Alabama – Warehouse",
+      "address": "750 Tom Martin Drive",
+      "address2": "",
+      "city": "Birmingham",
+      "state": "Alabama",
+      "zip": "35211",
+      "phone": "205-323-7261",
+      "lat": "33.435555",
+      "lng": "-86.852898"
+    },
+    {
+      "id": 617,
+      "store": "Trussville, Alabama",
+      "address": "3556 Mary Taylor Rd",
+      "address2": "",
+      "city": "Trussville",
+      "state": "Alabama",
+      "zip": "35235",
+      "phone": "205-655-5515",
+      "lat": "33.606842",
+      "lng": "-86.627804"
+    },
+    {
+      "id": 612,
+      "store": "Ferguson, Kentucky",
+      "address": "265 Thouroughbred Dr",
+      "address2": "",
+      "city": "Ferguson",
+      "state": "Kentucky",
+      "zip": "42533",
+      "phone": "606-679-1999",
+      "lat": "37.055336",
+      "lng": "-84.592661"
+    },
+    {
+      "id": 610,
+      "store": "Salt Lake City, Utah – High Country Fusion",
+      "address": "3150 W Haun Drive",
+      "address2": "",
+      "city": "West Jordan",
+      "state": "Utah",
+      "zip": "84088",
+      "phone": "801-355-3877",
+      "lat": "40.6097",
+      "lng": "-111.9391"
+    },
+    {
+      "id": 576,
+      "store": "Chattanooga, Tennessee",
+      "address": "912 West 33rd",
+      "address2": "",
+      "city": "Chattanooga",
+      "state": "Tennessee",
+      "zip": "37410",
+      "phone": "423-493-9500",
+      "lat": "35.01518",
+      "lng": "-85.316126"
+    },
+    {
+      "id": 588,
+      "store": "Gulf Port, Mississippi",
+      "address": "10250 Larkin Smith Dr",
+      "address2": "",
+      "city": "Gulf Port",
+      "state": "Mississippi",
+      "zip": "39503",
+      "phone": "228-396-8818",
+      "lat": "30.435415",
+      "lng": "-89.060593"
+    },
+    {
+      "id": 596,
+      "store": "Knoxville, Tennessee",
+      "address": "7224 Ball Camp Pike",
+      "address2": "",
+      "city": "Knoxville",
+      "state": "Tennessee",
+      "zip": "37931",
+      "phone": "865-690-6907",
+      "lat": "35.973229",
+      "lng": "-84.059357"
+    },
+    {
+      "id": 579,
+      "store": "Columbus, Ohio – Line Pipe",
+      "address": "800 N High St",
+      "address2": "",
+      "city": "Columbus",
+      "state": "Ohio",
+      "zip": "43215",
+      "phone": "330-207-3921",
+      "lat": "39.9787",
+      "lng": "-83.003278"
+    },
+    {
+      "id": 604,
+      "store": "Mobile, Alabama",
+      "address": "4180 Halls Mill Rd",
+      "address2": "",
+      "city": "Mobile",
+      "state": "Alabama",
+      "zip": "36693",
+      "phone": "251-666-6691",
+      "lat": "30.623052",
+      "lng": "-88.13909"
+    },
+    {
+      "id": 605,
+      "store": "Montgomery, Alabama",
+      "address": "77 Eastwood Villa Blvd",
+      "address2": "",
+      "city": "Montgomery",
+      "state": "Alabama",
+      "zip": "36117",
+      "phone": "334-272-5544",
+      "lat": "32.371706",
+      "lng": "-86.056824"
+    },
+    {
+      "id": 567,
+      "store": "Acworth, Georgia",
+      "address": "3400 Novis Pointe NW",
+      "address2": "",
+      "city": "Acworth",
+      "state": "Georgia",
+      "zip": "30101",
+      "phone": "678-574-7480",
+      "lat": "34.058116",
+      "lng": "-84.647953"
+    },
+    {
+      "id": 569,
+      "store": "Auburn, Alabama",
+      "address": "3920 Masters Ct",
+      "address2": "",
+      "city": "Auburn",
+      "state": "Alabama",
+      "zip": "36830",
+      "phone": "334-826-2108",
+      "lat": "32.54392",
+      "lng": "-85.519803"
+    },
+    {
+      "id": 581,
+      "store": "Debord, Kentucky",
+      "address": "907 Honey Branch Ind. Park",
+      "address2": "",
+      "city": "Debord",
+      "state": "Kentucky",
+      "zip": "41214",
+      "phone": "606-298-0333",
+      "lat": "37.768331",
+      "lng": "-82.643412"
+    },
+    {
+      "id": 608,
+      "store": "Pensacola, Florida",
+      "address": "3100 McCormick St",
+      "address2": "",
+      "city": "Pensacola",
+      "state": "Florida",
+      "zip": "32515",
+      "phone": "850-476-1122",
+      "lat": "30.531133",
+      "lng": "-87.201749"
+    },
+    {
+      "id": 597,
+      "store": "Lawrenceville, Georgia",
+      "address": "194 Hurricane Shoals Rd",
+      "address2": "",
+      "city": "Lawrenceville",
+      "state": "Georgia",
+      "zip": "30046",
+      "phone": "770-822-9664",
+      "lat": "33.968047",
+      "lng": "-83.997285"
+    },
+    {
+      "id": 578,
+      "store": "Columbus, Georgia",
+      "address": "5200 Transport Blvd",
+      "address2": "",
+      "city": "Columbus",
+      "state": "Georgia",
+      "zip": "31907",
+      "phone": "706-569-9114",
+      "lat": "32.516911",
+      "lng": "-84.872836"
+    },
+    {
+      "id": 601,
+      "store": "Madison, Georgia",
+      "address": "10887 Old Atlanta Hwy",
+      "address2": "",
+      "city": "Covington",
+      "state": "Georgia",
+      "zip": "30014",
+      "phone": "678-342-7666",
+      "lat": "33.614288",
+      "lng": "-83.906386"
+    },
+    {
+      "id": 595,
+      "store": "Piney Flats, Tennessee",
+      "address": "722 Mountain View Dr",
+      "address2": "",
+      "city": "Piney Flats",
+      "state": "Tennessee",
+      "zip": "37686",
+      "phone": "423-538-8000",
+      "lat": "36.428348",
+      "lng": "-82.288242"
+    },
+    {
+      "id": 587,
+      "store": "Greenville, South Carolina",
+      "address": "1727 White Horse Rd",
+      "address2": "",
+      "city": "Greenville",
+      "state": "South Carolina",
+      "zip": "29605",
+      "phone": "864-964-9370",
+      "lat": "34.796083",
+      "lng": "-82.421907"
+    },
+    {
+      "id": 600,
+      "store": "Macon, Georgia",
+      "address": "419 Chapman Rd",
+      "address2": "",
+      "city": "Byron",
+      "state": "Georgia",
+      "zip": "31008",
+      "phone": "",
+      "lat": "32.672029",
+      "lng": "-83.746498"
+    },
+    {
+      "id": 1383,
+      "store": "Byron, Georgia",
+      "address": "419 Chapman Rd.",
+      "address2": "",
+      "city": "Byron",
+      "state": "Georgia",
+      "zip": "31008",
+      "phone": "478-956-4777",
+      "lat": "32.672029",
+      "lng": "-83.746498"
+    },
+    {
+      "id": 584,
+      "store": "Fairfield, Idaho – High Country Fusion",
+      "address": "20 N Poly Fusion Pl",
+      "address2": "",
+      "city": "Fairfield",
+      "state": "Idaho",
+      "zip": "83327",
+      "phone": "208-764-2000",
+      "lat": "43.346568",
+      "lng": "-114.791728"
+    },
+    {
+      "id": 568,
+      "store": "Albany, Georgia",
+      "address": "600 Oakland Ct",
+      "address2": "",
+      "city": "Leesburg",
+      "state": "Georgia",
+      "zip": "31763",
+      "phone": "229-878-0239",
+      "lat": "31.661165",
+      "lng": "-84.273103"
+    },
+    {
+      "id": 573,
+      "store": "Canfield, Ohio – Line Pipe",
+      "address": "6608 Ridgely Court",
+      "address2": "",
+      "city": "Poland",
+      "state": "Ohio",
+      "zip": "44514",
+      "phone": "330-655-1672",
+      "lat": "41.02072",
+      "lng": "-80.58789"
+    },
+    {
+      "id": 602,
+      "store": "Pittsburgh, Pennsylvania",
+      "address": "3844 South Water Street",
+      "address2": "",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zip": "15203",
+      "phone": "412-678-1010",
+      "lat": "40.353275",
+      "lng": "-79.856056"
+    },
+    {
+      "id": 615,
+      "store": "Tallahassee, Florida",
+      "address": "4453 Entrepot Blvd",
+      "address2": "",
+      "city": "Tallahassee",
+      "state": "Florida",
+      "zip": "32310",
+      "phone": "850-575-0846",
+      "lat": "30.39921",
+      "lng": "-84.324539"
+    },
+    {
+      "id": 575,
+      "store": "Charlotte, North Carolina",
+      "address": "201 East 16th St",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "zip": "28206",
+      "phone": "704-373-1880",
+      "lat": "35.236496",
+      "lng": "-80.828004"
+    },
+    {
+      "id": 616,
+      "store": "Troutville, Virginia",
+      "address": "221 Precast Way",
+      "address2": "",
+      "city": "Troutville",
+      "state": "Virginia",
+      "zip": "24175",
+      "phone": "540-591-5572",
+      "lat": "37.409363",
+      "lng": "-79.900195"
+    },
+    {
+      "id": 577,
+      "store": "Columbia, South Carolina",
+      "address": "1918 Bluff Rd",
+      "address2": "",
+      "city": "Columbia",
+      "state": "South Carolina",
+      "zip": "29201",
+      "phone": "803-799-3210",
+      "lat": "33.961348",
+      "lng": "-80.998632"
+    },
+    {
+      "id": 585,
+      "store": "Greensboro, North Carolina",
+      "address": "2410 Binford St",
+      "address2": "",
+      "city": "Greensboro",
+      "state": "North Carolina",
+      "zip": "27407",
+      "phone": "336-294-8577",
+      "lat": "36.056977",
+      "lng": "-79.833964"
+    },
+    {
+      "id": 621,
+      "store": "Waycross, Georgia",
+      "address": "3950 Brunswick Hwy",
+      "address2": "",
+      "city": "Waycross",
+      "state": "Georgia",
+      "zip": "31503",
+      "phone": "912-283-1114",
+      "lat": "31.19331",
+      "lng": "-82.289939"
+    },
+    {
+      "id": 611,
+      "store": "Savannah, Georgia",
+      "address": "4894 Old Louisville Rd",
+      "address2": "",
+      "city": "Savannah",
+      "state": "Georgia",
+      "zip": "31408",
+      "phone": "912-964-4333",
+      "lat": "32.097138",
+      "lng": "-81.192447"
+    },
+    {
+      "id": 1381,
+      "store": "Lake City, Florida",
+      "address": "1956 SW Main Blvd",
+      "address2": "",
+      "city": "Lake City",
+      "state": "FL",
+      "zip": "32025",
+      "phone": "(386) 288 - 8149",
+      "lat": "30.162716",
+      "lng": "-82.642816"
+    },
+    {
+      "id": 574,
+      "store": "Charleston, South Carolina",
+      "address": "7100 Design St, Bldg 600",
+      "address2": "",
+      "city": "Charleston",
+      "state": "South Carolina",
+      "zip": "29418",
+      "phone": "843-973-5164",
+      "lat": "32.912738",
+      "lng": "-80.064974"
+    },
+    {
+      "id": 1240,
+      "store": "Clayton, North Carolina",
+      "address": "4700 Guy Rd.",
+      "address2": "",
+      "city": "Clayton",
+      "state": "North Carolina",
+      "zip": "27520",
+      "phone": "919-243-6410",
+      "lat": "35.672915",
+      "lng": "-78.519662"
+    },
+    {
+      "id": 1232,
+      "store": "Chantilly, Virginia",
+      "address": "14926 Willard Rd",
+      "address2": "",
+      "city": "Chantilly",
+      "state": "Virginia",
+      "zip": "20151",
+      "phone": "571-910-7890",
+      "lat": "38.890001",
+      "lng": "-77.460734"
+    },
+    {
+      "id": 609,
+      "store": "Richmond, Virginia",
+      "address": "1516 Commerce Rd",
+      "address2": "",
+      "city": "Richmond",
+      "state": "Virginia",
+      "zip": "23224",
+      "phone": "804-232-7600",
+      "lat": "37.507169",
+      "lng": "-77.429184"
+    },
+    {
+      "id": 599,
+      "store": "Longs, South Carolina",
+      "address": "2320 Monaca Drive",
+      "address2": "",
+      "city": "Longs",
+      "state": "South Carolina",
+      "zip": "29568",
+      "phone": "843-399-0033",
+      "lat": "33.853794",
+      "lng": "-78.815183"
+    },
+    {
+      "id": 1756,
+      "store": "Cortland, New York",
+      "address": "3901 Route 11",
+      "address2": "",
+      "city": "Cortland",
+      "state": "New York",
+      "zip": "13045",
+      "phone": "",
+      "lat": "42.594412",
+      "lng": "-76.148529"
+    },
+    {
+      "id": 607,
+      "store": "Orlando, Florida",
+      "address": "3010 Eunice Ave",
+      "address2": "",
+      "city": "Orlando",
+      "state": "Florida",
+      "zip": "32808",
+      "phone": "407-293-2001",
+      "lat": "28.582375",
+      "lng": "-81.423817"
+    },
+    {
+      "id": 1236,
+      "store": "Chesapeake, Virginia",
+      "address": "209 Sampson Creek Rd",
+      "address2": "",
+      "city": "Chesapeake",
+      "state": "Virginia",
+      "zip": "23322",
+      "phone": "757-550-6040",
+      "lat": "36.731805",
+      "lng": "-76.298119"
+    },
+    {
+      "id": 570,
+      "store": "Bethlehem, Pennsylvania – Structural",
+      "address": "1650 Riverside Dr",
+      "address2": "",
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "zip": "18015",
+      "phone": "570-332-6746",
+      "lat": "40.621939",
+      "lng": "-75.333206"
+    },
+    {
+      "id": 571,
+      "store": "Blue Bell, Pennsylvania – Structural",
+      "address": "650 Sentry Pkwy, Suite 1",
+      "address2": "",
+      "city": "Blue Bell",
+      "state": "Pennsylvania",
+      "zip": "19422",
+      "phone": "610-941-2110",
+      "lat": "40.132281",
+      "lng": "-75.2694"
+    },
+    {
+      "id": 1385,
+      "store": "Doylestown, Pennsylvania",
+      "address": "4210 Burnt House Hill Rd.",
+      "address2": "",
+      "city": "Doylestown",
+      "state": "Pennsylvania",
+      "zip": "18902",
+      "phone": "267-351-9170",
+      "lat": "40.346941",
+      "lng": "-75.111981"
+    },
+    {
+      "id": 622,
+      "store": "West Berlin, New Jersey",
+      "address": "151 Cooper Rd",
+      "address2": "",
+      "city": "West Berlin",
+      "state": "New Jersey",
+      "zip": "08091",
+      "phone": "856-322-5270",
+      "lat": "39.816959",
+      "lng": "-74.922502"
+    },
+    {
+      "id": 1374,
+      "store": "West Palm Beach, Florida",
+      "address": "5205 Tyler Lakes Blvd",
+      "address2": "",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "zip": "33407",
+      "phone": "(754) 799 - 7670",
+      "lat": "26.753945",
+      "lng": "-80.118684"
+    }
+  ]
+}
